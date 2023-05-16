@@ -1,6 +1,6 @@
 To get country wise segreation of dataset with columns for gender for each country :
 ```
-python country_wise_names_segreation.py
+python country_wise_names_segregation.py
 ```
 
 
