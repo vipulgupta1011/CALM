@@ -3,6 +3,10 @@ To get country wise segreation of dataset with columns for gender for each count
 python country_wise_names_segregation.py
 ```
 
+To get gender segregation for males and females on US dataset :
+```
+python generate_gender_names.py
+```
 
 
 Gender dataset :
