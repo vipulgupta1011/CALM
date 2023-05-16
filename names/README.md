@@ -1,15 +1,24 @@
+To get country wise segreation of dataset with columns for gender for each country :
+```
+python country_wise_names_segreation.py
+```
+
+
+
 Gender dataset :
 
 Social security US data - https://www.ssa.gov/oact/babynames/limits.html
+
+Office of National Statistics UK data - https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys
+
+
+Additional gender dataset, currently not getting used : 
 
 multiple countries -> https://archive.ics.uci.edu/ml/datasets/Gender+by+Name , combines open-source government data from the US, UK, Canada, and Australia
 
 celebrity names -> Wikipedia's 100 Most Controversial People from https://www.forbes.com/sites/jvchamary/2016/01/25/wikipedia-people/?sh=48c625e96ffb  (reference from "Perturbation Sensitivity Analysis to Detect Unintended Model Biases")
 
 american Name census data 2020 - 1200 males, 4000 females
-
-One possibility is to use from US social security names data which has >80% occurence in one gender
-
 
 
 
