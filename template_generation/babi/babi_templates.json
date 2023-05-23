@@ -1,0 +1,317 @@
+{
+    "0": {
+        "question": "Where was <PERSON> before the bathroom?",
+        "context": "This evening Mary went to the bathroom. Sandra went to the garden this afternoon. Sandra travelled to the bedroom yesterday. Yesterday <PERSON> moved to the office. This afternoon <PERSON> went to the bathroom. John journeyed to the kitchen this evening. This afternoon Mary travelled to the garden. Mary travelled to the hallway yesterday.",
+        "answer": "office",
+        "task_no": 14,
+        "source_dataset": "babi"
+    },
+    "1": {
+        "question": "Where was <PERSON> before the kitchen?",
+        "context": "<PERSON> travelled to the kitchen this evening. Mary travelled to the bathroom this evening. This morning Mary went to the bedroom. This afternoon <PERSON> went to the bedroom. <PERSON> moved to the bathroom yesterday. This evening Sandra moved to the hallway. Sandra travelled to the office this morning. This evening Daniel went to the kitchen. This afternoon Mary travelled to the garden. Sandra moved to the kitchen yesterday.",
+        "answer": "bedroom",
+        "task_no": 14,
+        "source_dataset": "babi"
+    },
+    "2": {
+        "question": "Where was <PERSON> before the bedroom?",
+        "context": "<PERSON> travelled to the kitchen this evening. Mary travelled to the bathroom this evening. This morning Mary went to the bedroom. This afternoon <PERSON> went to the bedroom. <PERSON> moved to the bathroom yesterday. This evening Sandra moved to the hallway. Sandra travelled to the office this morning. This evening Daniel went to the kitchen. This afternoon Mary travelled to the garden. Sandra moved to the kitchen yesterday. Mary travelled to the hallway yesterday. This morning Daniel moved to the bedroom.",
+        "answer": "bathroom",
+        "task_no": 14,
+        "source_dataset": "babi"
+    },
+    "3": {
+        "question": "Where was <PERSON> before the office?",
+        "context": "This evening <PERSON> went to the bathroom. <PERSON> travelled to the garden this morning. <PERSON> went to the office this afternoon. Daniel moved to the office this afternoon. Yesterday Sandra moved to the kitchen. Sandra moved to the bathroom this afternoon.",
+        "answer": "garden",
+        "task_no": 14,
+        "source_dataset": "babi"
+    },
+    "4": {
+        "question": "Where was <PERSON> before the bedroom?",
+        "context": "This afternoon Daniel moved to the hallway. Mary went to the bathroom yesterday. This afternoon Mary went to the kitchen. This morning Mary journeyed to the office. Daniel moved to the kitchen yesterday. <PERSON> travelled to the kitchen this morning. <PERSON> went to the bedroom this afternoon. Mary moved to the bedroom this evening. Sandra went to the hallway this evening. Sandra travelled to the bedroom yesterday.",
+        "answer": "kitchen",
+        "task_no": 14,
+        "source_dataset": "babi"
+    },
+    "5": {
+        "question": "Where is <PERSON>?",
+        "context": "Mary and Sandra moved to the bathroom. Following that they went to the bedroom. Mary and Sandra went to the office. After that they travelled to the bathroom. <PERSON> and Sandra went to the garden. Following that they went to the bathroom.",
+        "answer": "bathroom",
+        "task_no": 13,
+        "source_dataset": "babi"
+    },
+    "6": {
+        "question": "Where is <PERSON>?",
+        "context": "Sandra and <PERSON> moved to the bedroom. Then they went to the bathroom. <PERSON> and Sandra journeyed to the kitchen. Following that they journeyed to the hallway. Sandra and Mary went to the garden. Following that they went to the bathroom. Mary and <PERSON> went to the garden. Following that they moved to the hallway.",
+        "answer": "hallway",
+        "task_no": 13,
+        "source_dataset": "babi"
+    },
+    "7": {
+        "question": "Where is <PERSON>?",
+        "context": "John and Sandra travelled to the garden. Then they moved to the office. <PERSON> and John journeyed to the garden. Then they went to the bathroom. John and <PERSON> travelled to the garden. After that they moved to the office. <PERSON> and John moved to the hallway. After that they travelled to the bedroom.",
+        "answer": "bedroom",
+        "task_no": 13,
+        "source_dataset": "babi"
+    },
+    "8": {
+        "question": "Where is <PERSON>?",
+        "context": "Sandra and Mary travelled to the bedroom. Then they moved to the hallway. <PERSON> and Daniel journeyed to the garden. After that they travelled to the kitchen.",
+        "answer": "kitchen",
+        "task_no": 13,
+        "source_dataset": "babi"
+    },
+    "9": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> and Daniel moved to the bedroom. Following that they moved to the office. Sandra and John travelled to the garden. Then they journeyed to the office. <PERSON> and Daniel moved to the office. Following that they journeyed to the garden.",
+        "answer": "garden",
+        "task_no": 13,
+        "source_dataset": "babi"
+    },
+    "10": {
+        "question": "Where is <PERSON>?",
+        "context": "John and Daniel went to the bathroom. Then they journeyed to the office. Daniel and Mary travelled to the hallway. Following that they journeyed to the bedroom. Daniel and <PERSON> travelled to the kitchen. Following that they travelled to the garden. <PERSON> and Mary journeyed to the bathroom. After that they travelled to the office.",
+        "answer": "office",
+        "task_no": 13,
+        "source_dataset": "babi"
+    },
+    "11": {
+        "question": "What is <PERSON> holding?",
+        "context": "<PERSON> grabbed the football. John got the apple. Daniel travelled to the office. John went to the hallway. <PERSON> let go of the football. John dropped the apple.",
+        "answer": "nothing",
+        "task_no": 8,
+        "source_dataset": "babi"
+    },
+    "12": {
+        "question": "What is <PERSON> holding?",
+        "context": "<PERSON> took the football. John grabbed the milk. John went to the garden. Mary journeyed to the office. John gave <PERSON> the milk. <PERSON> gave John the milk.",
+        "answer": "football",
+        "task_no": 8,
+        "source_dataset": "babi"
+    },
+    "13": {
+        "question": "What is <PERSON> holding?",
+        "context": "<PERSON> got the milk. Sandra took the football. Sandra journeyed to the bathroom. <PERSON> dropped the milk. Sandra dropped the football. <PERSON> got the milk. Sandra grabbed the football. <PERSON> took the apple. Sandra let go of the football. <PERSON> dropped the milk.",
+        "answer": "apple",
+        "task_no": 8,
+        "source_dataset": "babi"
+    },
+    "14": {
+        "question": "What is <PERSON> holding?",
+        "context": "<PERSON> got the milk. Mary journeyed to the garden. <PERSON> got the apple. <PERSON> let go of the apple. <PERSON> journeyed to the bedroom. Mary travelled to the kitchen.",
+        "answer": "milk",
+        "task_no": 8,
+        "source_dataset": "babi"
+    },
+    "15": {
+        "question": "Is <PERSON> in the bathroom?",
+        "context": "Daniel is either in the garden or in the office. Daniel is either in the office or in the hallway. Sandra is either in the bedroom or in the office. John is in the kitchen. John moved to the hallway. <PERSON> is either in the bedroom or in the bathroom.",
+        "answer": "maybe",
+        "task_no": 10,
+        "source_dataset": "babi"
+    },
+    "16": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Mary journeyed to the kitchen. Mary is either in the kitchen or in the garden. <PERSON> is either in the hallway or in the bedroom. Daniel is in the hallway. Mary is in the kitchen. Daniel is in the hallway.",
+        "answer": "maybe",
+        "task_no": 10,
+        "source_dataset": "babi"
+    },
+    "17": {
+        "question": "Is <PERSON> in the office?",
+        "context": "Mary moved to the kitchen. Mary is either in the garden or in the hallway. Mary is in the kitchen. Mary journeyed to the garden. Mary is either in the bedroom or in the bathroom. Mary is either in the bathroom or in the kitchen. Daniel is either in the bedroom or in the garden. <PERSON> is either in the bedroom or in the garden.",
+        "answer": "no",
+        "task_no": 10,
+        "source_dataset": "babi"
+    },
+    "18": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Mary journeyed to the kitchen. <PERSON> is either in the garden or in the office. Mary went to the bedroom. John journeyed to the hallway. John is either in the bathroom or in the office. <PERSON> is in the hallway. <PERSON> is either in the office or in the bathroom. <PERSON> is either in the office or in the bathroom. Mary travelled to the garden. Sandra went to the hallway.",
+        "answer": "no",
+        "task_no": 10,
+        "source_dataset": "babi"
+    },
+    "19": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Sandra is either in the bedroom or in the garden. Mary journeyed to the hallway. John is either in the bedroom or in the office. <PERSON> is in the hallway. John moved to the bathroom. Mary is in the hallway. <PERSON> is either in the bedroom or in the kitchen. Sandra is either in the hallway or in the bathroom. Sandra is either in the office or in the bedroom. Mary is either in the kitchen or in the hallway.",
+        "answer": "yes",
+        "task_no": 10,
+        "source_dataset": "babi"
+    },
+    "20": {
+        "question": "Where is <PERSON>?",
+        "context": "Mary journeyed to the office. <PERSON> journeyed to the garden. Daniel travelled to the office. Daniel travelled to the bathroom. <PERSON> went to the bedroom. Daniel moved to the hallway. Mary travelled to the kitchen. Mary moved to the bathroom. <PERSON> went to the office. <PERSON> journeyed to the bathroom.",
+        "answer": "bathroom",
+        "task_no": 1,
+        "source_dataset": "babi"
+    },
+    "21": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> moved to the hallway. <PERSON> moved to the office. Sandra moved to the hallway. Sandra travelled to the bathroom.",
+        "answer": "office",
+        "task_no": 1,
+        "source_dataset": "babi"
+    },
+    "22": {
+        "question": "Where is <PERSON>?",
+        "context": "John moved to the office. John went to the bathroom. Sandra moved to the kitchen. <PERSON> went to the bedroom. Sandra journeyed to the hallway. Mary moved to the kitchen.",
+        "answer": "bedroom",
+        "task_no": 1,
+        "source_dataset": "babi"
+    },
+    "23": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> moved to the bedroom. Sandra journeyed to the bathroom. <PERSON> went to the kitchen. Mary travelled to the office. John travelled to the hallway. John went to the kitchen.",
+        "answer": "kitchen",
+        "task_no": 1,
+        "source_dataset": "babi"
+    },
+    "24": {
+        "question": "Where is <PERSON>?",
+        "context": "Mary journeyed to the garden. She then journeyed to the bedroom. <PERSON> moved to the kitchen. After that <he/she> moved to the bedroom. Sandra went to the bedroom. She then moved to the kitchen. <PERSON> journeyed to the bathroom. Following that <he/she> moved to the bedroom. <PERSON> journeyed to the garden. After that <he/she> moved to the bedroom.",
+        "answer": "bedroom",
+        "task_no": 11,
+        "source_dataset": "babi"
+    },
+    "25": {
+        "question": "Where is <PERSON>?",
+        "context": "Daniel moved to the kitchen. After that he moved to the hallway. Mary travelled to the kitchen. Then she went to the bedroom. Daniel travelled to the bathroom. Following that he travelled to the bedroom. <PERSON> journeyed to the hallway. Following that <he/she> went to the garden.",
+        "answer": "garden",
+        "task_no": 11,
+        "source_dataset": "babi"
+    },
+    "26": {
+        "question": "Where is <PERSON>?",
+        "context": "Sandra moved to the kitchen. Then she went to the office. Mary went to the kitchen. Following that she went to the hallway. Mary went to the bathroom. After that she journeyed to the hallway. <PERSON> went to the office. After that <he/she> went to the bathroom.",
+        "answer": "bathroom",
+        "task_no": 11,
+        "source_dataset": "babi"
+    },
+    "27": {
+        "question": "Where is <PERSON>?",
+        "context": "Daniel journeyed to the bedroom. After that he went to the garden. Daniel moved to the hallway. After that he travelled to the garden. <PERSON> went to the bathroom. Then <he/she> journeyed to the hallway. <PERSON> moved to the kitchen. Following that <he/she> journeyed to the office.",
+        "answer": "office",
+        "task_no": 11,
+        "source_dataset": "babi"
+    },
+    "28": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> went to the garden. Following that <he/she> journeyed to the kitchen. Sandra travelled to the bathroom. After that she travelled to the garden. Sandra went to the office. Then she moved to the kitchen. Sandra moved to the bedroom. She then moved to the bathroom.",
+        "answer": "kitchen",
+        "task_no": 11,
+        "source_dataset": "babi"
+    },
+    "29": {
+        "question": "Is <PERSON> in the bathroom?",
+        "context": "Mary moved to the garden. Daniel moved to the bathroom. Mary journeyed to the kitchen. Daniel went to the hallway. <PERSON> went to the office. <PERSON> moved to the garden. <PERSON> journeyed to the kitchen. John moved to the garden. Mary moved to the hallway. John went to the bathroom.",
+        "answer": "no",
+        "task_no": 6,
+        "source_dataset": "babi"
+    },
+    "30": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "John travelled to the bedroom. Daniel journeyed to the kitchen. <PERSON> travelled to the bathroom. Daniel journeyed to the garden. <PERSON> went to the hallway. Daniel moved to the office. <PERSON> went to the office. <PERSON> went to the bedroom.",
+        "answer": "no",
+        "task_no": 6,
+        "source_dataset": "babi"
+    },
+    "31": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Sandra went to the bedroom. Mary travelled to the bathroom. Mary moved to the kitchen. John went to the office. Mary journeyed to the garden. Sandra went to the office. Sandra travelled to the bathroom. <PERSON> journeyed to the office. <PERSON> moved to the garden. Sandra travelled to the hallway.",
+        "answer": "yes",
+        "task_no": 6,
+        "source_dataset": "babi"
+    },
+    "32": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Sandra moved to the bathroom. <PERSON> travelled to the garden. Daniel travelled to the kitchen. <PERSON> journeyed to the hallway. Sandra went to the garden. Daniel travelled to the bedroom. Daniel journeyed to the bathroom. Sandra went to the bathroom. Sandra travelled to the office. Daniel travelled to the bedroom.",
+        "answer": "yes",
+        "task_no": 6,
+        "source_dataset": "babi"
+    },
+    "33": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "John journeyed to the bedroom. Mary went to the bathroom. Mary journeyed to the bedroom. <PERSON> journeyed to the bedroom.",
+        "answer": "yes",
+        "task_no": 6,
+        "source_dataset": "babi"
+    },
+    "34": {
+        "question": "Where is <PERSON>?",
+        "context": "Mary and Daniel moved to the bedroom. <PERSON> and John went to the hallway. <PERSON> and John travelled to the kitchen. Daniel and Mary went to the bedroom. <PERSON> and Daniel went to the bathroom. Daniel and <PERSON> travelled to the kitchen.",
+        "answer": "kitchen",
+        "task_no": 12,
+        "source_dataset": "babi"
+    },
+    "35": {
+        "question": "Where is <PERSON>?",
+        "context": "Sandra and <PERSON> travelled to the bathroom. Mary and <PERSON> moved to the kitchen. Sandra and Mary journeyed to the hallway. Mary and Sandra travelled to the bathroom. Sandra and Mary travelled to the garden. <PERSON> and Sandra went to the kitchen. Daniel and Sandra travelled to the bedroom. Daniel and <PERSON> journeyed to the bathroom.",
+        "answer": "bathroom",
+        "task_no": 12,
+        "source_dataset": "babi"
+    },
+    "36": {
+        "question": "Where is <PERSON>?",
+        "context": "John and Mary moved to the garden. John and Mary went to the kitchen. <PERSON> and John journeyed to the bathroom. Daniel and John travelled to the office. John and Mary went to the bathroom. Mary and Daniel went to the bedroom. Daniel and Mary moved to the hallway. <PERSON> and Mary went to the bathroom. <PERSON> and John travelled to the kitchen. Mary and <PERSON> journeyed to the office.",
+        "answer": "office",
+        "task_no": 12,
+        "source_dataset": "babi"
+    },
+    "37": {
+        "question": "Where is <PERSON>?",
+        "context": "Daniel and Sandra journeyed to the kitchen. Mary and Daniel moved to the office. Mary and Sandra moved to the hallway. Sandra and Daniel travelled to the bathroom. <PERSON> and Daniel journeyed to the garden. Daniel and <PERSON> moved to the kitchen. Daniel and Sandra went to the garden. Sandra and <PERSON> moved to the bathroom. Mary and Daniel travelled to the bedroom. <PERSON> and Sandra moved to the bathroom.",
+        "answer": "bathroom",
+        "task_no": 12,
+        "source_dataset": "babi"
+    },
+    "38": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> and Daniel went to the garden. Mary and Daniel moved to the hallway. Sandra and Mary went to the bedroom. Sandra and Daniel moved to the garden. Daniel and Sandra travelled to the hallway. Sandra and Mary journeyed to the kitchen. Daniel and <PERSON> journeyed to the office. <PERSON> and Sandra went to the bedroom.",
+        "answer": "bedroom",
+        "task_no": 12,
+        "source_dataset": "babi"
+    },
+    "39": {
+        "question": "Where is <PERSON>?",
+        "context": "Sandra and <PERSON> journeyed to the kitchen. Sandra and John travelled to the bedroom. Sandra and <PERSON> moved to the kitchen. Sandra and <PERSON> journeyed to the garden. Sandra and <PERSON> journeyed to the hallway. Mary and Sandra travelled to the bathroom.",
+        "answer": "hallway",
+        "task_no": 12,
+        "source_dataset": "babi"
+    },
+    "40": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Mary travelled to the kitchen. Daniel is not in the bathroom. Daniel is not in the office. Mary went to the hallway. Mary is in the hallway. <PERSON> is not in the kitchen. John is in the kitchen. Daniel is not in the kitchen.",
+        "answer": "no",
+        "task_no": 9,
+        "source_dataset": "babi"
+    },
+    "41": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Mary went to the garden. <PERSON> is not in the bathroom. Mary is not in the kitchen. Mary is in the garden. Sandra is in the garden. <PERSON> is not in the garden. Sandra went to the office. Mary is no longer in the bedroom.",
+        "answer": "no",
+        "task_no": 9,
+        "source_dataset": "babi"
+    },
+    "42": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Sandra travelled to the bedroom. <PERSON> is in the hallway. Sandra is in the bedroom. John moved to the garden.",
+        "answer": "yes",
+        "task_no": 9,
+        "source_dataset": "babi"
+    },
+    "43": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "Sandra is no longer in the office. Daniel is in the hallway. <PERSON> journeyed to the kitchen. Daniel is no longer in the office. Daniel went to the bathroom. John is no longer in the hallway.",
+        "answer": "no",
+        "task_no": 9,
+        "source_dataset": "babi"
+    },
+    "44": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "<PERSON> is in the bedroom. Daniel is no longer in the office. Sandra is in the garden. <PERSON> journeyed to the kitchen. Sandra is in the garden. <PERSON> is in the kitchen.",
+        "answer": "yes",
+        "task_no": 9,
+        "source_dataset": "babi"
+    }
+}
