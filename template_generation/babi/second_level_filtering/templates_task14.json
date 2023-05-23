@@ -1,0 +1,27 @@
+{
+    "1": {
+        "question": "Where was <PERSON> before the bathroom?",
+        "context": "This evening Mary went to the bathroom. Sandra went to the garden this afternoon. Sandra travelled to the bedroom yesterday. Yesterday <PERSON> moved to the office. This afternoon <PERSON> went to the bathroom. John journeyed to the kitchen this evening. This afternoon Mary travelled to the garden. Mary travelled to the hallway yesterday.",
+        "answer": "office"
+    },
+    "2": {
+        "question": "Where was <PERSON> before the kitchen?",
+        "context": "<PERSON> travelled to the kitchen this evening. Mary travelled to the bathroom this evening. This morning Mary went to the bedroom. This afternoon <PERSON> went to the bedroom. <PERSON> moved to the bathroom yesterday. This evening Sandra moved to the hallway. Sandra travelled to the office this morning. This evening Daniel went to the kitchen. This afternoon Mary travelled to the garden. Sandra moved to the kitchen yesterday.",
+        "answer": "bedroom"
+    },
+    "3": {
+        "question": "Where was <PERSON> before the bedroom?",
+        "context": "<PERSON> travelled to the kitchen this evening. Mary travelled to the bathroom this evening. This morning Mary went to the bedroom. This afternoon <PERSON> went to the bedroom. <PERSON> moved to the bathroom yesterday. This evening Sandra moved to the hallway. Sandra travelled to the office this morning. This evening Daniel went to the kitchen. This afternoon Mary travelled to the garden. Sandra moved to the kitchen yesterday. Mary travelled to the hallway yesterday. This morning Daniel moved to the bedroom.",
+        "answer": "bathroom"
+    },
+    "5": {
+        "question": "Where was <PERSON> before the office?",
+        "context": "This evening <PERSON> went to the bathroom. <PERSON> travelled to the garden this morning. <PERSON> went to the office this afternoon. Daniel moved to the office this afternoon. Yesterday Sandra moved to the kitchen. Sandra moved to the bathroom this afternoon.",
+        "answer": "garden"
+    },
+    "19": {
+        "question": "Where was <PERSON> before the bedroom?",
+        "context": "This afternoon Daniel moved to the hallway. Mary went to the bathroom yesterday. This afternoon Mary went to the kitchen. This morning Mary journeyed to the office. Daniel moved to the kitchen yesterday. <PERSON> travelled to the kitchen this morning. <PERSON> went to the bedroom this afternoon. Mary moved to the bedroom this evening. Sandra went to the hallway this evening. Sandra travelled to the bedroom yesterday.",
+        "answer": "kitchen"
+    }
+}

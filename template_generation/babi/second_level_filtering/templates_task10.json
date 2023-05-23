@@ -1,0 +1,27 @@
+{
+    "0": {
+        "question": "Is <PERSON> in the bathroom?",
+        "context": "Daniel is either in the garden or in the office. Daniel is either in the office or in the hallway. Sandra is either in the bedroom or in the office. John is in the kitchen. John moved to the hallway. <PERSON> is either in the bedroom or in the bathroom.",
+        "answer": "maybe"
+    },
+    "2": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Mary journeyed to the kitchen. Mary is either in the kitchen or in the garden. <PERSON> is either in the hallway or in the bedroom. Daniel is in the hallway. Mary is in the kitchen. Daniel is in the hallway.",
+        "answer": "maybe"
+    },
+    "7": {
+        "question": "Is <PERSON> in the office?",
+        "context": "Mary moved to the kitchen. Mary is either in the garden or in the hallway. Mary is in the kitchen. Mary journeyed to the garden. Mary is either in the bedroom or in the bathroom. Mary is either in the bathroom or in the kitchen. Daniel is either in the bedroom or in the garden. <PERSON> is either in the bedroom or in the garden.",
+        "answer": "no"
+    },
+    "9": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Mary journeyed to the kitchen. <PERSON> is either in the garden or in the office. Mary went to the bedroom. John journeyed to the hallway. John is either in the bathroom or in the office. <PERSON> is in the hallway. <PERSON> is either in the office or in the bathroom. <PERSON> is either in the office or in the bathroom. Mary travelled to the garden. Sandra went to the hallway.",
+        "answer": "no"
+    },
+    "12": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Sandra is either in the bedroom or in the garden. Mary journeyed to the hallway. John is either in the bedroom or in the office. <PERSON> is in the hallway. John moved to the bathroom. Mary is in the hallway. <PERSON> is either in the bedroom or in the kitchen. Sandra is either in the hallway or in the bathroom. Sandra is either in the office or in the bedroom. Mary is either in the kitchen or in the hallway.",
+        "answer": "yes"
+    }
+}

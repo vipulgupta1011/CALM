@@ -1,0 +1,27 @@
+{
+    "1": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Mary travelled to the kitchen. Daniel is not in the bathroom. Daniel is not in the office. Mary went to the hallway. Mary is in the hallway. <PERSON> is not in the kitchen. John is in the kitchen. Daniel is not in the kitchen.",
+        "answer": "no"
+    },
+    "5": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Mary went to the garden. <PERSON> is not in the bathroom. Mary is not in the kitchen. Mary is in the garden. Sandra is in the garden. <PERSON> is not in the garden. Sandra went to the office. Mary is no longer in the bedroom.",
+        "answer": "no"
+    },
+    "6": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Sandra travelled to the bedroom. <PERSON> is in the hallway. Sandra is in the bedroom. John moved to the garden.",
+        "answer": "yes"
+    },
+    "10": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "Sandra is no longer in the office. Daniel is in the hallway. <PERSON> journeyed to the kitchen. Daniel is no longer in the office. Daniel went to the bathroom. John is no longer in the hallway.",
+        "answer": "no"
+    },
+    "13": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "<PERSON> is in the bedroom. Daniel is no longer in the office. Sandra is in the garden. <PERSON> journeyed to the kitchen. Sandra is in the garden. <PERSON> is in the kitchen.",
+        "answer": "yes"
+    }
+}

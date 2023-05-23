@@ -1,0 +1,22 @@
+{
+    "0": {
+        "question": "Where is <PERSON>?",
+        "context": "Mary journeyed to the office. <PERSON> journeyed to the garden. Daniel travelled to the office. Daniel travelled to the bathroom. <PERSON> went to the bedroom. Daniel moved to the hallway. Mary travelled to the kitchen. Mary moved to the bathroom. <PERSON> went to the office. <PERSON> journeyed to the bathroom.",
+        "answer": "bathroom"
+    },
+    "2": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> moved to the hallway. <PERSON> moved to the office. Sandra moved to the hallway. Sandra travelled to the bathroom.",
+        "answer": "office"
+    },
+    "3": {
+        "question": "Where is <PERSON>?",
+        "context": "John moved to the office. John went to the bathroom. Sandra moved to the kitchen. <PERSON> went to the bedroom. Sandra journeyed to the hallway. Mary moved to the kitchen.",
+        "answer": "bedroom"
+    },
+    "1": {
+        "question": "Where is <PERSON>?",
+        "context": "<PERSON> moved to the bedroom. Sandra journeyed to the bathroom. <PERSON> went to the kitchen. Mary travelled to the office. John travelled to the hallway. John went to the kitchen.",
+        "answer": "kitchen"
+    }
+}
