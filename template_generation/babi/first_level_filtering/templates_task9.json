@@ -1,0 +1,72 @@
+{
+    "0": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "<PERSON> is in the hallway. John went to the bathroom. <PERSON> is not in the bathroom. Mary went to the garden. <PERSON> is no longer in the kitchen. Mary is in the garden. <PERSON> travelled to the bedroom. <PERSON> is in the bedroom. <PERSON> is no longer in the bathroom. <PERSON> journeyed to the kitchen.",
+        "answer": "yes"
+    },
+    "1": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Mary travelled to the kitchen. Daniel is not in the bathroom. Daniel is not in the office. Mary went to the hallway. Mary is in the hallway. <PERSON> is not in the kitchen. John is in the kitchen. Daniel is not in the kitchen.",
+        "answer": "no"
+    },
+    "2": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "John is no longer in the hallway. John is no longer in the garden. Mary is in the bedroom. <PERSON> moved to the office.",
+        "answer": "no"
+    },
+    "3": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "<PERSON> is in the hallway. John travelled to the bedroom. <PERSON> is in the hallway. John is not in the garden.",
+        "answer": "yes"
+    },
+    "4": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Daniel is in the hallway. Daniel moved to the garden. Mary travelled to the kitchen. <PERSON> is no longer in the kitchen. John went to the garden. Mary went to the garden.",
+        "answer": "no"
+    },
+    "5": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Mary went to the garden. <PERSON> is not in the bathroom. Mary is not in the kitchen. Mary is in the garden. Sandra is in the garden. <PERSON> is not in the garden. Sandra went to the office. Mary is no longer in the bedroom.",
+        "answer": "no"
+    },
+    "6": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Sandra travelled to the bedroom. <PERSON> is in the hallway. Sandra is in the bedroom. John moved to the garden.",
+        "answer": "yes"
+    },
+    "7": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "Mary travelled to the kitchen. <PERSON> is in the garden. Mary is no longer in the garden. <PERSON> moved to the bedroom.",
+        "answer": "yes"
+    },
+    "8": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Daniel is no longer in the bathroom. Daniel is not in the office. Mary is no longer in the hallway. Mary journeyed to the bathroom. Mary is in the bathroom. <PERSON> is no longer in the bathroom. Daniel travelled to the kitchen. <PERSON> is not in the hallway.",
+        "answer": "no"
+    },
+    "9": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "John went to the bathroom. Daniel is not in the bedroom. Daniel moved to the kitchen. <PERSON> is in the garden.",
+        "answer": "yes"
+    },
+    "10": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "Sandra is no longer in the office. Daniel is in the hallway. <PERSON> journeyed to the kitchen. Daniel is no longer in the office. Daniel went to the bathroom. John is no longer in the hallway.",
+        "answer": "no"
+    },
+    "11": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "Mary is no longer in the bathroom. John is no longer in the office. Mary is in the bedroom. John went to the garden. Mary moved to the office. Sandra is no longer in the office. <PERSON> is not in the bathroom. Sandra is in the garden. <PERSON> moved to the garden. <PERSON> is no longer in the kitchen.",
+        "answer": "no"
+    },
+    "12": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "<PERSON> is no longer in the kitchen. <PERSON> is in the hallway. John is not in the office. John journeyed to the bathroom. <PERSON> went to the bedroom. Sandra is no longer in the kitchen.",
+        "answer": "no"
+    },
+    "13": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "<PERSON> is in the bedroom. Daniel is no longer in the office. Sandra is in the garden. <PERSON> journeyed to the kitchen. Sandra is in the garden. <PERSON> is in the kitchen.",
+        "answer": "yes"
+    }
+}

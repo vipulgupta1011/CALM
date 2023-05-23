@@ -1,0 +1,62 @@
+{
+    "0": {
+        "question": "Is <PERSON> in the bathroom?",
+        "context": "John moved to the bedroom. Sandra moved to the office. Sandra went to the hallway. <PERSON> journeyed to the garden. Daniel went to the bathroom. John travelled to the office. Sandra travelled to the bedroom. Daniel moved to the bedroom.",
+        "answer": "no"
+    },
+    "1": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "John journeyed to the hallway. <PERSON> journeyed to the office. John moved to the garden. John journeyed to the bedroom. John journeyed to the office. <PERSON> moved to the bedroom. Mary moved to the bathroom. <PERSON> journeyed to the kitchen. Mary journeyed to the office. John journeyed to the garden.",
+        "answer": "no"
+    },
+    "2": {
+        "question": "Is <PERSON> in the bathroom?",
+        "context": "Mary moved to the garden. Daniel moved to the bathroom. Mary journeyed to the kitchen. Daniel went to the hallway. <PERSON> went to the office. <PERSON> moved to the garden. <PERSON> journeyed to the kitchen. John moved to the garden. Mary moved to the hallway. John went to the bathroom.",
+        "answer": "no"
+    },
+    "3": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Sandra moved to the office. Daniel moved to the garden. Daniel went to the office. <PERSON> went to the hallway.",
+        "answer": "no"
+    },
+    "4": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Sandra went to the kitchen. Daniel journeyed to the office. Sandra moved to the bedroom. Daniel went to the bedroom. Daniel moved to the garden. <PERSON> journeyed to the office.",
+        "answer": "no"
+    },
+    "5": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "John travelled to the bedroom. Daniel journeyed to the kitchen. <PERSON> travelled to the bathroom. Daniel journeyed to the garden. <PERSON> went to the hallway. Daniel moved to the office. <PERSON> went to the office. <PERSON> went to the bedroom.",
+        "answer": "no"
+    },
+    "6": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "Daniel journeyed to the garden. Sandra moved to the bedroom. <PERSON> moved to the bedroom. Daniel went to the kitchen.",
+        "answer": "yes"
+    },
+    "7": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Sandra went to the bedroom. Mary travelled to the bathroom. Mary moved to the kitchen. John went to the office. Mary journeyed to the garden. Sandra went to the office. Sandra travelled to the bathroom. <PERSON> journeyed to the office. <PERSON> moved to the garden. Sandra travelled to the hallway.",
+        "answer": "yes"
+    },
+    "8": {
+        "question": "Is <PERSON> in the hallway?",
+        "context": "Sandra moved to the bathroom. <PERSON> travelled to the garden. Daniel travelled to the kitchen. <PERSON> journeyed to the hallway. Sandra went to the garden. Daniel travelled to the bedroom. Daniel journeyed to the bathroom. Sandra went to the bathroom. Sandra travelled to the office. Daniel travelled to the bedroom.",
+        "answer": "yes"
+    },
+    "9": {
+        "question": "Is <PERSON> in the garden?",
+        "context": "Mary journeyed to the office. <PERSON> moved to the office. Sandra journeyed to the office. Sandra travelled to the garden.",
+        "answer": "no"
+    },
+    "10": {
+        "question": "Is <PERSON> in the bedroom?",
+        "context": "John journeyed to the bedroom. Mary went to the bathroom. Mary journeyed to the bedroom. <PERSON> journeyed to the bedroom.",
+        "answer": "yes"
+    },
+    "11": {
+        "question": "Is <PERSON> in the kitchen?",
+        "context": "<PERSON> travelled to the garden. Daniel travelled to the kitchen. Daniel moved to the hallway. Mary moved to the hallway. Mary journeyed to the bedroom. Daniel travelled to the garden.",
+        "answer": "no"
+    }
+}
