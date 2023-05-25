@@ -1,4 +1,4 @@
-bABI (generated raw data using first 10000 lines for each task) : 
+## bABI (generated raw data using first 10000 lines for each task) : 
   - First level filtering 
     1.  Take examples with atleast 20 words in context
     2.  With a probability of 1/200 select if an example needs to be considered for template
@@ -17,6 +17,8 @@ Tasks not including from babi :
 
 
 
-QAMR (using only test data) : 
+## QAMR (using only test data) : 
 - Take context with atleast one person name in it
 - Remove contexts which contains factual data like President Barack Obama and Noble Prize in 1958 etc.
+
+## MCTest
