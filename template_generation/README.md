@@ -15,3 +15,8 @@ Tasks not including from babi :
 - Task 17,18 : No person data
 - Task 20 : Answer not present in context
 
+
+
+QAMR (using only test data) : 
+- Take context with atleast one person name in it
+- Remove contexts which contains factual data like President Barack Obama and Noble Prize in 1958 etc.
