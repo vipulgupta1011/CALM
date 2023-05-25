@@ -1,0 +1,38 @@
+{
+    "0": {
+        "context": "On the same day, Ed Miliband had announced he would stand down as Labour leader, while <PERSON> said <he/she> would resign as leader of the Liberal Democrats.",
+        "question": "What is <PERSON> leader of?",
+        "answer": "the Liberal Democrats",
+        "source_dataset": "qamr"
+    },
+    "1": {
+        "context": "On the same day, <PERSON> had announced he would stand down as Labour leader, while Nick Clegg said he would resign as leader of the Liberal Democrats.",
+        "question": "Who would stand down?",
+        "answer": "<PERSON>",
+        "source_dataset": "qamr"
+    },
+    "2": {
+        "context": "According the Team Manager <PERSON>, Smith took a while to settle in before taking her first shot.",
+        "question": "Who discussed Smith taking her first shot?",
+        "answer": "<PERSON>",
+        "source_dataset": "qamr"
+    },
+    "3": {
+        "context": "According the Team Manager Nick Sullivan, <PERSON> took a while to settle in before taking <he/her> first shot.",
+        "question": "Who took a moment to settle in?",
+        "answer": "<PERSON>",
+        "source_dataset": "qamr"
+    },
+    "4": {
+        "context": "The cousins were close, although <PERSON> was more easygoing while Noam could be very competitive.",
+        "question": "Who was easygoing?",
+        "answer": "<PERSON>",
+        "source_dataset": "qamr"
+    },
+    "5": {
+        "context": "The cousins were close, although David was more easygoing while <PERSON> could be very competitive.",
+        "question": "What kind of person was <PERSON>?",
+        "answer": "competitive",
+        "source_dataset": "qamr"
+    }
+}
