@@ -22,3 +22,6 @@ Tasks not including from babi :
 - Remove contexts which contains factual data like President Barack Obama and Noble Prize in 1958 etc.
 
 ## MCTest
+Using mc500 test as it is a better version and is more grammatically correct
+- Remove temapltes where person names were used for entities like animals, cars, 
+- Remove templates with multiple person names mentioned in the question
