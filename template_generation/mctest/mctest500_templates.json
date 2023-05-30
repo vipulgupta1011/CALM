@@ -6,7 +6,7 @@
     },
     "1": {
         "context": "<PERSON> was a small <boy/girl> who, like many small <boys/girls>, loved to play. <He/She> would play outside. <He/She> would play in <his/her> basement. <He/She> would play in <his/her> room. When <he/she> played, <he/she> would play with lots of things. Sometimes <he/she> played with blocks. Sometimes <he/she> played with cards. Sometimes <he/she> would even play with <his/her> sister's dolls. One day, <PERSON> became bored. \"Maybe I'll play outside,\" said <PERSON>. <He/She> tried to play outside, but it didn't seem right. \"I know,\" said <PERSON>, \"maybe I'll play in the basement.\" So <he/she> tried to play in <his/her> basement, but that didn't seem right either. \"I guess I can play in my room,\" said <PERSON>. So <he/she> went to <his/her> room to play, but <he/she> still felt bored.  \"Maybe I need to play with something different,\" said <PERSON>. So <he/she> tried to play with <his/her> blocks, but <he/she> was still bored. \"I'll play with my cards,\" said <PERSON>, but they weren't fun either. \"I'll play with my sister's dolls,\" said <PERSON>, but <he/she> kept being bored.  <PERSON> was starting to get sad, and then <his/her> sister Angie came in and asked, \"Do you want to play, <PERSON>?\" \"Yes,\" said <PERSON>. And they played with blocks, and dolls, and cards. And they had fun. As it turns out, all <PERSON> needed was somebody to play with.",
-        "question": "Where didn't <PERSON> play? Possible Answers :   A: Playground  B: Outside  C: Basement  D: His room",
+        "question": "Where didn't <PERSON> play? Possible Answers :   A: Playground  B: Outside  C: Basement  D: <His/Her> room",
         "answer": "A"
     },
     "2": {
