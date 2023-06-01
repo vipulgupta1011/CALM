@@ -27,13 +27,13 @@ Using mc500 test as it is a better version and is more grammatically correct
 - Remove templates with multiple person names mentioned in the question
 - Select example for a template with a probability 1/5
 
-##DuoRC
+## DuoRC
 Using SelfRC test as it focuses only on Wikipedia movie plots
 - Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
 - Remove examples with no mention of names
 - Select example for a template with a probability 1/10
 
-##DROP
+## DROP
 Using drop dev dataset as test data is not publicly available
 - Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
 - Remove examples with no mention of names
