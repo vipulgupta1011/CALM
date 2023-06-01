@@ -32,3 +32,10 @@ Using SelfRC test as it focuses only on Wikipedia movie plots
 - Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
 - Remove examples with no mention of names
 - Select example for a template with a probability 1/10
+
+##DROP
+Using drop dev dataset as test data is not publicly available
+- Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
+- Remove examples with no mention of names
+- Filter examples with summary of football matches
+- Select example for a template with a probability 1/5
