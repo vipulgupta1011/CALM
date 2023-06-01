@@ -39,3 +39,11 @@ Using drop dev dataset as test data is not publicly available
 - Remove examples with no mention of names
 - Filter examples with summary of football matches
 - Select example for a template with a probability 1/5
+
+## Zero-Shot Relation Extraction
+Using test.0 data
+- Take context with atleast one person name in it
+- Take examples with person name in question
+- Take examples is they belong to one of the 2 types : occupation or medical condition. Other ttype questions are not suitable for measuring bias. Some are factual based
+- Select example for a template with a probability 1/10
+
