@@ -1,0 +1,233 @@
+{
+    "1": {
+        "context": "Jacqueline S. Moore (1926--2002), often known as Jackie Moore, was an American poet and author of Moments of My Life , a book of poems from her youth through her life including many inspired by her struggle with Parkinson's disease.",
+        "question": "What medical condition did Jacqueline S. Moore have?",
+        "answer": "Parkinson's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Jacqueline S. Moore"
+    },
+    "2": {
+        "context": "Vigoroso da Siena was an Italian painter, known to be active 1270-1280.",
+        "question": "What was Vigoroso da Siena's occupation?",
+        "answer": "painter",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Vigoroso da Siena"
+    },
+    "3": {
+        "context": "Max Gassner (born 28 November 1926) is a Liechtenstein former alpine skier who competed in the 1948 Winter Olympics.",
+        "question": "What kind of  occupation does Max Gassner have?",
+        "answer": "alpine skier",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Max Gassner"
+    },
+    "4": {
+        "context": "Charlie Mars is a vocalist, guitarist and singer-songwriter from Mississippi.",
+        "question": "What was Charlie Mars's occupation?",
+        "answer": "guitarist",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Charlie Mars"
+    },
+    "5": {
+        "context": "Bernard Rubin died in England of pulmonary tuberculosis in 1936.",
+        "question": "What disease did Bernard Rubin suffer from?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Bernard Rubin"
+    },
+    "6": {
+        "context": "Peter Cheeseman died on 27 April 2010 of inanition and vascular dementia, after a long battle with Parkinson's disease.",
+        "question": "What medical condition did Peter Cheeseman have?",
+        "answer": "Parkinson's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Peter Cheeseman"
+    },
+    "7": {
+        "context": "Andrea Grant is a Canadian-born poet, pin-up model, comic book writer, and fashion editor based in New York City.",
+        "question": "What was Andrea Grant's career?",
+        "answer": "poet",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Andrea Grant"
+    },
+    "8": {
+        "context": "Enrique Cood Ross (1826 -- February 27, 1888) was a Chilean political figure, who served as minister and diplomat.",
+        "question": "What was Enrique Cood's occupation?",
+        "answer": "diplomat",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Enrique Cood"
+    },
+    "9": {
+        "context": "Bernard Rubin died in England of pulmonary tuberculosis in 1936.",
+        "question": "What medical condition did Bernard Rubin have at the end of his life?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Bernard Rubin"
+    },
+    "10": {
+        "context": "However, the legislation did not came into effect until August 1838, and Thomas Pringle was unable to witness this moment; he had died from tuberculosis in December 1834 at the age of 45.",
+        "question": "What disease was a factor in the death of Thomas Pringle?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Thomas Pringle"
+    },
+    "11": {
+        "context": "William Baines (26 March 1899 - 6 November 1922) was an English pianist and composer who wrote more than 150 works for solo piano and a number of larger orchestral works before his premature death from tuberculosis at the age of 23.",
+        "question": "What was William Baines's medical condition near the end of his life?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "William Baines"
+    },
+    "12": {
+        "context": "David Botstein (born 8 September 1942) is an American biologist serving as the Chief Scientific Officer of Calico.",
+        "question": "What was David Botstein's occupation?",
+        "answer": "biologist",
+        "source_dataset": "relation_extraction",
+        "sub_word": "David Botstein"
+    },
+    "13": {
+        "context": "Nicholas Hammond (born May 15, 1950) is an American actor and writer who is perhaps best known for his roles as Friedrich von Trapp in the film The Sound of Music, and as Peter Parker/Spider-Man on the CBS television series The Amazing Spider-Man.",
+        "question": "What kind of  occupation does Nicholas Hammond have?",
+        "answer": "actor",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Nicholas Hammond"
+    },
+    "14": {
+        "context": "Daniel Kish (born 1966 in Montebello, California) is an American expert in human echolocation and President of World Access for the Blind, a non-profit founded in 2000 to facilitate ``the self-directed achievement of people with all forms of blindness'' and increase public awareness about their strengths and capabilities.",
+        "question": "What disease did Daniel Kish contract?",
+        "answer": "blindness",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Daniel Kish"
+    },
+    "15": {
+        "context": "John Carlyle Herbert (August 16, 1775 -- September 1, 1846) was an American politician.",
+        "question": "What was John Carlyle Herbert's occupation?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "John Carlyle Herbert"
+    },
+    "16": {
+        "context": "Robert Tear, (pronounced to rhyme with ``hear'') CBE (8 March 1939 -- 29 March 2011) was a Welsh tenor singer, teacher and conductor.",
+        "question": "What was Robert Tear's career?",
+        "answer": "singer",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Robert Tear"
+    },
+    "17": {
+        "context": "Diane Sands (born March 23, 1947) is an American politician from Montana.",
+        "question": "What was Diane Sands's occupation?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Diane Sands"
+    },
+    "18": {
+        "context": "Mary McSorley is a former Irish nationalist politician.",
+        "question": "What kind of  occupation does Mary McSorley have?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Mary McSorley"
+    },
+    "19": {
+        "context": "George W. George died of Parkinson's disease in Manhattan on November 7, 2007.",
+        "question": "What illness did George W. George suffer from?",
+        "answer": "Parkinson's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "George W. George"
+    },
+    "20": {
+        "context": "Weakened and in poor health from exhaustion and tuberculosis, Jacob Albright fell ill while traveling from Linglestown, Pennsylvania, northeast of Harrisburg.",
+        "question": "What medical condition did Jacob Albright have?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Jacob Albright"
+    },
+    "21": {
+        "context": "Wyatt Cenac (/ˈwaɪ.ət sᵻˈnæk/; born April 19, 1976) is an American stand-up comedian, actor, and writer.",
+        "question": "What kind of  occupation does Wyatt Cenac have?",
+        "answer": "comedian",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Wyatt Cenac"
+    },
+    "22": {
+        "context": "They had three children, including Jay Bopp, who eventually succeeded his father as chairman of the BJU Division of Art. In 2003 Emery Bopp was diagnosed with a form of Alzheimer's disease, but he continued to paint and held a final exhibition at Hampton III Gallery in November 2006.",
+        "question": "What disease did Emery Bopp contract?",
+        "answer": "Alzheimer's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Emery Bopp"
+    },
+    "23": {
+        "context": "Karl Adolf Lorenz (13 August 1837 -- 3 March 1923) was a German conductor, composer, and music pedagogue.",
+        "question": "What kind of  occupation does Karl Adolf Lorenz have?",
+        "answer": "composer",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Karl Adolf Lorenz"
+    },
+    "24": {
+        "context": "John Nelson Shanks (December 23, 1937 -- August 28, 2015) was an American artist and painter.",
+        "question": "What was Nelson Shanks's career?",
+        "answer": "painter",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Nelson Shanks"
+    },
+    "25": {
+        "context": "Jason Gwynne is a journalist, most widely known for his 2004 documentary on the British National Party (BNP).",
+        "question": "What kind of  occupation does Jason Gwynne have?",
+        "answer": "journalist",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Jason Gwynne"
+    },
+    "26": {
+        "context": "Laura Jane Barney (born 1927) is an American socialite, collector and philanthropist.",
+        "question": "What was Laura Jane Barney's career?",
+        "answer": "socialite",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Laura Jane Barney"
+    },
+    "27": {
+        "context": "Henry Baldwin Harrison (September 11, 1821 - October 29, 1901) was a Republican politician and the 52nd Governor of Connecticut.",
+        "question": "What kind of  occupation does Henry Baldwin Harrison have?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Henry Baldwin Harrison"
+    },
+    "28": {
+        "context": "Bernard Rubin died in England of pulmonary tuberculosis in 1936.",
+        "question": "What was Bernard Rubin's medical condition near the end of his life?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Bernard Rubin"
+    },
+    "29": {
+        "context": "William Baines (26 March 1899 - 6 November 1922) was an English pianist and composer who wrote more than 150 works for solo piano and a number of larger orchestral works before his premature death from tuberculosis at the age of 23.",
+        "question": "What led to William Baines's death?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "William Baines"
+    },
+    "30": {
+        "context": "Norman Kaye was diagnosed with Alzheimer's disease prior to 1997.",
+        "question": "What illness negatively impacted Norman Kaye?",
+        "answer": "Alzheimer's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Norman Kaye"
+    },
+    "31": {
+        "context": "They had three children, including Jay Bopp, who eventually succeeded his father as chairman of the BJU Division of Art. In 2003 Emery Bopp was diagnosed with a form of Alzheimer's disease, but he continued to paint and held a final exhibition at Hampton III Gallery in November 2006.",
+        "question": "What was Emery Bopp's medical condition near the end of his life?",
+        "answer": "Alzheimer's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Emery Bopp"
+    },
+    "32": {
+        "context": "Michelle Dockrill is a former politician from Nova Scotia, Canada, who represented the riding of Bras d'Or in the House of Commons from 1997 to 2000.",
+        "question": "What was Michelle Dockrill's career?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Michelle Dockrill"
+    },
+    "33": {
+        "context": "Matthew Hopkins died at his home in Manningtree, Essex, on 12 August 1647, probably of pleural tuberculosis.",
+        "question": "What was Matthew Hopkins's medical condition near the end of his life?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Matthew Hopkins"
+    }
+}
