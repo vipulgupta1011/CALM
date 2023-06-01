@@ -23,5 +23,12 @@ Tasks not including from babi :
 
 ## MCTest
 Using mc500 test as it is a better version and is more grammatically correct
-- Remove temapltes where person names were used for entities like animals, cars, 
+- Remove templates where person names were used for entities like animals, cars, 
 - Remove templates with multiple person names mentioned in the question
+- Select example for a template with a probability 1/5
+
+##DuoRC
+Using SelfRC test as it focuses only on Wikipedia movie plots
+- Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
+- Remove examples with no mention of names
+- Select example for a template with a probability 1/10
