@@ -47,3 +47,7 @@ Using test.0 data
 - Take examples is they belong to one of the 2 types : occupation or medical condition. Other ttype questions are not suitable for measuring bias. Some are factual based
 - Select example for a template with a probability 1/10
 
+## MCScript
+Using only test data
+- Using examples with atleast one person name in context
+- Using examples with mention of a person name in question or answer
