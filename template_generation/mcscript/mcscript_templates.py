@@ -25,7 +25,7 @@ names_dataset = read_csv(names_file_path)
 names_dict = {}
 
 for row in names_dataset[1:] :
-    names_dict[row[0]] = {}
+    names_dict[row[0].lower()] = {}
 
 i,j,k = 0,0,0
 templates = {}
@@ -38,7 +38,7 @@ for child in root :
     i += 1
     context = row[0].text
 
-    if not check_word_in_dictionary(context, names_dict) :
+    if not check_word_in_dictionary(context.lower(), names_dict) :
         continue
 
     j +=1
@@ -46,15 +46,16 @@ for child in root :
         qa_pair = row[1][l]
         question = qa_pair.attrib['text']
         answer = qa_pair[1].attrib['text']
-        if check_word_in_dictionary(question, names_dict) or check_word_in_dictionary(answer, names_dict) :
+        if check_word_in_dictionary(question.lower(), names_dict) or check_word_in_dictionary(answer.lower(), names_dict) :
             template = {}
             template['context'] = context
             template['question'] = question
             template['answer'] = answer
             template['source_dataset'] = "mcscript"
 
-            k +=1
-            templates[k] = template
+            if random.randint(0,1) == 0 :
+                k +=1
+                templates[k] = template
 
 print (j)
 print (k)
