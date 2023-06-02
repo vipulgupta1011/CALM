@@ -32,7 +32,7 @@ names_dataset = read_csv(names_file_path)
 names_dict = {}
 
 for row in names_dataset[1:] :
-    names_dict[row[0]] = {}
+    names_dict[row[0].lower()] = {}
 
 j,k = 0,0
 templates = {}
@@ -51,7 +51,7 @@ for i in range(len(dataset)) :
     #if 'touchdown' in context :
     #    continue
 
-    if check_word_in_dictionary(context, names_dict) :
+    if check_word_in_dictionary(context.lower(), names_dict) :
 
         sub_word = row[2]
 
@@ -60,7 +60,7 @@ for i in range(len(dataset)) :
         if row[4] == '' :
             continue
 
-        if not check_word_in_dictionary(sub_word, names_dict) :
+        if not check_word_in_dictionary(sub_word.lower(), names_dict) :
             continue
 
         question_type = row[0]
