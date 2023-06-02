@@ -25,7 +25,7 @@ names_dataset = read_csv(names_file_path)
 names_dict = {}
 
 for row in names_dataset[1:] :
-    names_dict[row[0]] = {}
+    names_dict[row[0].lower()] = {}
 
 j,k = 0,0
 templates = {}
@@ -40,7 +40,7 @@ for i in range(len(dataset)) :
     if len_words > 400 :
         continue
 
-    if check_word_in_dictionary(context, names_dict) :
+    if check_word_in_dictionary(context.lower(), names_dict) :
 
         qa_pairs = row['qa']
         
@@ -51,7 +51,7 @@ for i in range(len(dataset)) :
             if len(qa_pair['answers']) == 0 :
                 continue
             answer = qa_pair['answers'][0]
-            if check_word_in_dictionary(question, names_dict) or check_word_in_dictionary(answer, names_dict) :
+            if check_word_in_dictionary(question.lower(), names_dict) or check_word_in_dictionary(answer.lower(), names_dict) :
                 name_present = True
                 template = {}
                 
