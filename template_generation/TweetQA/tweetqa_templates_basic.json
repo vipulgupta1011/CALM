@@ -1,0 +1,254 @@
+{
+    "1": {
+        "context": "@chrisrock This is an amazing project. I'd say \"Keep it up,\" except, well, I hope you won't have to. (And I do wish you luck.)— John Colapinto (@JohnColapinto) April 1, 2015",
+        "question": "who does john wish luck to?",
+        "answer": "@chrisrock",
+        "source_dataset": "TweetQA"
+    },
+    "2": {
+        "context": "Oh man just read about Paul Walkers death. So young. Ugggh makes me sick especially when it's caused by an accident. God bless his soul.— Jay Sean (@jaysean) December 1, 2013",
+        "question": "who does sean mourn here?",
+        "answer": "paul walker.",
+        "source_dataset": "TweetQA"
+    },
+    "3": {
+        "context": "What an honor it was to work for Ben Bradlee. We took this photo at Don Graham's farewell party - one year ago today. Christine Brennan (@cbrennansports) October 22, 2014",
+        "question": "what was it like to work for ben bradlee?",
+        "answer": "an honor",
+        "source_dataset": "TweetQA"
+    },
+    "4": {
+        "context": "#TD16 has intensified into #Nate in SW Caribbean - 14th Atlantic named storm of 2017 season - the 10th year on record with 14+ NS thru 10/5 Philip Klotzbach (@philklotzbach) October 5, 2017",
+        "question": "what is the name of the storm system?",
+        "answer": "nate",
+        "source_dataset": "TweetQA"
+    },
+    "5": {
+        "context": "The secret’s out. Portia & I have a kid. I posted this video of him on ellentube. Brace yourselves. He’s adorable. Ellen DeGeneres (@TheEllenShow) January 14, 2016",
+        "question": "where did ellen degeneres post a video of her son?",
+        "answer": "ellentube",
+        "source_dataset": "TweetQA"
+    },
+    "6": {
+        "context": "@DavidLevitz again i just like the show and i love when families stick together, i havent said i agree with all that theyve ever said— Liam Payne (@Real_Liam_Payne) January 18, 2014",
+        "question": "who is liam replying to?",
+        "answer": "david levitz",
+        "source_dataset": "TweetQA"
+    },
+    "7": {
+        "context": "\"Ryan... you didn't save jazz.\" -Emma Stone # Saturday Night Live (@nbcsnl) October 1, 2017",
+        "question": "what form of music does emma comment that ryan did not save?",
+        "answer": "jazz",
+        "source_dataset": "TweetQA"
+    },
+    "8": {
+        "context": "🎆 #2018Prediction 6: I’ll take my rants to the airwaves! Because there’s so much BS flying throughout corporate America – and not just in wireless – so maybe I’ll write a book or start a podcast! #staytuned— John Legere (@JohnLegere) December 28, 2017",
+        "question": "where will this person take his tirades?",
+        "answer": "to the airwaves",
+        "source_dataset": "TweetQA"
+    },
+    "9": {
+        "context": "This Russian connection non-sense is merely an attempt to cover-up the many mistakes made in Hillary Clinton's losing campaign.— Donald J. Trump (@realDonaldTrump) February 15, 2017",
+        "question": "which connection does donald trump say is an attempt to cover-up?",
+        "answer": "the russian connection",
+        "source_dataset": "TweetQA"
+    },
+    "10": {
+        "context": "Leaving to spend more time with his pets. Full Frontal (@FullFrontalSamB) August 18, 2017",
+        "question": "why is steve bannon leaving?",
+        "answer": "to spend more time with his pets.",
+        "source_dataset": "TweetQA"
+    },
+    "11": {
+        "context": "More photos of Taylor crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) — Taylor Swift News (@TSwiftDailyNews) November 4, 2014",
+        "question": "where did taylor crash a session?",
+        "answer": "nashville",
+        "source_dataset": "TweetQA"
+    },
+    "12": {
+        "context": "Very sad that The Tig is coming to an end, thank you @meghanmarkle for these amazing years and all your incredible posts; we'll miss The Tig Meghan Markle Daily (@meghanmdaily) April 7, 2017",
+        "question": "according to meghan, what will we all miss?",
+        "answer": "the tig",
+        "source_dataset": "TweetQA"
+    },
+    "13": {
+        "context": "Hey @nickkroll-this is a prop from Difficult People, where Fred Armisen plays my brother, but the pics are real! #PuberMe# billy eichner (@billyeichner) September 28, 2017",
+        "question": "who plays his brother here?",
+        "answer": "fred armisen",
+        "source_dataset": "TweetQA"
+    },
+    "14": {
+        "context": "NOPE. I refuse. I will not call muggle No-Maj. Nope nope nope. Trinity Bramhall (@panicxgirl16) November 4, 2015",
+        "question": "what does trinity think of calling muggle no-maj?",
+        "answer": "she refuses",
+        "source_dataset": "TweetQA"
+    },
+    "15": {
+        "context": "He's back and taking this season to the Maks! @MaksimC#DWTS# Official DWTS (@DancingABC) August 24, 2017",
+        "question": "who is back on the show?",
+        "answer": "maksim c",
+        "source_dataset": "TweetQA"
+    },
+    "16": {
+        "context": "🎵 young pope 🎵🎵 you don't have to wear that dress tonight 🎵— Michael Roston (@michaelroston) January 5, 2017",
+        "question": "to what catholic figure does michael refer?",
+        "answer": "pope",
+        "source_dataset": "TweetQA"
+    },
+    "17": {
+        "context": "Be honest you all would have traded Coldplay for five minutes of @leftshark— Alex Reyes (@AlexReyesWWE) February 8, 2016",
+        "question": "what did alex ask if you would trade",
+        "answer": "coldplay for 5 minutes of leftshark",
+        "source_dataset": "TweetQA"
+    },
+    "18": {
+        "context": "Watching Tom Hiddleston living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip!— Hiddles Fashion (@HiddlesFashion) March 7, 2017",
+        "question": "who is living his best life?",
+        "answer": "tom hiddleston",
+        "source_dataset": "TweetQA"
+    },
+    "19": {
+        "context": "We illuminated just one tree for the grandchildren It said everything ! Merry Christmas wherever you may be! Martha Stewart (@MarthaStewart) December 25, 2015",
+        "question": "for who did martha stewart illuminate this tree?",
+        "answer": "the grandchildren.",
+        "source_dataset": "TweetQA"
+    },
+    "20": {
+        "context": "Russian officials must be laughing even more at the constant negative press covfefe!#CovfefeYourself#TheBestAlternateWords#CovfefeSummerhttps:// Mark Hamill (@HamillHimself) May 31, 2017",
+        "question": "what kind of press coverage is present for donald trump?",
+        "answer": "mostly negative.",
+        "source_dataset": "TweetQA"
+    },
+    "21": {
+        "context": "After the Trooping, The Queen & members of The Royal Family stand on the balcony of Buckingham Palace to watch the @RoyalAirForce fly past. The Royal Family (@RoyalFamily) June 17, 2017",
+        "question": "where are the royal family right now?",
+        "answer": "buckingham palace.",
+        "source_dataset": "TweetQA"
+    },
+    "22": {
+        "context": "New York. My heart is with you always and forever. Devastating news. My soul and heart is with the victims and there loved ones x horrific— Sam Smith (@samsmithworld) October 31, 2017",
+        "question": "what city is sam smith talking to?",
+        "answer": "new york",
+        "source_dataset": "TweetQA"
+    },
+    "23": {
+        "context": "Just arrived in London @johnlegend takes it slow in the station ! # Make It Loud (@MakeItLoudAg) March 29, 2017",
+        "question": "why are so many people gathered in one place?",
+        "answer": "to see john legend",
+        "source_dataset": "TweetQA"
+    },
+    "24": {
+        "context": "@realDonalldTrump James Comey better hope that there are no \"tapes\" of our conversations before he starts leaking to the press!",
+        "question": "who will james comey leak to?",
+        "answer": "the press",
+        "source_dataset": "TweetQA"
+    },
+    "25": {
+        "context": "Drake a houstonian Jamaican Spanish rapper from London and he on a song called \"No Frauds\". Total help me sing— Mugen (@NerdLifeThuggin) March 10, 2017",
+        "question": "what song is drake on?",
+        "answer": "\"no frauds\"",
+        "source_dataset": "TweetQA"
+    },
+    "26": {
+        "context": "So sad to hear of the passing of Malcolm Young. I have so many fond memories of him from my days on the road with AC/DC.I always found him interesting and good company and he was the heart and engine of that great AC/DC show. My condolences to his family and AC/DC fans.❤️ Bernie Marsden (@Bernie_Marsden) November 18, 2017",
+        "question": "which band was malcolm young in?",
+        "answer": "ac/dc",
+        "source_dataset": "TweetQA"
+    },
+    "27": {
+        "context": "Mike Richards charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb— RCMP Manitoba (@rcmpmb) August 27, 2015",
+        "question": "what was mike richards charged with?",
+        "answer": "possession of controlled substance",
+        "source_dataset": "TweetQA"
+    },
+    "28": {
+        "context": "Yogi Ferrell credits improved assist to TO ratio to Tom Crean making them run 17's for every turnover. Those things suck. #iubb — Michael Hughes (@MichaelHughes94) January 23, 2016",
+        "question": "who credits tom crean?",
+        "answer": "yogi ferrell",
+        "source_dataset": "TweetQA"
+    },
+    "29": {
+        "context": "From now on when I apply for a job, I'm going to tick \"white British\" because #TransracialLivesMatter— Kelechi Okafor (@kelechnekoff) June 12, 2015",
+        "question": "when will okafor tick white british?",
+        "answer": "when they apply for a job",
+        "source_dataset": "TweetQA"
+    },
+    "30": {
+        "context": "Peter is like Hugh Jackman and McDreamy had a salt-and-pepper haired, gap toothed baby and I'm HERE. FOR. IT. # Sophie Vershbow (@svershbow) June 20, 2017",
+        "question": "who do they think peter looks like?",
+        "answer": "hugh jackman and mcdreamy",
+        "source_dataset": "TweetQA"
+    },
+    "31": {
+        "context": "So, Tom Hanks will play Comey in the movie, right? Can we just fast-forward to then?— Jenn Bishop (@buffalojenn) June 8, 2017",
+        "question": "what year did people here of tom hanks playing comey in a movie?",
+        "answer": "2017",
+        "source_dataset": "TweetQA"
+    },
+    "32": {
+        "context": "Kristen Stewart introduces short film 'Come Swim' at # Patrick Ryan (@PatRyanWrites) May 20, 2017",
+        "question": "what film did kristen stewart introduce?",
+        "answer": "'come swim'",
+        "source_dataset": "TweetQA"
+    },
+    "33": {
+        "context": "Don't believe @ConanOBrien's height lies. Sam Bee is the tallest host in late night. #alternativefacts— Full Frontal (@FullFrontalSamB) January 22, 2017",
+        "question": "who is the tallest host?",
+        "answer": "sam bee",
+        "source_dataset": "TweetQA"
+    },
+    "34": {
+        "context": "Every day is Mother's Day when u have the best mom in the world. Thank u for being my number one cheerleader Ryan Seacrest (@RyanSeacrest) May 14, 2017",
+        "question": "what is ryan thanking his mom for?",
+        "answer": "being his number on cheerleader",
+        "source_dataset": "TweetQA"
+    },
+    "35": {
+        "context": "From here on out, @RogersArena will be framed by Pat Quinn Way & Griffiths Way. — Vancouver Canucks (@VanCanucks) March 18, 2015",
+        "question": "what will the arena be framed by",
+        "answer": "pat quinn way & griffiths way",
+        "source_dataset": "TweetQA"
+    },
+    "36": {
+        "context": "Jimmy Carter did become dehydrated and is now being treated, head of Habitat Int'l confirms. Carter passed along message that he is \"okay.\"— Melissa Martin (@DoubleEmMartin) July 13, 2017",
+        "question": "who confirmed that jimmy carter became dehydrated?",
+        "answer": "the head of habitat int'l",
+        "source_dataset": "TweetQA"
+    },
+    "37": {
+        "context": "Haha I live for the drama #SelenaEndingJustinParty# Just because (@cos_ican_) August 15, 2016",
+        "question": "what is selena going to end?",
+        "answer": "justinparty",
+        "source_dataset": "TweetQA"
+    },
+    "38": {
+        "context": "Justin Timberlake is wearing an outfit he found in Johnny Depp’s Goodwill donation bag. #superbowlhalftimeshow— Aisha Tyler (@aishatyler) February 5, 2018",
+        "question": "in whose donation bag does aisha feel justin found his outfit?",
+        "answer": "johnny's",
+        "source_dataset": "TweetQA"
+    },
+    "39": {
+        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN.— Marcus Gilmer (@marcusgilmer) July 5, 2017",
+        "question": "what phrase would marcus like corrected about a story?",
+        "answer": "\"leaked nudes\"",
+        "source_dataset": "TweetQA"
+    },
+    "40": {
+        "context": "Rep Sanford on @MSNBC RE: Gov Haley: \"I don't think the cabinet needs to look like a Benetton commercial, but...\" Frank Thorp V (@frankthorp) November 17, 2016",
+        "question": "what governor was sanford referring to?",
+        "answer": "haley",
+        "source_dataset": "TweetQA"
+    },
+    "41": {
+        "context": "F.U.W... Less distraction. More action. Live now. LINK IN BIO. Love y'all. # Jussie Smollett (@JussieSmollett) March 16, 2017",
+        "question": "where is the link found?",
+        "answer": "bio",
+        "source_dataset": "TweetQA"
+    },
+    "42": {
+        "context": "Summer shredding! Mammoth will be open daily into August with the best conditions in the country. Get out here and get your summer shred on. MammothMountain (@MammothMountain) May 26, 2017",
+        "question": "which days will mammoth be open?",
+        "answer": "daily",
+        "source_dataset": "TweetQA"
+    }
+}
