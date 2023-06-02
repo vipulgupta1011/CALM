@@ -25,13 +25,13 @@ names_dataset = read_csv(names_file_path)
 names_dict = {}
 
 for row in names_dataset[1:] :
-    names_dict[row[0]] = {}
+    names_dict[row[0].lower()] = {}
 
 j,k = 0,0
 templates = {}
 
-for i in dataset : 
-    row = dataset[i]
+for p in dataset : 
+    row = dataset[p]
     context = row['passage']
 
     ## count number of words in a string
@@ -43,7 +43,7 @@ for i in dataset :
     if 'touchdown' in context :
         continue
 
-    if check_word_in_dictionary(context, names_dict) :
+    if check_word_in_dictionary(context.lower(), names_dict) :
 
         qa_pairs = row['qa_pairs']
         
@@ -60,7 +60,7 @@ for i in dataset :
             else : 
                 answer = qa_pair['answer']['spans'][0]
                 
-            if check_word_in_dictionary(question, names_dict) or check_word_in_dictionary(answer, names_dict) :
+            if check_word_in_dictionary(question.lower(), names_dict) or check_word_in_dictionary(answer.lower(), names_dict) :
                 name_present = True
                 template = {}
                 
