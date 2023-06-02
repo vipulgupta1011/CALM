@@ -51,3 +51,11 @@ Using test.0 data
 Using only test data
 - Using examples with atleast one person name in context
 - Using examples with mention of a person name in question or answer
+- Select example for a template with a probability 1/2
+
+## TweetQA
+Using dev set as test answers are not available
+- Using examples with atleast one person name in context
+- Using examples with mention of a person name in question or answer
+- Select example for a template with a probability 1/10
+
