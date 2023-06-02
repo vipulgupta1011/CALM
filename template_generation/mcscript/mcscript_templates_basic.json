@@ -1,0 +1,128 @@
+{
+    "1": {
+        "context": "My cat Max lets me know when he's hungry. He meows pitifully, like his heart is broken. Then he walks back and forth in front of me as I prepare his food, snapping his tail. That's so I don't forget him, I guess. I always wash his bowl first. Then I dry it, and pour in a scoop of kibble. I put a chunk of canned cat food on top of that, less than a quarter of a flat can. Next, I put the bowl on the floor and stand back. He runs to the bowl and starts eating as fast as he can. He eats all the soft food on the top as fast as lightning. Then he takes his time with the kibble, eating more and more slowly until its gone. When he finally finishes  he slinks away. Then I wipe up the floor, because Max is not a tidy eater.",
+        "question": "What is the cat's name?",
+        "answer": "Max",
+        "source_dataset": "mcscript"
+    },
+    "2": {
+        "context": "My friend , Tom , had moved into a new house , and decided to plant a small tree to help make his yard look better . He had been advised by a tree expert , that the best time to plant it was in April or May . So about several weeks after Tom had moved into his new home , he went ahead to plant the tree in mid April . He first got and checked some maps to make sure he did n't mistakenly end up digging into any telephone or gas lines . Once he found a suitable spot to plant his new tree , Tom took a shovel and began preparing the hole to place it in . Next , he prepared the tree for planting by turning carefully upside down to remove it from the pot it came in . He then gently , placed the tree into the hole . Tom also filled the hole with some compost and manure to help the tree grow better . Once this was done , he filled up the hole completely and watered the tree . Finally , he placed mulch on top and then stopped to admire the beautiful new tree in his yard . ",
+        "question": "Who planted the tree?",
+        "answer": "Tom",
+        "source_dataset": "mcscript"
+    },
+    "3": {
+        "context": "Yesterday, I paid my bills for the month of May. I have a number of bills that I need to keep track of, including heat, water, and gas. I have to pay three different companies to clear those bills. In order to remind myself of the bill payment deadlines, I have a sticky note on my refrigerator door with all of the upcoming month's deadlines. A few days ago, I noticed that the deadlines for May were coming up, so yesterday I decided to just tackle all of my payments. I got out my checkbook and a ballpoint pen. I wrote one check to the heat company for $120, one check to the water company for $100, and one check to the gas company for $130. I then stuffed each check into a separate envelope, wrote the addresses of the companies onto their respective envelopes, and dropped off the envelopes into the mail pickup box.",
+        "question": "When were the bills due?",
+        "answer": "In the month of June",
+        "source_dataset": "mcscript"
+    },
+    "4": {
+        "context": "Yesterday Steve and I went out to dinner at a newly opened Mexican restaurant. We'd both heard they had good Al Pastor, so he ordered the Al Pastor burrito and I ordered an Al Pastor quesadilla. After waiting quite long, nearly 30 minutes, we finally received our food. It's true that the Al Pastor was tasty but it was also spicy! Insanely spicy! It as so spicy that neither Steve or I could actually eat it. After a few bites we were gulping down water and calling the waiter to come back over. I apologized and asked if we could switch the dish for something with a similar price. Steve added that the dish was so hot, it should come with a warning. Our server apologized and agreed to bring us the same dishes, but with shredded steak instead of the Al Pastor. The new dishes came out more quickly than the first two and were much more edible.",
+        "question": "Who were they eating with?",
+        "answer": "Steve",
+        "source_dataset": "mcscript"
+    },
+    "5": {
+        "context": "I had decided that I wanted to visit my friend Paul whom lives quite a distance away . With this and my fear of air travel in mind I decided to take a train . After researching and finding one online I was well on my way to going to see my friend Paul . I drive to the station and decide that I am going to purchase a round trip ticket as this would be cheaper than just buying both tickets separately . I purchase my ticket and then go to sit down and wait for my train . Whenever my train arrives I have to get in line as they process our tickets . After all this is done I decide to take a seat by the window . I sit and fall asleep a bit as I ride on the train for hours . After a couple hours we finally reach the destination and I get off the train , excited to see my friend . ",
+        "question": "Who did they board the train with?",
+        "answer": "Their friend Paul",
+        "source_dataset": "mcscript"
+    },
+    "6": {
+        "context": "It was my first time in London so my anxiety was pretty high, but I still managed to approach the ticket seller who was actually very nice. The lady sold me a ticket and then directed me through the gate with the turn style entry. I walked down several flights of stairs that had a central corner landing. A man sat cross legged playing guitar, he seemed very happy with his life, I dropped a pound coin into his upside down hat in front of him, he smiled and I smiled back. I continued down the stairs to king's cross and awaited the train I would be boarding. After about 17 mins the train was heard approaching. The train screeched to a halt at the platform on the southbound side where I was. Once all of the patrons exited the train I boarded and sat next to a bald woman with a pet iguana on her shoulders. The subway smelled of urine and B.O. but it was cheap and I liked people watching, especially in a foreign city at thirteen years old.",
+        "question": "Where did they wait for the train?",
+        "answer": "Outside London",
+        "source_dataset": "mcscript"
+    },
+    "7": {
+        "context": "My family and I decided to host a barbecue for our neighborhood. It was the Summer time, the perfect weather for a barbecue. We invited most of our neighbors and most of them graciously accepted. Some of them declined as they were busy during the planned time of the barbecue. We decided to make the food of choice burgers and hot dogs. Most of the people at he barbecue were pleased with the food choice. My kids were fairly entertained as a lot of people in my neighborhood have kids as well, so they had plenty of friends to play with at the party. We also told everyone to bring swimming gear as well as we had just recently opened up our pool. I'm sure the most of the kids enjoyed that. Everyone said that the food tasted amazing and that really pleased me. Everyone had an enjoyable time as the barbecue went on into the night.",
+        "question": "Will the barbecue be held at the park or at their house?",
+        "answer": "park",
+        "source_dataset": "mcscript"
+    },
+    "8": {
+        "context": "Every Saturday night my family and I go out to eat at a restaurant. Saturday nights are busy at restaurants, so we have to make a reservation earlier in the week. This means you tell the restaurant when you are coming to eat, and they agree to have a table ready for you. Some restaurants let you make your reservation online, but for others you have to call and speak to a host or hostess. This Saturday, my family wants to eat at our favorite Greek restaurant. This place doesn't have online reservations, so on Wednesday afternoon I called and spoke to Maria, the hostess. I asked Maria if my family of four could make a reservation for 6pm on Saturday, but that time wasn't available. Maria told me we could eat at 4:30 or 7:30 instead. 4:30 is too early for our dinner, so I picked the 7:30 reservation.",
+        "question": "Will it be a romantic date dinner?",
+        "answer": "no",
+        "source_dataset": "mcscript"
+    },
+    "9": {
+        "context": "John loves coffee.  He loves coffee so much, that he goes to a special coffee shop to buy a very expensive bag of coffee every single week.  His favorite part is making the coffee, and smelling the coffee through his whole house as it is brewing.  When he gets home from buying the coffee, he pulls out the coffee maker, puts water in the pot, and pours just the right amount of coffee grounds into the filter at the top.  After the water and coffee is in the coffee pot, he turns it on, and sets it to perk.  Once it starts, you can hear the coffee brewing, the water heating, and the water being forced through the coffee grounds.  It starts to smell like the best coffee ever, and John is happy.  When it finishes, the coffee maker beeps, and he knows it is finished.  He pours himself a cup of coffee, and adds his cream and a touch of sugar.",
+        "question": "Who was brewing coffee?",
+        "answer": "Sarah",
+        "source_dataset": "mcscript"
+    },
+    "10": {
+        "context": "The fishing day went really well and Allan was looking forward to his dinner of freshly-caught, fried fish.  He had filleted the fish as soon as he returned to the dock and now he rinsed and dried each fillet. He took some saltine crackers and crushed them in a plastic bag, using a rolling pin. He poured the crumbs onto a plate. He put some flour on another plate and added some salt and pepper and mixed them with the flour. Next, Allan cracked two eggs into a bowl and added a couple of spoonfuls of water. With a fork, he quickly stirred the egg and water until they were blended together. Allan put a large frying pan on his stove and turned on the burner. He added oil to about a half an inch. While the oil was heating, he took one fillet in his right hand and set it in the flour mixture and completely covered the fish. He then took the fillet and dipped it in the egg and then set the fish on the cracker crumbs. He turned the fish and pressed on the crumbs until the fillet was coated. He then carefully set the breaded fillet into the hot oil. When the edges of the fillet were starting to brown, he took tongs and carefully turned the fillet over. In just a few minutes, the bottom edges were also browning so he removed the fish from the pan with the tongs. He set the fish on some paper towels to soak up the excess oil and then moved it to his dinner plate.",
+        "question": "Who is cooking the fish?",
+        "answer": "Allan",
+        "source_dataset": "mcscript"
+    },
+    "11": {
+        "context": "So last night, Chris and I decided we wanted to eat out and we wanted Korean this Friday. We immediately logged on the computer and did a search for Korean barbecue. The search engine pulled-up several restaurants including One Table which makes online reservations. There were several listing on the site, so we chose one nearby and had received rave reviews on another site. The restaurant is called Takorea and it's about four miles away. There was link to make our dinner reservations on the site. Great. That makes it very convenient. On the site, you had to first select your restaurant, of course. Then it requested and date, party number and time. There were several options to choose from for time so taking into consideration of traffic and parking, we made our reservation for the two of us on Friday, June 2, at 7:30 pm. The site requested we show up a few minutes early in case the table opens up sooner. I'm really looking forward to going tomorrow.",
+        "question": "When did they want to go to dinner?",
+        "answer": "June 2nd",
+        "source_dataset": "mcscript"
+    },
+    "12": {
+        "context": "Katie and Jesse from next door came over and left an invitation to have a barbecue pitch in at their house. As, we packed the kids up, I made some potato salad while I waited for them to fight and argue, and finally put their shoes and jackets on so we could leave. \"Kevin,: I yelled as I got to the front door, \"Don't forget to bring the big cooler over in the car when you get up and around. My husband Kevin had just had surgery on his back, and it took him a lot longer to get up and around. He definitely couldn't make the quarter of a mile trek down to Katie and Jesse's. Though, I was pretty sure he liked going to the parties the neighbors threw even more that the kids did. \"I called over to Katie, and she said that they have all the meat there already, so no need for you to drag yourself off to the grocery. Just rest, and I'll see you there. I love you. I'll save you a cheeseburger,\" I teased as I kissed him goodbye. He grinned at me and beeped my nose, \"I love you Sally Jean,: He said with an exaggerated southern drawl. He then turned and gave our four young boys the evil eye, \"I expect you to be good and eat lots of hamburgers and hot dogs at the barbecue.\" They all nodded in unison and screamed, \"Hamburgers!\" like wild Indians. I love going to eat others peoples food, and let my kids make a mess somewhere that I don't have to clean it up.",
+        "question": "who's holding the barbecue?",
+        "answer": "Katie & Jesse",
+        "source_dataset": "mcscript"
+    },
+    "13": {
+        "context": "Katie and Jesse from next door came over and left an invitation to have a barbecue pitch in at their house. As, we packed the kids up, I made some potato salad while I waited for them to fight and argue, and finally put their shoes and jackets on so we could leave. \"Kevin,: I yelled as I got to the front door, \"Don't forget to bring the big cooler over in the car when you get up and around. My husband Kevin had just had surgery on his back, and it took him a lot longer to get up and around. He definitely couldn't make the quarter of a mile trek down to Katie and Jesse's. Though, I was pretty sure he liked going to the parties the neighbors threw even more that the kids did. \"I called over to Katie, and she said that they have all the meat there already, so no need for you to drag yourself off to the grocery. Just rest, and I'll see you there. I love you. I'll save you a cheeseburger,\" I teased as I kissed him goodbye. He grinned at me and beeped my nose, \"I love you Sally Jean,: He said with an exaggerated southern drawl. He then turned and gave our four young boys the evil eye, \"I expect you to be good and eat lots of hamburgers and hot dogs at the barbecue.\" They all nodded in unison and screamed, \"Hamburgers!\" like wild Indians. I love going to eat others peoples food, and let my kids make a mess somewhere that I don't have to clean it up.",
+        "question": "Who was doing the BBQ?",
+        "answer": "Katie and Jesse",
+        "source_dataset": "mcscript"
+    },
+    "14": {
+        "context": "There aren't many inexpensive things to do in Seattle -- and that's especially true if you're a student. Finally, I found something online: a cheap trip to an art museum. I couldn't book online, but I made a note to go in on Sunday. When Sunday came around, I waited in a short line behind a few other people. I paid for my ticket without hassle. Once everyone had their tickets, a guide met us and led the group through the museum. I saw lots of exhibits: paintings, sculptures, pottery, and more. The group eventually split up and I explored the museum on my own. There was so much to see in the museum. Even if I'd stayed all day, there was no way I could have seen all of it. At the end of my trip, I went to the souvenir store and bought myself a few trinkets. It was great!",
+        "question": "When did they leave to go to the museum?",
+        "answer": "Sunday",
+        "source_dataset": "mcscript"
+    },
+    "15": {
+        "context": "Taking a trip to celebrate a holiday is a wonderful experience.  I decided to take a trip to New York City this year to celebrate New Years Eve with friends.  My first question was if I should stay in a hotel or with friends.  Due to the cost of hotels I decided that staying with friends was the very best option.  I then decided that to travel to New York City my best choice would be to take the train.  The train trip from Boston to New York City is relatively short and it's very convenient because the train stop is very close to my friends apartment.  My friends and I then decided that we should make dinner reservations for a nice new years dinner in New York.  I took care of the reservations for dinner and the train and now I am just waiting a couple of months so I can take this really exciting trip.",
+        "question": "Where are they going?",
+        "answer": "Boston",
+        "source_dataset": "mcscript"
+    },
+    "16": {
+        "context": "Maria helps clean the table after dinner.  She takes the plates first, scrapes the food off of them, and throws away the scraps. She sets the dishes near the sink. Then, she takes the cups two at a time, and empties them in the sink if there is any drink left in them.  She sets them next to the counter where the sink is to be washed.   Then she gathers the silverware, and any other dishes with food in them.  She wipes the table carefully, and puts back the flower decoration onto the center of the table.  She then goes back to the kitchen, to rinse the dishes, and prepare them for the dishwasher.  She loads the dishwasher with the dirty dishes, and puts the soap in the dishwasher.  She turns on the dishwasher, and goes to tell her mom that she done with the dishes and cleaning the table.",
+        "question": "Who cleaned the table?",
+        "answer": "Maria did.",
+        "source_dataset": "mcscript"
+    },
+    "17": {
+        "context": "Carrie came running into the house screaming at the top of her lungs, and collapsed at Laura's still moving feet. \"What's the matter baby? What happened,\" Laura asked as she stooped down to look at the minor scrape on Carrie's knee. \"Matty pushed me down on the swing,\" she said through stained lips. \"He pushed me real hard.\" Carries put her head down in Laura's lap there in the kitchen floor. She swooped Carrie up with a little extra spin just for fun. \"Let's go put a cool band aid on it, and you can go show him that all he did was get you a sticker,\" Laura said to her trying to cheer her up. Carries snuggled tighter to her mom as Laura flipped the bathroom light on. In the medicine cabinet, she always kept Hello Kitty and Power Ranger band aids, just in case of this happening. After cleaning the cut with antiseptic, and kissing her now happy little girl, Laura had put a hot pink band aid with Hello Kitty smiling brightly from Carrie's knee. It wasn't two minutes later that she was right out the door to show the boys how tough she was.",
+        "question": "Did anyone else help apply the band aid?",
+        "answer": "No only Laura applied the band aid.",
+        "source_dataset": "mcscript"
+    },
+    "18": {
+        "context": "Carrie came running into the house screaming at the top of her lungs, and collapsed at Laura's still moving feet. \"What's the matter baby? What happened,\" Laura asked as she stooped down to look at the minor scrape on Carrie's knee. \"Matty pushed me down on the swing,\" she said through stained lips. \"He pushed me real hard.\" Carries put her head down in Laura's lap there in the kitchen floor. She swooped Carrie up with a little extra spin just for fun. \"Let's go put a cool band aid on it, and you can go show him that all he did was get you a sticker,\" Laura said to her trying to cheer her up. Carries snuggled tighter to her mom as Laura flipped the bathroom light on. In the medicine cabinet, she always kept Hello Kitty and Power Ranger band aids, just in case of this happening. After cleaning the cut with antiseptic, and kissing her now happy little girl, Laura had put a hot pink band aid with Hello Kitty smiling brightly from Carrie's knee. It wasn't two minutes later that she was right out the door to show the boys how tough she was.",
+        "question": "What did the bandage look like?",
+        "answer": "It had Hello Kitty on it",
+        "source_dataset": "mcscript"
+    },
+    "19": {
+        "context": "Will wanted to go bowling with his friend Allen, but he didn't have enough money to cover the cost for both him and Allen so he just went alone. Will brought his own ball and when he stepping in the door he could smell that fresh bowling smell. so Will went up to the counter and asked the woman operating the shoe station for a size ten pair of shoes. He laced up his shoes and was ready to go. he saw an open court and he took it. he pressed the new game button and off he went. he saw that the pins were set up in a very specific way but he was ready for that challenge. he rolled the ball so far onto the lane that it knocked out all of the bowling pins and he received a strike! everyone was so amazed. Will did amazing. he kept bowling until the night ended.  he got so tired that he eventually had to call it a night and go home. Will returned the bowling shoes and laced up his old regular ones again taking those shops off was like taking power away from him. Will got back in his car and drove back home.",
+        "question": "Did they have their own ball?",
+        "answer": "Yes, Will had his own ball.",
+        "source_dataset": "mcscript"
+    },
+    "20": {
+        "context": "Last night I went bowling with some girlfriends. We met at the bowling alley and traded in our sandals for some black and white bowling shoes. We laced up the shoes and set up our scorecard with each of our names displayed on the screen. Then one of my friends went to get us all sodas and snacks, and when she got back we started the game. The first game we played just to warm up, so we didn't keep score on the screen. We just took a few turns to get into the groove. Then we got serious and began tracking the score. I won the first game, but then my luck ran out. My friend Sarah won the next two games. Jill did not win any games, but she was a wonderful friend and kept our snacks and drinks filled. Mary Beth was the scorekeeper, though she didn't win either! When the game was over, we traded back for our shoes and drove home.",
+        "question": "Who won the most games?",
+        "answer": "Sarah",
+        "source_dataset": "mcscript"
+    },
+    "21": {
+        "context": "I live near the city of Santa Cruz and often take the 17X bus to the nearby city of San Jose . It 's possible to get discount fares by paying for multiple rides in advance , but I usually pay cash , five dollars for one-way . I get to my small town 's transit center early on weekday mornings , because the bus fills up quickly , and most good seats are already taken by riders who started their trip in downtown Santa Cruz . We wait in line in civilized fashion . Some people need only show the driver their pass , some shove a five-dollar bill into the fare machine efficiently . But some fumble with small coins or ask other riders for change , which makes everyone in line restive . Once on , riders can choose seats grouped around small tables , seats facing forward , or seats facing sideways . Table seats are premium , since the bus has WiFi and many people bring laptops . Others prefer seats in the back where the roughnecks are , just like in high school . My little town is the last stop before highway 17 . The bus whips along amid the pine trees and the yellow-flowered acacia that blooms this time of year . It is pleasant not to have to keep your eyes on the road . Unspoken bus etiquette decrees that strangers do n't speak to each other , but of course some people know each other and chat . Many tap away on their machines or play video games , others read books or enjoy the ride . It ends at San Jose 's train station , where passengers can transfer to the San Francisco train , or take a rattling inferior 1-hour bus ride to Fremont to catch the BART mass transit line to Oakland , Richmond , or distant Pittsburg , where the California Delta begins . ",
+        "question": "Where did the bus go?",
+        "answer": "Oakland",
+        "source_dataset": "mcscript"
+    }
+}
