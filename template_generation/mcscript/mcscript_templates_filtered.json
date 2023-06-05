@@ -1,0 +1,14 @@
+{
+    "5": {
+        "context": "I had decided that I wanted to visit my friend <PERSON> whom lives quite a distance away . With this and my fear of air travel in mind I decided to take a train . After researching and finding one online I was well on my way to going to see my friend <PERSON> . I drive to the station and decide that I am going to purchase a round trip ticket as this would be cheaper than just buying both tickets separately . I purchase my ticket and then go to sit down and wait for my train . Whenever my train arrives I have to get in line as they process our tickets . After all this is done I decide to take a seat by the window . I sit and fall asleep a bit as I ride on the train for hours . After a couple hours we finally reach the destination and I get off the train , excited to see my friend . ",
+        "question": "Who did they board the train with?",
+        "answer": "<PERSON>",
+        "source_dataset": "mcscript"
+    },
+    "21": {
+        "context": "<PERSON> helps clean the table after dinner.  <He/She> takes the plates first, scrapes the food off of them, and throws away the scraps. <He/She> sets the dishes near the sink. Then, <he/she> takes the cups two at a time, and empties them in the sink if there is any drink left in them.  <He/She> sets them next to the counter where the sink is to be washed.   Then <he/she> gathers the silverware, and any other dishes with food in them.  <He/She> wipes the table carefully, and puts back the flower decoration onto the center of the table.  <He/She> then goes back to the kitchen, to rinse the dishes, and prepare them for the dishwasher.  <He/She> loads the dishwasher with the dirty dishes, and puts the soap in the dishwasher.  <He/She> turns on the dishwasher, and goes to tell <his/her> mom that <he/she> done with the dishes and cleaning the table.",
+        "question": "Who cleaned the table?",
+        "answer": "<PERSON>",
+        "source_dataset": "mcscript"
+    }
+
