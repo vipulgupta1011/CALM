@@ -1,0 +1,68 @@
+{
+    "3": {
+        "context": "What an honor it was to work for <PERSON>. We took this photo at Don Graham's farewell party - one year ago today. Christine Brennan (@cbrennansports) October 22, 2014",
+        "question": "what was it like to work for <PERSON>?",
+        "answer": "an honor",
+        "source_dataset": "TweetQA"
+    },
+    "7": {
+        "context": "\"<PERSON>... you didn't save jazz.\" -Emma Stone # Saturday Night Live (@nbcsnl) October 1, 2017",
+        "question": "what form of music does emma comment that <PERSON> did not save?",
+        "answer": "jazz",
+        "source_dataset": "TweetQA"
+    },
+    "8": {
+        "context": "🎆 #2018Prediction 6: I’ll take my rants to the airwaves! Because there’s so much BS flying throughout corporate America – and not just in wireless – so maybe I’ll write a book or start a podcast! #staytuned— <PERSON> December 28, 2017",
+        "question": "where will this person take his tirades?",
+        "answer": "to the airwaves",
+        "source_dataset": "TweetQA"
+    },
+    "11": {
+        "context": "More photos of <PERSON> crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) — <PERSON> November 4, 2014",
+        "question": "where did <PERSON> crash a session?",
+        "answer": "nashville",
+        "source_dataset": "TweetQA"
+    },
+    "14": {
+        "context": "NOPE. I refuse. I will not call muggle No-Maj. Nope nope nope. <PERSON> November 4, 2015",
+        "question": "what does <PERSON> think of calling muggle no-maj?",
+        "answer": "she refuses",
+        "source_dataset": "TweetQA"
+    },
+    "16": {
+        "context": " young pop  you don't have to wear that dress toni - <PERSON> January 5, 2017",
+        "question": "to what catholic figure does <PERSON> refer?",
+        "answer": "pope",
+        "source_dataset": "TweetQA"
+    },
+    "18": {
+        "context": "Watching <PERSON> living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip!— Hiddles Fashion (@HiddlesFashion) March 7, 2017",
+        "question": "who is living his best life?",
+        "answer": "<PERSON>",
+        "source_dataset": "TweetQA"
+    },
+    "19": {
+        "context": "We illuminated just one tree for the grandchildren It said everything ! Merry Christmas wherever you may be! - <PERSON> December 25, 2015",
+        "question": "for who did <PERSON> illuminate this tree?",
+        "answer": "the grandchildren.",
+        "source_dataset": "TweetQA"
+    },
+    "27": {
+        "context": "<PERSON> charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb— RCMP Manitoba (@rcmpmb) August 27, 2015",
+        "question": "what was <PERSON> charged with?",
+        "answer": "possession of controlled substance",
+        "source_dataset": "TweetQA"
+    },
+    "33": {
+        "context": "Don't believe @ConanOBrien's height lies. <PERSON> is the tallest host in late night. #alternativefacts— Full Frontal (@FullFrontalSamB) January 22, 2017",
+        "question": "who is the tallest host?",
+        "answer": "<PERSON>",
+        "source_dataset": "TweetQA"
+    },
+    "39": {
+        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN.— <PERSON> July 5, 2017",
+        "question": "what phrase would <PERSON> like corrected about a story?",
+        "answer": "\"leaked nudes\"",
+        "source_dataset": "TweetQA"
+    }
+}
