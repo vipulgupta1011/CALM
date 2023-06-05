@@ -53,9 +53,9 @@ for child in root :
             template['answer'] = answer
             template['source_dataset'] = "mcscript"
 
-            if random.randint(0,1) == 0 :
-                k +=1
-                templates[k] = template
+            #if random.randint(0,1) == 0 :
+            k +=1
+            templates[k] = template
 
 print (j)
 print (k)
