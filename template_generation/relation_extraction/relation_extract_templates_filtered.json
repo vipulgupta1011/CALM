@@ -1,0 +1,79 @@
+{
+    "2": {
+        "context": "<PERSON> (born 12 September 1966) is an Irish former journalist and writer of women's fiction since 1997.",
+        "question": "What was <PERSON>'s career?",
+        "answer": "journalist",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Cathy Kelly"
+    },
+    "3": {
+        "context": "<PERSON> (born 24 February 1958 in Graz, Austria) is an Austrian Australian writer and publisher diagnosed with Parkinson's disease at the age of 48 years.",
+        "question": "What medical condition did <PERSON> have?",
+        "answer": "Parkinson's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Gerald Ganglbauer"
+    },
+    "5": {
+        "context": "<PERSON> (born 26 June 1972) is a Mexican politician affiliated to the National Regeneration Movement (formerly to the Citizens' Movement. <He/She> currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Oaxaca.",
+        "question": "What was <PERSON>'s occupation?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Juan Luis Martínez Martínez"
+    },
+    "6": {
+        "context": "<PERSON> died in Greenville in 1933 at age 37 of congenital syphilis, which may have been the reason for his blindness.",
+        "question": "What led to <PERSON>'s death?",
+        "answer": "blindness",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Blind Willie Walker"
+    },
+    "9": {
+        "context": "<PERSON> had suffered a stroke and been dealing with Alzheimer's disease at the time of <his/her> death at the age of 85 on October 26, 2008.",
+        "question": "What medical condition was <PERSON> suffering from?",
+        "answer": "Alzheimer's disease",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Betty Wagner Spandikow"
+    },
+    "14": {
+        "context": "<PERSON> (born 1966 in Montebello, California) is an American expert in human echolocation and President of World Access for the Blind, a non-profit founded in 2000 to facilitate ``the self-directed achievement of people with all forms of blindness'' and increase public awareness about their strengths and capabilities.",
+        "question": "What was <PERSON>'s medical condition near the end of his life?",
+        "answer": "blindness",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Daniel Kish"
+    },
+    "16": {
+        "context": "Weakened and in poor health from exhaustion and tuberculosis, <PERSON> fell ill while traveling from Linglestown, Pennsylvania, northeast of Harrisburg.",
+        "question": "What medical condition did <PERSON> have?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Jacob Albright"
+    },
+    "17": {
+        "context": "<PERSON> (13 August 1837 -- 3 March 1923) was a German conductor, composer, and music pedagogue.",
+        "question": "What kind of  occupation does <PERSON> have?",
+        "answer": "composer",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Karl Adolf Lorenz"
+    },
+    "22": {
+        "context": "<PERSON> (September 11, 1821 - October 29, 1901) was a Republican politician and the 52nd Governor of Connecticut.",
+        "question": "What kind of  occupation does <PERSON> have?",
+        "answer": "politician",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Henry Baldwin Harrison"
+    },
+    "24": {
+        "context": "Having suffered for at least a year, <PERSON> endured a serious attack of tuberculosis in 1805.",
+        "question": "What caused <PERSON>'s death?",
+        "answer": "tuberculosis",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Mary Tighe"
+    },
+    "25": {
+        "context": "<PERSON> (born 2 April 1950) is an Australian Paralympic athlete with paraplegia, who won six medals at six Paralympics.",
+        "question": "What medical condition does <PERSON> have?",
+        "answer": "paraplegia",
+        "source_dataset": "relation_extraction",
+        "sub_word": "Terry Giddy"
+    }
+}
