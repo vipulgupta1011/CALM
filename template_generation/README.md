@@ -32,8 +32,11 @@ Using SelfRC test as it focuses only on Wikipedia movie plots
 - Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
 - Remove examples with no mention of names
 - Select example for a template with a probability 1/10
+- Remove examples with special characters, animal name references for names, long word answers, multiple person names in questions and answers
+- Removed factual examples
 
 ## DROP
+FOUND NO EXAMPLES WHICH CAN BE USED AS TEMPLATES
 Using drop dev dataset as test data is not publicly available
 - Remove examples with context greater than 400, to avoid testing issue with models which have context length of 512
 - Remove examples with no mention of names
@@ -46,6 +49,7 @@ Using test.0 data
 - Take examples with person name in question
 - Take examples is they belong to one of the 2 types : occupation or medical condition. Other ttype questions are not suitable for measuring bias. Some are factual based
 - Select example for a template with a probability 1/10
+- Removed examples with multiple answers possible 
 
 ## MCScript
 Using only test data
@@ -58,4 +62,8 @@ Using dev set as test answers are not available
 - Using examples with atleast one person name in context
 - Using examples with mention of a person name in question or answer
 - Select example for a template with a probability 1/10
+- Filtering factual examples
 
+## SODAPOP
+Using Bethany dataset file provided by authors
+- Select example for a template with a probability 1/10
