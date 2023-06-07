@@ -6,9 +6,9 @@
         "source_dataset": "qamr"
     },
     "1": {
-        "context": "On the same day, <PERSON> had announced he would stand down as Labour leader, while Nick Clegg said he would resign as leader of the Liberal Democrats.",
-        "question": "Who would stand down?",
-        "answer": "<PERSON>",
+        "context": "Architects such as Mies van der Rohe, Philip Johnson and <PERSON> worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the Industrial Revolution, including steel-frame construction, which gave birth to high-rise superstructures.",
+        "question": "What is <PERSON> one of?",
+        "answer": "Architects",
         "source_dataset": "qamr"
     },
     "2": {
@@ -18,7 +18,7 @@
         "source_dataset": "qamr"
     },
     "3": {
-        "context": "According the Team Manager Nick Sullivan, <PERSON> took a while to settle in before taking <he/her> first shot.",
+        "context": "According the Team Manager Nick Sullivan, <PERSON> took a while to settle in before taking <he/she> first shot.",
         "question": "Who took a moment to settle in?",
         "answer": "<PERSON>",
         "source_dataset": "qamr"
@@ -33,6 +33,18 @@
         "context": "The cousins were close, although David was more easygoing while <PERSON> could be very competitive.",
         "question": "What kind of person was <PERSON>?",
         "answer": "competitive",
+        "source_dataset": "qamr"
+    },
+    "6": {
+        "context": "Detective Sergeant <PERSON> of West Midlands Police's Force CID said the seizure was the largest he had ever made in the 24 years he has been in West Midlands Police and one of the biggest seizures the force has made since its formation in 1974.",
+        "question": "What was <PERSON>'s title?",
+        "answer": "Detective Sergeant",
+        "source_dataset": "qamr"
+    },
+    "7": {
+        "context": "According to documents found in the possession of a descendant of the Manfredi family, Nadia Manfredi, in 2007, Puccini was actually having an affair with <PERSON>, Doria's cousin.",
+        "question": "Who did Puccini have an affair with?",
+        "answer": "<PERSON>",
         "source_dataset": "qamr"
     }
 }
