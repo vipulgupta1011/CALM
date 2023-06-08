@@ -1,0 +1,286 @@
+text,pronoun,pronoun_loc,quote,quote_loc,options,label,source
+The city councilmen refused the demonstrators a permit because they feared violence.,they,63,they feared violence,63,['The city councilmen' 'The demonstrators'],0,(Winograd 1972)
+The city councilmen refused the demonstrators a permit because they advocated violence.,they,63,they advocated violence,63,['The city councilmen' 'The demonstrators'],1,(Winograd 1972)
+The trophy doesn't fit into the brown suitcase because it is too large.,it,55,it is too large,55,['the trophy' 'the suitcase'],0,Hector Levesque
+The trophy doesn't fit into the brown suitcase because it is too small.,it,55,it is too small,55,['the trophy' 'the suitcase'],1,Hector Levesque
+Joan made sure to thank Susan for all the help she had recieved.,she,47,she had received,47,['Joan' 'Susan'],0,Hector Levesque
+Joan made sure to thank Susan for all the help she had given.,she,47,she had given,47,['Joan' 'Susan'],1,Hector Levesque
+"Paul tried to call George on the phone, but he wasn't successful.",he,44,he wasn't successful.,44,['Paul' 'George'],0,Hector Levesque
+"Paul tried to call George on the phone, but he wasn't available.",he,44,he wasn't available.,44,['Paul' 'George'],1,Hector Levesque
+"The lawyer asked the witness a question, but he was reluctant to repeat it.",he,45,he was reluctant,45,['the lawyer' 'the witness'],0,Hector Levesque
+"The lawyer asked the witness a question, but he was reluctant to answer it.",he,45,he was reluctant,45,['the lawyer' 'the witness'],1,Hector Levesque
+The delivery truck zoomed by the school bus because it was going so fast.,it,52,it was going so fast.,52,['the delivery truck' 'the school bus'],0,Hector Levesque
+The delivery truck zoomed by the school bus because it was going so slow.,it,52,it was going so slow.,52,['the delivery truck' 'the school bus'],1,Hector Levesque
+Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.,he,65,he was the winner,65,['Frank' 'Bill'],0,Hector Levesque
+Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.,he,62,he was the winner,62,['Frank' 'Bill'],1,Hector Levesque
+The man couldn't lift his son because he was so weak.,he,38,he was so weak.,38,['The man' 'The son'],0,Hector Levesque
+The man couldn't lift his son because he was so heavy.,he,38,he was so heavy.,38,['The man' 'The son'],1,Hector Levesque
+The large ball crashed right through the table because it was made of steel.,it,55,it was made of steel.,55,['The large ball' 'The table'],0,Hector Levesque
+The large ball crashed right through the table because it was made of styrofoam.,it,55,it was made of styrofoam.,55,['The large ball' 'The table'],1,Hector Levesque
+John couldn't see the stage with Billy in front of him because he is so short.,he,63,he is so short.,63,['John' 'Billy'],0,Hector Levesque
+John couldn't see the stage with Billy in front of him because he is so tall.,he,63,he is so tall.,63,['John' 'Billy'],1,Hector Levesque
+Tom threw his schoolbag down to Ray after he reached the top of the stairs.,he,42,he reached the top of the stairs.,42,['Tom' 'Ray'],0,Hector Levesque
+Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.,he,42,he reached the bottom of the stairs.,42,['Tom' 'Ray'],1,Hector Levesque
+"Although they ran at about the same speed, Sue beat Sally because she had such a good start.",she,66,she had such a good start.,66,['Sue' 'Sally'],0,Hector Levesque
+"Although they ran at about the same speed, Sue beat Sally because she had such a bad start.",she,66,she had such a bad start.,66,['Sue' 'Sally'],1,Hector Levesque
+The sculpture rolled off the shelf because it wasn't anchored.,it,43,it wasn't anchored.,43,['The sculpture' 'The shelf'],0,Hector Levesque
+The sculpture rolled off the shelf because it wasn't level.,it,43,it wasn't level.,43,['The sculpture' 'The shelf'],1,Hector Levesque
+Sam's drawing was hung just above Tina's and it did look much better with another one below it.,it,45,it did look much better,45,"[""Sam's drawing"" ""Tina's drawing""]",0,Hector Levesque
+Sam's drawing was hung just above Tina's and it did look much better with another one above it.,it,45,it did look much better,45,"[""Sam's drawing"" ""Tina's drawing""]",1,Hector Levesque
+Anna did a lot better than her good friend Lucy on the test because she had studied so hard.,she,68,she had studied so hard.,68,['Anna' 'Lucy'],0,Hector Levesque
+Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.,she,67,she had studied so hard.,67,['Anna' 'Lucy'],1,Hector Levesque
+The firemen arrived after the police because they were coming from so far away.,they,45,they were coming from so far away.,45,['The firemen' 'The police'],0,Hector Levesque
+The firemen arrived before the police because they were coming from so far away.,they,46,they were coming from so far away.,46,['The firemen' 'The police'],1,Hector Levesque
+Frank was upset with Tom because the toaster he had bought from him didn't work.,he,45,he had bought,45,['Frank' 'Tom'],0,Hector Levesque
+Frank was upset with Tom because the toaster he had sold him didn't work.,he,45,he had sold,45,['Frank' 'Tom'],1,Hector Levesque
+Jim yelled at Kevin because he was so upset.,he,28,he was so upset.,28,['Jim' 'Kevin'],0,Hector Levesque
+Jim comforted Kevin because he was so upset.,he,28,he was so upset.,28,['Jim' 'Kevin'],1,Hector Levesque
+"The sack of potatoes had been placed above the bag of flour, so it had to be moved first.",it,64,it had to be moved first.,64,['The sack of potatoes' 'The bag of flour'],0,Hector Levesque
+"The sack of potatoes had been placed below the bag of flour, so it had to be moved first.",it,64,it had to be moved first.,64,['The sack of potatoes' 'The bag of flour'],1,Hector Levesque
+Pete envies Martin although he is very successful.,he,28,he is very successful.,28,['Pete' 'Martin'],0,Ernest Davis
+Pete envies Martin because he is very successful.,he,27,he is very successful.,27,['Pete' 'Martin'],1,Ernest Davis
+"The older students were bullying the younger ones, so we punished them .",them,66,we punished them,54,['The older students' 'The younger students'],0,Ernest Davis
+"The older students were bullying the younger ones, so we rescued them .",them,65,we rescued them,54,['The older students' 'The younger students'],1,Ernest Davis
+I poured water from the bottle into the cup until it was empty.,it,50,it was empty,50,['the bottle' 'the cup'],0,Ernest Davis
+I poured water from the bottle into the cup until it was full.,it,50,it was full,50,['the bottle' 'the cup'],1,Ernest Davis
+Susan knows all about Ann's personal problems because she is nosy.,she,54,she is nosy,54,['Susan' 'Ann'],0,Ernest Davis
+Susan knows all about Ann's personal problems because she is indiscreet.,she,54,she is indiscreet,54,['Susan' 'Ann'],1,Ernest Davis
+Sid explained his theory to Mark but he couldn't convince him.,he,37,he couldn't convince him.,37,['Sid' 'Mark'],0,Ernest Davis
+Sid explained his theory to Mark but he couldn't understand him.,he,37,he couldn't understand him.,37,['Sid' 'Mark'],1,Ernest Davis
+"Susan knew that Ann's son had been in a car accident, so she told her about it.",she,57,she told,57,['Susan' 'Ann'],0,Ernest Davis
+"Susan knew that Ann's son had been in a car accident, because she told her about it.",she,62,she told,62,['Susan' 'Ann'],1,Ernest Davis
+"Joe's uncle can still beat him at tennis, even though he is 30 years younger.",he,54,he is 30 years younger.,54,"['Joe' ""Joe's uncle""]",0,Ernest Davis
+"Joe's uncle can still beat him at tennis, even though he is 30 years older.",he,54,he is 30 years older.,54,"['Joe' ""Joe's uncle""]",1,Ernest Davis
+The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.,It,54,It is to the right,54,['The painting' 'The oak tree'],0,Ernest Davis
+The painting in Mark's living room shows an oak tree. It is to the right of a house.,It,54,It is to the right,54,['The painting' 'The oak tree'],1,Ernest Davis
+There is a gap in the wall. You can see the garden through it .,it,59,through it,51,['The gap' 'The wall'],0,Ernest Davis
+There is a gap in the wall. You can see the garden behind it .,it,58,behind it,51,['The gap' 'The wall'],1,Ernest Davis
+The drain is clogged with hair. It has to be cleaned.,It,32,It has to be cleaned.,32,['The drain' 'The hair'],0,Ernest Davis
+The drain is clogged with hair. It has to be removed.,It,32,It has to be removed.,32,['The drain' 'The hair'],1,Ernest Davis
+"My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.",it,104,it was short,104,['The meeting' 'The train'],0,Ernest Davis
+"My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.",it,104,it was delayed,104,['The meeting' 'The train'],1,Ernest Davis
+"There is a pillar between me and the stage, and I can't see around it .",it,67,see around it,56,['The pillar' 'The stage'],0,Ernest Davis
+"There is a pillar between me and the stage, and I can't see it .",it,60,see it,56,['The pillar' 'The stage'],1,Ernest Davis
+"They broadcast an announcement, but a subway came into the station and I couldn't hear it .",it,87,hear it,82,['The announcement' 'The subway'],0,Ernest Davis
+"They broadcast an announcement, but a subway came into the station and I couldn't hear over it .",it,92,hear over it,82,['The announcement' 'The subway'],1,Ernest Davis
+"In the middle of the outdoor concert, the rain started falling, but it continued until 10.",it,68,it continued,68,['The concert' 'The rain'],0,Ernest Davis
+"In the middle of the outdoor concert, the rain started falling, and it continued until 10.",it,68,it continued,68,['The concert' 'The rain'],1,Ernest Davis
+"I used an old rag to clean the knife, and then I put it in the trash.",it,53,put it in the trash.,49,['The rag' 'The knife'],0,Ernest Davis
+"I used an old rag to clean the knife, and then I put it in the drawer.",it,53,put it in the drawer.,49,['The rag' 'The knife'],1,Ernest Davis
+"Ann asked Mary what time the library closes, because she had forgotten.",she,53,she had forgotten.,53,['Ann' 'Mary'],0,Ernest Davis
+"Ann asked Mary what time the library closes, but she had forgotten.",she,49,she had forgotten.,49,['Ann' 'Mary'],1,Ernest Davis
+I took the water bottle out of the backpack so that it would be handy.,it,52,it would be handy,52,['The water bottle' 'The backpack'],0,Ernest Davis
+I took the water bottle out of the backpack so that it would be lighter.,it,52,it would be lighter,52,['The water bottle' 'The backpack'],1,Ernest Davis
+I couldn't put the pot on the shelf because it was too tall.,it,44,it was too tall.,44,['The pot' 'The shelf'],0,Ernest Davis
+I couldn't put the pot on the shelf because it was too high.,it,44,it was too high.,44,['The pot' 'The shelf'],1,Ernest Davis
+I'm sure that my map will show this building; it is very good.,it,46,it is very good,46,['The map' 'The building'],0,Ernest Davis
+I'm sure that my map will show this building; it is very famous.,it,46,it is very famous,46,['The map' 'The building'],1,Ernest Davis
+Bob paid for Charlie's college education. He is very generous.,He,42,He is very generous.,42,['Bob' 'Charlie'],0,Ernest Davis
+Bob paid for Charlie's college education. He is very grateful.,He,42,He is very grateful.,42,['Bob' 'Charlie'],1,Ernest Davis
+"Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.",He,92,He is very hurt.,92,['Bob' 'Charlie'],0,Ernest Davis
+"Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.",He,92,He is very ungrateful.,92,['Bob' 'Charlie'],1,Ernest Davis
+"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.",he,97,he would have won.,97,['Bob' 'Adam'],0,Ernest Davis
+"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.",he,97,he would have lost.,97,['Bob' 'Adam'],1,Ernest Davis
+"Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.",he,100,he would be gone,100,['Adam' 'Bob'],0,Ernest Davis
+"Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time.",he,100,he would be here,100,['Adam' 'Bob'],1,Ernest Davis
+"If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.",he,48,he would have gotten a lot of money.,48,['The con artist' 'Sam'],0,Ernest Davis
+"If the con artist has succeeded in fooling Sam, he would have lost a lot of money.",he,48,he would have lost a lot of money.,48,['The con artist' 'Sam'],1,Ernest Davis
+"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.",it,147,it was hot,147,['The dog' 'The spot under the tree'],0,Ernest Davis
+"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.",it,147,it was cooler,147,['The dog' 'The spot under the tree'],1,Ernest Davis
+"The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.",it,63,it was too impatient.,63,['The cat' 'The mouse'],0,Ernest Davis
+"The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.",it,63,it was too cautious.,63,['The cat' 'The mouse'],1,Ernest Davis
+Anne gave birth to a daughter last month. She is a very charming woman.,She,42,She is a very charming woman.,42,"['Anne' ""Anne's daughter""]",0,Ernest Davis
+Anne gave birth to a daughter last month. She is a very charming baby.,She,42,She is a very charming baby.,42,"['Anne' ""Anne's daughter""]",1,Ernest Davis
+"Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.",she,98,she was behaving so strangely.,98,"['Alice' ""Alice's daughter""]",0,Ernest Davis
+"Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.",she,97,she was behaving so strangely.,97,"['Alice' ""Alice's daughter""]",1,Ernest Davis
+"I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.",he,92,why he was,88,['Jim' 'the guy in uniform'],0,Ernest Davis
+"I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.",he,92,who he was,88,['Jim' 'the guy in uniform'],1,Ernest Davis
+The fish ate the worm. It was hungry.,It,23,It was hungry.,23,['The fish' 'The worm'],0,Ernest Davis
+The fish ate the worm. It was tasty.,It,23,It was tasty.,23,['The fish' 'The worm'],1,Ernest Davis
+"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.",it,116,I couldn't get it in.,101,['The key' 'The chewing gum'],0,Ernest Davis
+"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.",it,116,I couldn't get it out.,101,['The key' 'The chewing gum'],1,Ernest Davis
+"The dog chased the cat, which ran up a tree. It waited at the bottom.",It,45,It waited,45,['The dog' 'The cat'],0,Ernest Davis
+"The dog chased the cat, which ran up a tree. It waited at the top.",It,45,It waited,45,['The dog' 'The cat'],1,Ernest Davis
+"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.",it,94,get it removed.,90,['The tree' 'The roof'],0,Ernest Davis
+"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.",it,94,get it repaired.,90,['The tree' 'The roof'],1,Ernest Davis
+The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.,He,66,He was immediately taken,66,['The customer' 'The teller'],0,Ernest Davis
+The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.,He,66,He was immediately taken,66,['The customer' 'The teller'],1,Ernest Davis
+John was doing research in the library when he heard a man humming and whistling. He was very annoyed.,He,82,He was very annoyed.,82,['John' 'The man'],0,Ernest Davis
+John was doing research in the library when he heard a man humming and whistling. He was very annoying.,He,82,He was very annoying.,82,['John' 'The man'],1,Ernest Davis
+John was jogging through the park when he saw a man juggling watermelons. He was very impressed.,He,74,He was very impressed.,74,['John' 'The juggler'],0,Ernest Davis
+John was jogging through the park when he saw a man juggling watermelons. He was very impressive.,He,74,He was very impressive.,74,['John' 'The juggler'],1,Ernest Davis
+Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.,He,64,He was very ill,64,['Bob' 'Carl'],0,Ernest Davis
+Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.,He,64,He was very concerned,64,['Bob' 'Carl'],1,Ernest Davis
+"Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.",they,86,they are fifteen.,86,"['Sam and Amy' ""Amy's parents""]",0,Ernest Davis
+"Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.",they,86,they are snobs.,86,"['Sam and Amy' ""Amy's parents""]",1,Ernest Davis
+"Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful.",He,73,He should have been more truthful.,73,['Mark' 'Pete'],0,Ernest Davis
+"Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical.",He,73,He should have been more skeptical.,73,['Mark' 'Pete'],1,Ernest Davis
+Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.,it,87,moving out of it,73,['The old house' 'The new house'],0,Ernest Davis
+Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.,it,85,moving into it,73,['The old house' 'The new house'],1,Ernest Davis
+Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.,They,64,They are gripped,64,"['People' ""Paul's books""]",0,Ernest Davis
+Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.,They,64,They are popular,64,"['People' ""Paul's books""]",1,Ernest Davis
+Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.,it,75,She has had it,63,['The flute' 'The piece'],0,Ernest Davis
+Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.,it,77,She has loved it,63,['The flute' 'The piece'],1,Ernest Davis
+"Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.",it,40,it was broken,40,['The chair' 'The piano'],0,Ernest Davis
+"Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.",it,40,it was broken,40,['The chair' 'The piano'],1,Ernest Davis
+"Since it was raining, I carried the newspaper in my backpack to keep it dry.",it,69,keep it dry,64,['The newspaper' 'The backpack'],0,Ernest Davis
+"Since it was raining, I carried the newspaper over my backpack to keep it dry.",it,71,keep it dry,66,['The newspaper' 'The backpack'],1,Ernest Davis
+Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.,it,105,She reads it,95,['The book' 'The article'],0,Ernest Davis
+Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.,it,106,She writes it,95,['The book' 'The article'],1,Ernest Davis
+"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.",it,130,knocked it down,122,['The sand castle' 'The flag'],0,Ernest Davis
+"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.",it,130,knocked it down,122,['The sand castle' 'The flag'],1,Ernest Davis
+"Jane knocked on Susan's door, but there was no answer. She was disappointed.",She,55,She was disappointed.,55,['Jane' 'Susan'],0,Ernest Davis
+"Jane knocked on Susan's door, but there was no answer. She was out.",She,55,She was out.,55,['Jane' 'Susan'],1,Ernest Davis
+"Jane knocked on the door, and Susan answered it. She invited her to come out.",She,49,She invited,49,['Jane' 'Susan'],0,Ernest Davis
+"Jane knocked on the door, and Susan answered it. She invited her to come in.",She,49,She invited,49,['Jane' 'Susan'],1,Ernest Davis
+"Sam took French classes from Adam, because he was eager to speak it fluently.",he,43,he was eager,43,['Sam' 'Adam'],0,Ernest Davis
+"Sam took French classes from Adam, because he was known to speak it fluently.",he,43,he was known to speak it,43,['Sam' 'Adam'],1,Ernest Davis
+"The path to the lake was blocked, so we couldn't use it .",it,53,use it,49,['The path' 'The lake'],0,Ernest Davis
+"The path to the lake was blocked, so we couldn't reach it .",it,55,reach it,49,['The path' 'The lake'],1,Ernest Davis
+"The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.",it,95,it was out,95,['The sun' 'The cloud'],0,Ernest Davis
+"The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.",it,95,it was gone,95,['The sun' 'The cloud'],1,Ernest Davis
+"We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.",it,74,it was a safer place,74,['The lake' 'The ocean beach'],0,Ernest Davis
+"We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.",it,74,it was a dangerous place,74,['The lake' 'The ocean beach'],1,Ernest Davis
+"Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.",they,58,they ended up looking more like golfers.,58,['The shepherds' 'The sheep'],0,Ernest Davis
+"Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.",they,58,they ended up looking more like dogs.,58,['The shepherds' 'The sheep'],1,Ernest Davis
+"Mary tucked her daughter Anne into bed, so that she could work.",she,48,she could work,48,"['Mary' ""Mary's daughter""]",0,Ernest Davis
+"Mary tucked her daughter Anne into bed, so that she could sleep.",she,48,she could sleep.,48,"['Mary' ""Mary's daughter""]",1,Ernest Davis
+"Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.",they,45,they were not prepared,45,['Fred and Alice' 'coats'],0,Ernest Davis
+"Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.",they,45,they were not enough,45,['Fred and Alice' 'coats'],1,Ernest Davis
+Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.,he,53,he had been travelling,53,['Thomson' 'Cooper'],0,Ernest Davis
+Thomson visited Cooper's grave in 1765. At that date he had been dead for five years.,he,53,he had been dead,53,['Thomson' 'Cooper'],1,Ernest Davis
+"Jackson was greatly influenced by Arnold, though he lived two centuries later.",he,49,he lived two centuries later.,49,['Jackson' 'Arnold'],0,Ernest Davis
+"Jackson was greatly influenced by Arnold, though he lived two centuries earlier.",he,49,he lived two centuries earlier.,49,['Jackson' 'Arnold'],1,Ernest Davis
+I can't cut that tree down with that axe; it is too thick.,it,42,it is too thick.,42,['The tree' 'The axe'],0,Ernest Davis
+I can't cut that tree down with that axe; it is too small.,it,42,it is too small.,42,['The tree' 'The axe'],1,Ernest Davis
+The foxes are getting in at night and attacking the chickens. I shall have to kill them .,them,83,to kill them,75,['The foxes' 'The chickens'],0,Ernest Davis
+The foxes are getting in at night and attacking the chickens. I shall have to guard them .,them,84,to guard them,75,['The foxes' 'The chickens'],1,Ernest Davis
+The foxes are getting in at night and attacking the chickens. They have gotten very bold.,They,62,They have gotten very bold.,62,['The foxes' 'The chickens'],0,Ernest Davis
+The foxes are getting in at night and attacking the chickens. They have gotten very nervous.,They,62,They have gotten very nervous.,62,['The foxes' 'The chickens'],1,Ernest Davis
+"Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.",them,90,opened them,83,['His eyes' 'His hands'],0,Ernest Davis
+"Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.",them,91,lowered them,83,['His eyes' 'His hands'],1,Ernest Davis
+"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce.",it,106,it was too hard,106,['Terpsichore' 'Tina'],0,Ernest Davis
+"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.",it,106,it was easier,106,['Terpsichore' 'Tina'],1,Ernest Davis
+Fred watched TV while George went out to buy groceries. After an hour he got up.,he,70,he got up.,70,['Fred' 'George'],0,Ernest Davis
+Fred watched TV while George went out to buy groceries. After an hour he got back.,he,70,he got back.,70,['Fred' 'George'],1,Ernest Davis
+"Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.",it,163,turned it on,156,['The dishwasher' 'The TV'],0,Ernest Davis
+"Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.",it,163,turned it off,156,['The dishwasher' 'The TV'],1,Ernest Davis
+Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.,He,69,He is a remarkable man.,69,['Fred' 'My great-grandfather'],0,Ernest Davis
+Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man.,He,69,He was a remarkable man.,69,['Fred' 'My great-grandfather'],1,Ernest Davis
+"Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.",he,102,he was twelve years old.,102,['Fred' 'My father'],0,Ernest Davis
+"Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.",he,102,he was twelve months old.,102,['Fred' 'My father'],1,Ernest Davis
+"In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.",they,113,they were defeated,113,['Kamchatka' 'Yakutsk'],0,Ernest Davis
+"In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.",they,113,they were victorious,113,['Kamchatka' 'Yakutsk'],1,Ernest Davis
+Look! There is a minnow swimming right below that duck! It had better get away to safety fast!,It,56,It had better get away,56,['The minnow' 'The duck'],0,Ernest Davis
+Look! There is a shark swimming right below that duck! It had better get away to safety fast!,It,55,It had better get away,55,['The shark' 'The duck'],1,Ernest Davis
+"Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks.",They,76,They hunted for evidence,76,['Archaeologists' 'Prehistoric humans'],0,Ernest Davis
+"Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks.",They,76,They hunted for deer,76,['Archaeologists' 'Prehistoric humans'],1,Ernest Davis
+The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.,They,108,They began two years ago.,108,['The scientists' 'The fish'],0,Ernest Davis
+The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.,They,108,They appeared two years ago.,108,['The scientists' 'The fish'],1,Ernest Davis
+"The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.",They,56,They were very persistent,56,['The journalists' 'The stars'],0,Ernest Davis
+"The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.",They,56,They were very cooperative,56,['The journalists' 'The stars'],1,Ernest Davis
+The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.,They,45,They were trying to stop the drug trade.,45,['The police' 'The gang members'],0,Ernest Davis
+The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.,They,45,They were trying to run the drug trade.,45,['The police' 'The gang members'],1,Ernest Davis
+I put the cake away in the refrigerator. It has a lot of butter in it.,It,41,It has a lot of butter,41,['The cake' 'The refrigerator'],0,Ernest Davis
+I put the cake away in the refrigerator. It has a lot of leftovers in it.,It,41,It has a lot of leftovers,41,['The cake' 'The refrigerator'],1,Ernest Davis
+Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.,they,85,they should be better,85,['The ankles' 'The crutches'],0,Ernest Davis
+Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.,they,85,they should be unnecessary,85,['The ankles' 'The crutches'],1,Ernest Davis
+"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.",They,117,They were very much in the minority.,117,['The sponsors' 'The opponents'],0,Ernest Davis
+"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.",They,117,They were very much in the majority.,117,['The sponsors' 'The opponents'],1,Ernest Davis
+"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them .",them,129,more of them,121,['The oatmeal cookies' 'The chocolate chip cookies'],0,Ernest Davis
+"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them .",them,130,fewer of them,121,['The oatmeal cookies' 'The chocolate chip cookies'],1,Ernest Davis
+"We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them .",them,120,not enough of them,106,['copies of the newsletter' 'chairs'],0,Ernest Davis
+"We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them .",them,118,too many of them,106,['copies of the newsletter' 'chairs'],1,Ernest Davis
+"I stuck a pin through a carrot. When I pulled the pin out, it left a hole.",it,59,it left a hole,59,['The pin' 'The carrot'],0,Ernest Davis
+"I stuck a pin through a carrot. When I pulled the pin out, it had a hole.",it,59,it had a hole,59,['The pin' 'The carrot'],1,Ernest Davis
+"I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.",it,113,it got full of coffee.,113,['The pen' 'The coffee'],0,Ernest Davis
+"I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.",it,113,it got full of ink.,113,['The pen' 'The coffee'],1,Ernest Davis
+Steve follows Fred's example in everything. He admires him hugely.,He,44,He admires him hugely.,44,['Steve' 'Fred'],0,Ernest Davis
+Steve follows Fred's example in everything. He influences him hugely.,He,44,He influences him hugely.,44,['Steve' 'Fred'],1,Ernest Davis
+The table won't fit through the doorway because it is too wide.,it,48,it is too wide.,48,['The table' 'The doorway'],0,Ernest Davis
+The table won't fit through the doorway because it is too narrow.,it,48,it is too narrow.,48,['The table' 'The doorway'],1,Ernest Davis
+Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.,it,66,it looks dowdy on her.,66,['The sweater' 'The jacket'],0,Ernest Davis
+Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her.,it,66,it looks great on her.,66,['The sweater' 'The jacket'],1,Ernest Davis
+John hired Bill to take care of him .,him,32,take care of him,19,['John' 'Bill'],0,Ray Jackendoff
+John hired himself out to Bill to take care of him .,him,47,take care of him,34,['John' 'Bill'],1,Ray Jackendoff
+"John promised Bill to leave, so an hour later he left.",he,46,he left,46,['John' 'Bill'],0,Ray Jackendoff
+"John ordered Bill to leave, so an hour later he left.",he,45,he left,45,['John' 'Bill'],1,Ray Jackendoff
+Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.,he,100,difficulties he faced,87,['Goodman' 'Xenophanes'],0,Ernest Davis
+Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.,he,100,difficulties he faced,87,['Goodman' 'Xenophanes'],1,Ernest Davis
+"Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.",her,37,her education,37,"['Emma' ""Emma's mother""]",0,"Ernest Davis, adapted from Emma by Jane Austen"
+"Emma's mother had died long ago, and her place had been taken by an excellent woman as governess.",her,37,her place,37,"['Emma' ""Emma's mother""]",1,"Ernest Davis, adapted from Emma by Jane Austen"
+Jane knocked on Susan's door but she did not get an answer.,she,33,she did not get an answer.,33,['Jane' 'Susan'],0,Ernest Davis
+Jane knocked on Susan's door but she did not answer.,she,33,she did not answer.,33,['Jane' 'Susan'],1,Ernest Davis
+Joe paid the detective after he received the final report on the case.,he,29,he received the final report,29,['Joe' 'the detective'],0,David Bender
+Joe paid the detective after he delivered the final report on the case.,he,29,he delivered the final report,29,['Joe' 'the detective'],1,David Bender
+"Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.",she,63,she stopped,63,['Beth' 'Sally'],0,David Bender
+"Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.",she,63,she stopped,63,['Beth' 'Sally'],1,David Bender
+Jim signaled the barman and gestured toward his empty glass,his,44,his empty glass,44,['Jim' 'The barman'],0,David Bender
+Jim signaled the barman and gestured toward his bathroom key.,his,44,his bathroom key,44,['Jim' 'The barman'],1,David Bender
+"Dan took the rear seat while Bill claimed the front because his ""Dibs!"" was slow.",his,60,"his ""Dibs!""",60,['Dan' 'Bill'],0,David Bender
+"Dan took the rear seat while Bill claimed the front because his ""Dibs!"" was quicker.",his,60,"his ""Dibs!""",60,['Dan' 'Bill'],1,David Bender
+"Tom said ""Check"" to Ralph as he moved his bishop.",his,38,his bishop,38,['Tom' 'Ralph'],0,David Bender
+"Tom said ""Check"" to Ralph as he took his bishop.",his,37,his bishop,37,['Tom' 'Ralph'],1,David Bender
+"As Andrea in the crop duster passed over Susan, she could see the landing strip.",she,48,she could see,48,['Andrea' 'Susan'],0,David Bender
+"As Andrea in the crop duster passed over Susan, she could see the landing gear.",she,48,she could see,48,['Andrea' 'Susan'],1,David Bender
+Tom gave Ralph a lift to school so he wouldn't have to drive alone.,he,35,he wouldn't have to drive alone.,35,['Tom' 'Ralph'],0,David Bender
+Tom gave Ralph a lift to school so he wouldn't have to walk.,he,35,he wouldn't have to walk.,35,['Tom' 'Ralph'],1,David Bender
+Bill passed the half-empty plate to John because he was full.,he,49,he was full.,49,['Bill' 'John'],0,David Bender
+Bill passed the half-empty plate to John because he was hungry.,he,49,he was hungry,49,['Bill' 'John'],1,David Bender
+Bill passed the gameboy to John because his turn was over.,his,40,his turn,40,['Bill' 'John'],0,David Bender
+Bill passed the gameboy to John because his turn was next.,his,40,his turn,40,['Bill' 'John'],1,David Bender
+The man lifted the boy onto his shoulders.,his,28,his shoulders,28,['The man' 'The boy'],0,David Bender
+The man lifted the boy onto his bunk bed.,his,28,his bunk bed.,28,['The man' 'The boy'],1,David Bender
+"Stretching her back, the woman smiled at the girl.",her,11,her back,11,['The woman' 'The girl'],0,David Bender
+"Patting her back, the woman smiled at the girl.",her,8,her back,8,['The woman' 'The girl'],1,David Bender
+Billy cried because Toby wouldn't accept his toy.,his,41,his toy,41,['Billy' 'Toby'],0,David Bender
+Billy cried because Toby wouldn't share his toy.,his,40,his toy,40,['Billy' 'Toby'],1,David Bender
+"Lily spoke to Donna, breaking her silence.",her,30,her silence.,30,['Lily' 'Donna'],0,David Bender
+"Lily spoke to Donna, breaking her concentration.",her,30,her concentration.,30,['Lily' 'Donna'],1,David Bender
+"When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look.",him,64,gave him,59,['Tommy' 'Timmy'],0,David Bender
+"When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.",him,64,gave him,59,['Tommy' 'Timmy'],1,David Bender
+"As Ollie carried Tommy up the long winding steps, his legs ached.",his,50,his legs ached.,50,['Ollie' 'Tommy'],0,David Bender
+"As Ollie carried Tommy up the long winding steps, his legs dangled.",his,50,his legs dangled.,50,['Ollie' 'Tommy'],1,David Bender
+The father carried the sleeping boy in his arms,his,39,his arms,39,['The father' 'The boy'],0,David Bender
+The father carried the sleeping boy in his bassinet.,his,39,his bassinet.,39,['The father' 'The boy'],1,David Bender
+The woman held the girl against her chest,her,32,her chest.,32,['The woman' 'The girl'],0,David Bender
+The woman held the girl against her will.,her,32,her will,32,['The woman' 'The girl'],1,David Bender
+"Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.",They,75,They were furious,75,"[""Pam's parents"" 'Pam and Paul']",0,David Bender
+"Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.",They,75,They were embarrassed,75,"[""Pam's parents"" 'Pam and Paul']",1,David Bender
+Dr. Adams informed Kate that she had retired and presented several options for future treatment.,she,29,she had retired,29,['Dr. Adams' 'Kate'],0,David Bender
+Dr. Adams informed Kate that she had cancer and presented several options for future treatment.,she,29,she had cancer,29,['Dr. Adams' 'Kate'],1,David Bender
+Dan had to stop Bill from toying with the injured bird. He is very compassionate.,He,56,He is very compassionate.,56,['Dan' 'Bill'],0,David Bender
+Dan had to stop Bill from toying with the injured bird. He is very cruel.,He,56,He is very cruel.,56,['Dan' 'Bill'],1,David Bender
+"George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.",he,75,he was particularly eager,75,['George' 'Eric'],0,David Bender
+"George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.",he,71,he was particularly eager,71,['George' 'Eric'],1,David Bender
+"George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.",he,71,he was not particularly eager,71,['George' 'Eric'],0,David Bender
+Jane gave Joan candy because she wasn't hungry.,she,29,she wasn't hungry.,29,['Jane' 'Joan'],0,"""Linguistic Problems and Complexities"" http://www.csi.uottawa.ca/tanka/files/complexities.html"
+Jane gave Joan candy because she was hungry.,she,29,she was hungry.,29,['Jane' 'Joan'],1,"""Linguistic Problems and Complexities"" http://www.csi.uottawa.ca/tanka/files/complexities.html"
+"I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.",they,78,they came out,78,['lemons' 'lemon trees'],0,Ernest Davis
+"I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.",they,78,they came out,78,['lemons' 'lemon trees'],1,Ernest Davis
+James asked Robert for a favor but he was refused.,he,35,he was refused.,35,['James' 'Robert'],0,From (Rahman and Ng 2012)
+James asked Robert for a favor but he refused.,he,35,he refused.,35,['James' 'Robert'],1,From (Rahman and Ng 2012)
+Kirilov ceded the presidency to Shatov because he was less popular.,he,47,he was less popular.,47,['Kirilov' 'Shatov'],0,Modified from (Rahman and Ng 2012)
+Kirilov ceded the presidency to Shatov because he was more popular.,he,47,he was more popular.,47,['Kirilov' 'Shatov'],1,Modified from (Rahman and Ng 2012)
+Emma did not pass the ball to Janie although she saw that she was open.,she,45,she saw,45,['Emma' 'Janie'],0,Modified from (Rahman and Ng 2012)
+Emma did not pass the ball to Janie although she was open.,she,45,she was open,45,['Emma' 'Janie'],1,Modified from (Rahman and Ng 2012)
+I put the butterfly wing on the table and it broke.,it,42,it broke.,42,['The butterfly wing' 'The table'],0,(Winograd 1971)
+I put the heavy book on the table and it broke.,it,38,it broke.,38,['The heavy book' 'The table'],1,(Winograd 1971)
+Madonna fired her trainer because she couldn't stand her boyfriend.,she,34,she couldn't stand,34,['Madonna' 'The trainer'],0,Modified from a headline in People Magazine http://www.people.com/article/madonna-fired-trainer-slept-with-boyfriend-manila-tour-stop
+Madonna fired her trainer because she slept with her boyfriend.,she,34,she slept,34,['Madonna' 'The trainer'],1,Modified from a headline in People Magazine http://www.people.com/article/madonna-fired-trainer-slept-with-boyfriend-manila-tour-stop
+Madonna fired her trainer because she slept with her boyfriend.,her,49,her boyfriend,49,['Madonna' 'The trainer'],0,Modified from a headline in People Magazine http://www.people.com/article/madonna-fired-trainer-slept-with-boyfriend-manila-tour-stop
+Madonna fired her trainer because she couldn't stand her boyfriend.,her,53,her boyfriend,53,['Madonna' 'The trainer'],1,Modified from a headline in People Magazine http://www.people.com/article/madonna-fired-trainer-slept-with-boyfriend-manila-tour-stop
+Carol believed that Rebecca suspected that she had stolen the watch.,she,43,she had stolen the watch.,43,['Carol' 'Rebecca'],0,Leora Morgenstern
+Carol believed that Rebecca regretted that she had stolen the watch.,she,43,she had stolen the watch.,43,['Carol' 'Rebecca'],1,Leora Morgenstern
+This book introduced Shakespeare to Ovid; it was a major influence on his writing.,his,70,his writing.,70,['Shakespeare' 'Ovid'],0,Ernest Davis (coming out of a Facebook discussion with Michael Witbrock)
+This book introduced Shakespeare to Goethe; it was a major influence on his writing.,his,72,his writing.,72,['Shakespeare' 'Goethe'],1,Ernest Davis (coming out of a Facebook discussion with Michael Witbrock)
+This book introduced Shakespeare to Ovid; it was a fine selection of his writing.,his,69,his writing.,69,['Shakespeare' 'Ovid'],1,Ernest Davis (coming out of a Facebook discussion with Michael Witbrock)
+This book introduced Shakespeare to Goethe; it was a fine selection of his writing.,his,71,his writing.,71,['Shakespeare' 'Goethe'],0,Ernest Davis (coming out of a Facebook discussion with Michael Witbrock)
+"Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.",she,53,she always has good luck.,53,['Alice' 'Jade'],0,Sabri Meeran and Ernest Davis
+"Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.",she,53,she always wears a red turban,53,['Alice' 'Jade'],1,Sabri Meeran and Ernest Davis
+"During a game of tag, Ethan chased Luke because he was ""it"".",he,48,"he was ""it"".",48,['Ethan' 'Luke'],0,Sabri Meeran
+"During a game of tag, Ethan ran from Luke because he was ""it"".",he,50,"he was ""it"".",50,['Ethan' 'Luke'],1,Sabri Meeran
+At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid.,they,102,they were so stupid.,102,['the judges' 'the chatbots'],0,Sabri Meeran
+At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.,they,102,they were so advanced.,102,['the judges' 'the chatbots'],1,Sabri Meeran
+"The user changed his password from ""GrWQWu8JyC"" toÂ ""willow-towered Canopy Huntertropic wrestles"" as it was easy to forget.",it,101,it was easy to forget.,101,['GrWQWu8JyC' 'willow-towered Canopy Huntertropic wrestles'],0,Sabri Meeran
+"The user changed his password from ""GrWQWu8JyC"" toÂ ""willow-towered Canopy Huntertropic wrestles"" as it was easy to remember.",it,101,it was easy to remember.,101,['GrWQWu8JyC' 'willow-towered Canopy Huntertropic wrestles'],1,Sabri Meeran
