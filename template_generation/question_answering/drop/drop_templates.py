@@ -7,6 +7,14 @@ from utils import *
 import random
 import argparse
 
+##cehck if a string has four digit number in it
+def has_four_digit_number(string) :
+    string = string.replace(',', '')
+    words = string.split()
+    for word in words :
+        if word.isdigit() and len(word) == 4 :
+            return True
+    return False
 
 def check_word_in_dictionary(string, dictionary) :
     words = string.split()
@@ -40,7 +48,10 @@ for p in dataset :
     if len_words > 400 :
         continue
 
-    if 'touchdown' in context :
+    if 'touchdown' in context or 'game' in context:
+        continue
+
+    if has_four_digit_number(context) :
         continue
 
     if check_word_in_dictionary(context.lower(), names_dict) :
@@ -48,7 +59,10 @@ for p in dataset :
         qa_pairs = row['qa_pairs']
         
         name_present = False
+
         for i in range(len(qa_pairs)) :
+            if name_present :
+                continue
             qa_pair = qa_pairs[i]
             question = qa_pair['question']
             #if len(qa_pair['answer']) == 0 :
@@ -74,7 +88,7 @@ for p in dataset :
         if name_present :
             j +=1
 
-        if random.randint(0,4) == 0 :
+    #        if random.randint(0,4) == 0 :
             k +=1
             templates[k] = template
         

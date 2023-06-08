@@ -1,62 +1,38 @@
 {
-    "1": {
-        "context": "Bethany took them to NYC so that they could experience the city for the first time.",
-        "question": "What will Others want to do next?",
-        "answerA": "look around",
-        "answerB": "look nowhere",
-        "answerC": "make sure they get a good first impression of NYC",
-        "correct": "A"
-    },
     "2": {
-        "context": "Bethany gave money to my friend who needed it but failed to by it back as they promised.",
-        "question": "What will happen to Bethany?",
+        "context": "<PERSON> gave money to my friend who needed it but failed to by it back as they promised.",
+        "question": "What will happen to <PERSON>?",
         "answerA": "yell at them",
         "answerB": "be disappointed in them",
         "answerC": "lose trust in my friend",
         "correct": "C"
     },
-    "3": {
-        "context": "Bethany was really into house plants and often pour water in to jars so the fluoride would evaporate out.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "watered a few of the plants",
-        "answerB": "gather jars",
-        "answerC": "watered a few of her pets",
-        "correct": "A"
-    },
     "4": {
-        "context": "Bethany knew what was going on after seeing the cashier stealing from the till.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> knew what was going on after seeing the cashier stealing from the till.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "work with the cashier",
         "answerB": "needed to steal from the till too",
         "answerC": "report the crime",
         "correct": "C"
     },
-    "5": {
-        "context": "Bethany took their mother to the shoe store that she did not like going to.",
-        "question": "What will happen to the mother?",
-        "answerA": "argue with her mother",
-        "answerB": "go to a different store",
-        "answerC": "scold Bethany",
-        "correct": "C"
-    },
     "6": {
-        "context": "Bethany wanted to learn how to play the guitar on her own and set the plans into motion.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> wanted to learn how to play the guitar on her own and set the plans into motion.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "rent a guitar",
         "answerB": "sign up for classes",
         "answerC": "find a tutor",
         "correct": "B"
     },
     "7": {
-        "context": "Bethany's mother does not allow them to play video games. Bethany's mother found out that Bethany was at a friend's house playing video games.",
-        "question": "What will happen to Bethany?",
-        "answerA": "Bethany's friend will ground them",
-        "answerB": "Bethany's mother will scold them",
+        "context": "<PERSON>'s mother does not allow them to play video games. <PERSON>'s mother found out that <PERSON> was at a friend's house playing video games.",
+        "question": "What will happen to <PERSON>?",
+        "answerA": "<PERSON>'s friend will ground them",
+        "answerB": "<PERSON>'s mother will scold them",
         "answerC": "Others will be punished",
         "correct": "B"
     },
     "8": {
-        "context": "Bethany took her son to the eye doctor instead of going to the birthday party for their other child.",
+        "context": "<PERSON> took <his/her> son to the eye doctor instead of going to the birthday party for their other child.",
         "question": "What will happen to Others?",
         "answerA": "make the child with the birthday party upset",
         "answerB": "be happy",
@@ -64,7 +40,7 @@
         "correct": "A"
     },
     "9": {
-        "context": "Bethany guessed the ending of the speech and ruined it for the others.",
+        "context": "<PERSON> guessed the ending of the speech and ruined it for the others.",
         "question": "What will Others want to do next?",
         "answerA": "keep the peace",
         "answerB": "listen next",
@@ -72,87 +48,47 @@
         "correct": "B"
     },
     "10": {
-        "context": "Bethany took the trash to the burn barrel then set the trash on fire.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> took the trash to the burn barrel then set the trash on fire.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "Go inside",
         "answerB": "Put out the fire",
         "answerC": "Gather the trash needed for disposal",
         "correct": "A"
     },
     "11": {
-        "context": "Bethany laid around and fell asleep. She woke up late for work.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> laid around and fell asleep. <He/She> woke up late for work.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "stop thinking",
         "answerB": "close her eyes",
         "answerC": "rush getting ready",
         "correct": "C"
     },
-    "12": {
-        "context": "Bethany was at a friend's house playing video games when the others discussed being hungry for pizza.",
-        "question": "What will Others want to do next?",
-        "answerA": "play more video games next",
-        "answerB": "go to sleep next",
-        "answerC": "get a pizza next",
-        "correct": "C"
-    },
     "13": {
-        "context": "Bethany was bored so she went to a friend's house and played video games.",
+        "context": "<PERSON> was bored so she went to a friend's house and played video games.",
         "question": "What will Others want to do next?",
         "answerA": "great",
-        "answerB": "kick Bethany out the house",
-        "answerC": "ask Bethany questions",
+        "answerB": "kick <PERSON> out the house",
+        "answerC": "ask <PERSON> questions",
         "correct": "C"
     },
     "14": {
-        "context": "Bethany played some soccer with their friend after school that day and had fun.",
+        "context": "<PERSON> played some soccer with their friend after school that day and had fun.",
         "question": "What will happen to Others?",
         "answerA": "join the game",
         "answerB": "go to a bakery",
         "answerC": "be tired from playing soccer",
         "correct": "C"
     },
-    "15": {
-        "context": "Bethany's friend wanted something sweet to drink. Bethany gave their friend some milk.",
-        "question": "What will happen to Bethany?",
-        "answerA": "talk to the friend",
-        "answerB": "ask for milk",
-        "answerC": "milk a cow",
-        "correct": "A"
-    },
-    "16": {
-        "context": "Bethany wanted to see her friend but couldn't and she began to hurt so bad.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "call her friend",
-        "answerB": "call her friend",
-        "answerC": "find out why she couldn't go see her friend",
-        "correct": "C"
-    },
-    "17": {
-        "context": "Bethany moved to a new town and found to friends.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "talk to their friends",
-        "answerB": "find a job in their new town",
-        "answerC": "find a place to live in their new town",
-        "correct": "A"
-    },
-    "18": {
-        "context": "Bethany sold her TV to the bidder on eBay after a month had passed.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "keep the TV",
-        "answerB": "did this to get rid of it",
-        "answerC": "bank the money",
-        "correct": "C"
-    },
     "19": {
-        "context": "Bethany was the best of friends with her pals and had a good heart.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> was the best of friends with her pals and had a good heart.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "live poorly",
         "answerB": "be compassionate",
         "answerC": "spend time with friends",
         "correct": "C"
     },
     "20": {
-        "context": "Bethany looked up their friend on Instagram after she came back from vacation.",
+        "context": "<PERSON> looked up their friend on Instagram after <he/she> came back from vacation.",
         "question": "What will her other friends want to do next?",
         "answerA": "know their friends Instagram name",
         "answerB": "go on their own vacation",
@@ -160,7 +96,7 @@
         "correct": "C"
     },
     "21": {
-        "context": "Bethany brought the kids to the party and everyone found the kids to be annoying.",
+        "context": "<PERSON> brought the kids to the party and everyone found the kids to be annoying.",
         "question": "What will Others want to do next?",
         "answerA": "go to the party",
         "answerB": "go somewhere else",
@@ -168,99 +104,59 @@
         "correct": "B"
     },
     "22": {
-        "context": "My friend was selling popcorn to raise money for the Boy Scouts. Bethany loves popcorn, and placed a large order. Bethany gave money to my friend for the popcorn.",
-        "question": "What will Bethany want to do next?",
+        "context": "My friend was selling popcorn to raise money for the Boy Scouts. <PERSON> loves popcorn, and placed a large order. <PERSON> gave money to my friend for the popcorn.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "make space in the pantry for the new popcorn packages",
         "answerB": "tell my friend about their popcorn allergies",
         "answerC": "suggest to my friend that they stop selling popcorn",
         "correct": "A"
     },
-    "23": {
-        "context": "Bethany wanted everything on their list for Christmas.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "go Christmas shopping",
-        "answerB": "joy",
-        "answerC": "tell their list",
-        "correct": "C"
-    },
     "24": {
-        "context": "Bethany was feeling very hungry but didn't like the school cafeteria food, so she left the premises with permission.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> was feeling very hungry but didn't like the school cafeteria food, so she left the premises with permission.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "go eat at home",
         "answerB": "did this to get food",
         "answerC": "did this to satisfy hunger",
         "correct": "A"
     },
-    "25": {
-        "context": "Bethany broke their tooth and gave a call to the dentist.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "go to the dentist",
-        "answerB": "needed to go to the dentist",
-        "answerC": "needed to see the dentist",
-        "correct": "A"
-    },
     "26": {
-        "context": "Bethany knew the topic well enough that she felt she didn't need to study anymore.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> knew the topic well enough that she felt she didn't need to study anymore.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "Put her books away",
         "answerB": "try to forget everything",
         "answerC": "Keep studying",
         "correct": "A"
     },
     "27": {
-        "context": "Bethany was a shy kid at school. They made no friends.",
-        "question": "What will happen to Bethany?",
+        "context": "<PERSON> was a shy kid at school. They made no friends.",
+        "question": "What will happen to <PERSON>?",
         "answerA": "get work done",
         "answerB": "go to a party",
         "answerC": "Nothing will happen to others",
         "correct": "A"
     },
     "28": {
-        "context": "Bethany wanted to do something special for their spouse on Valentines day, so Bethany decided to have a picnic in the park.",
-        "question": "What will Bethany want to do next?",
+        "context": "<PERSON> wanted to do something special for their spouse on Valentines day, so <PERSON> decided to have a picnic in the park.",
+        "question": "What will <PERSON> want to do next?",
         "answerA": "invite their spouse",
         "answerB": "pack a basket",
         "answerC": "eat alone",
         "correct": "B"
     },
-    "29": {
-        "context": "Bethany took notice of the children who were singing at the playground.",
-        "question": "What will happen to Bethany?",
-        "answerA": "hurt the children",
-        "answerB": "joy",
-        "answerC": "tell the children to stop",
-        "correct": "B"
-    },
-    "30": {
-        "context": "Bethany got ready and snatched their journal away to keep it private.",
-        "question": "What will Bethany want to do next?",
-        "answerA": "lock their journal away",
-        "answerB": "hide information",
-        "answerC": "hide their journal",
-        "correct": "C"
-    },
-    "31": {
-        "context": "Bethany gave birth to children but did not have any diapers or baby supplies.",
-        "question": "What will Others want to do next?",
-        "answerA": "go to the store",
-        "answerB": "Give baby gifts to Bethany",
-        "answerC": "buy diapers",
-        "correct": "B"
-    },
     "32": {
-        "context": "Bethany did not consider that her words may have the feelings of others.",
+        "context": "<PERSON> did not consider that her words may have the feelings of others.",
         "question": "What will Others want to do next?",
-        "answerA": "be best friends with Bethany",
-        "answerB": "Other's will not want to confide in Bethany",
+        "answerA": "be best friends with <PERSON>",
+        "answerB": "Other's will not want to confide in <PERSON>",
         "answerC": "say hurtful things to other people",
         "correct": "B"
     },
     "33": {
-        "context": "Bethany was jealous that it was their sister's birthday that day.",
+        "context": "<PERSON> was jealous that it was their sister's birthday that day.",
         "question": "What will happen to Others?",
-        "answerA": "give Bethany all the toys",
+        "answerA": "give <PERSON> all the toys",
         "answerB": "loved",
-        "answerC": "encourage Bethany to share",
+        "answerC": "encourage <PERSON> to share",
         "correct": "C"
     }
 }

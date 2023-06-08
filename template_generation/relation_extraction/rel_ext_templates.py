@@ -78,9 +78,9 @@ for i in range(len(dataset)) :
                 
         template = {}
         
-        template['context'] = context
-        template['question'] = question
-        template['answer'] = answer
+        template['context'] = context.replace(sub_word, '<PERSON>')
+        template['question'] = question.replace(sub_word, '<PERSON>')
+        template['answer'] = answer.replace(sub_word, '<PERSON>')
         template['source_dataset'] = "relation_extraction"
         template['sub_word'] = sub_word
 

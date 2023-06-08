@@ -22,6 +22,15 @@ def check_word_in_dictionary(string, dictionary) :
             return True
     return False
 
+def count_words_in_dictionary(string, dictionary) :
+    count=0
+    words = string.split()
+    for word in words :
+        if word in dictionary :
+            count += 1
+            #return True
+    return count
+
 file_path = os.path.join(os.path.dirname(__file__), '../../', 'dataset/qamr/test.tsv')
 
 names_file_path = os.path.join(os.path.dirname(__file__), '../../', 'names/categorised_data/segregated_names.csv')
@@ -34,7 +43,7 @@ names_dict = {}
 for row in names_dataset[1:] :
     names_dict[row[0]] = {}
 
-j=0
+j,k = 0,0
 
 template_dict = {}
 for i in range(len(dataset)) : 
@@ -46,6 +55,8 @@ for i in range(len(dataset)) :
     context = dataset[i+1][0]
 
     if check_word_in_dictionary(context, names_dict) :
+        if count_words_in_dictionary(context, names_dict) < 2 :
+            continue
         j +=1
         template = {}
         
@@ -59,4 +70,5 @@ for i in range(len(dataset)) :
 
 save_json('qamr_templates_basic.json', template_dict)
 print (j)
+print (k)
 
