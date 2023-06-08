@@ -1,0 +1,74 @@
+{
+    "1": {
+        "context": " Still searching for their first win, the Bengals flew to Texas Stadium for a Week 5 interconference duel with the Dallas Cowboys.  In the first quarter, Cincinnati trailed early as Cowboys kicker Nick Folk got a 30-yard field goal, along with RB Felix Jones getting a 33-yard TD run.  In the second quarter, Dallas increased its lead as QB Tony Romo completed a 4-yard TD pass to TE Jason Witten.  The Bengals would end the half with kicker Shayne Graham getting a 41-yard and a 31-yard field goal. In the third quarter, Cincinnati tried to rally as QB Carson Palmer completed an 18-yard TD pass to WR T. J. Houshmandzadeh.  In the fourth quarter, the Bengals got closer as Graham got a 40-yard field goal, yet the Cowboys answered with Romo completing a 57-yard TD pass to WR Terrell Owens.  Cincinnati tried to come back as Palmer completed a 10-yard TD pass to Houshmandzadeh (with a failed 2-point conversion), but Dallas pulled away with Romo completing a 15-yard TD pass to WR Patrick Crayton.",
+        "question": "Who caught the last touchdown of the game?",
+        "answer": "WR Patrick Crayton",
+        "source_dataset": "drop"
+    },
+    "2": {
+        "context": " Coming off their home upset over the Colts, the Chargers flew to Jacksonville Municipal Stadium for a Week 11 intraconference duel with the Jacksonville Jaguars.  In the first quarter, San Diego trailed early as Jaguars kicker Josh Scobee managed to get a 48-yard field goal, along with RB Maurice Jones-Drew getting a 1-yard TD run.  In the second quarter, the Chargers got on the board with kicker Nate Kaeding getting a 23-yard field goal.  However, Jacksonville responded with QB David Garrard completing a 36-yard TD pass to WR Reggie Williams. In the third quarter, San Diego responded with RB LaDainian Tomlinson getting a 6-yard TD run, yet the Jaguars answered with Garrard completing a 1-yard TD pass to TE Marcedes Lewis.  In the fourth quarter, the Chargers tried to make a comeback as QB Philip Rivers completed a 24-yard TD pass to TE Antonio Gates.  But it was too-little too-late, as Jacksonville's defense held on to win.",
+        "question": "Who kicked a 48-yard field goal?",
+        "answer": "Josh Scobee",
+        "source_dataset": "drop"
+    },
+    "3": {
+        "context": " Coming off their home win over the Texans, the Titans stayed at home for a Week 4 interconference duel with the Minnesota Vikings. In the first quarter, Tennessee drew first blood as kicker Rob Bironas got a 20-yard field goal, along with rookie RB Chris Johnson getting a 1-yard TD run. In the second quarter, the Vikings responded with RB Adrian Peterson getting a 28-yard TD run. Afterwards, the Titans answered with Bironas kicking a 32-yard field goal, along with RB LenDale White getting a 1-yard TD run. Minnesota closed out the half with kicker Ryan Longwell getting a 42-yard field goal. In the third quarter, Tennessee increased its lead with Bironas nailing a 49-yard field goal. In the fourth quarter, the Vikings tried to rally as Peterson got a 3-yard TD run, yet the Titans pulled away with Johnson getting a 6-yard TD run. With the win, Tennessee acquired its first 4-0 start in franchise history.",
+        "question": "Who else besides Bironas kicked field goals?",
+        "answer": "Ryan Longwell",
+        "source_dataset": "drop"
+    },
+    "4": {
+        "context": " Coming off their easy road win over the Rams, the Bears flew to the Hubert H. Humphrey Metrodome for a Week 13 NFC North rematch with the Minnesota Vikings, with first place in the division on the line.  In the first quarter, Chicago struck first as QB Kyle Orton completed a 65-yard TD pass to WR Devin Hester.  In the second quarter, the Vikings responded with kicker Ryan Longwell getting a 23-yard field goal, while QB Gus Frerotte completed a 99-yard TD pass to former Bears WR Bernard Berrian and got a 1-yard TD run. In the third quarter, Chicago tried to rally as Orton completed a 2-yard TD pass to rookie RB Matt Fort&#233;, yet Minnesota answered with RB Chester Taylor getting a 21-yard TD run.  In the fourth quarter, the Vikings pulled away as RB Adrian Peterson got a 1-yard TD run, while Longwell nailed a 27-yard field goal.",
+        "question": "Which player scored the first points of the game?",
+        "answer": "Devin Hester",
+        "source_dataset": "drop"
+    },
+    "5": {
+        "context": "The number of entrants has increased greatly in recent years. In the FA Cup 2004-05 season, 660 clubs entered the competition, beating the long-standing record of 656 from the 1921-22 season. In 2005-06 FA Cup this increased to 674 entrants, in 2006-07 FA Cup to 687, in 2007-08 FA Cup to 731 clubs, and for the 2008-09 FA Cup and 2009-10 FA Cup competitions it reached 762. The number has varied slightly but remained roughly stable since then, with 759 clubs participating in 2010-11 FA Cup, a record 763 in 2011-12 FA Cup, 758 for 2012-13 FA Cup, 737 for 2013-14 FA Cup and 736 for 2014-15 FA Cup. By comparison, the other major English domestic cup, the EFL Cup, involves only the 92 members of the Premier League and Football League.",
+        "question": "Which major English domestic cup involves more entrants, the FA Cup or the EFL Cup?",
+        "answer": "FA Cup",
+        "source_dataset": "drop"
+    },
+    "6": {
+        "context": " Coming off their Thursday night home win over the Packers, the Cowboys flew to Ford Field for a Week 14 interconference duel with the Detroit Lions.  In the first quarter, Dallas trailed early as Lions RB T.J. Duckett getting a 32-yard TD run, along with kicker Jason Hanson getting a 19-yard field goal.  In the second quarter, the Cowboys got on the board with RB Marion Barber getting a 20-yard TD run.  Detroit would answer with Hanson kicking a 36-yard field goal, while RB Kevin Jones getting a 2-yard TD run.  The Cowboys ended the half with QB Tony Romo completing an 8-yard TD pass to Barber. In the third quarter, the Lions replied with Jones getting a 3-yard TD run for the only score of the period.  In the fourth quarter, Dallas came back and took the lead with Barber getting a 1-yard TD run and Romo completing a 16-yard TD pass to TE Jason Witten. With the win, the Cowboys improved to 12-1 and clinched the NFC East crown for the first time since 1998.",
+        "question": "Who had the shortest touchdown run?",
+        "answer": "Marion Barber",
+        "source_dataset": "drop"
+    },
+    "7": {
+        "context": "In 326 BCE, Alexander the Great invaded Pauravas and defeated King Porus. His armies entered the region via the Hindu Kush in northwest Pakistan and his rule extended up to the city of Sagala . In 305 BCE the area was ruled by the Maurya Empire. In a long line of succeeding rulers of the area, Chandragupta Maurya and Ashoka stand out as the most renowned. The Maurya presence in the area was then consolidated in the Indo-Greek Kingdom in 180 BCE. Menander I Soter \"The Saviour\"  is the most renowned leader of the era, he conquered the Punjab and made Sagala the capital of his Empire. Menander carved out a Greek kingdom in the Punjab and ruled the region till his death in 130 BCE. The neighbouring Seleucid Empire rule came to an end around 12 BCE, after several invasions by the Yuezhi and the Scythian people. In 711-713 CE, the 18-year-old Arab general Muhammad bin Qasim of Taif, a city in what is now Saudi Arabia, came by way of the Arabian Sea with Arab troops to defeat Raja Dahir. Bin Qasim then led his troops to conquer the Sindh and Punjab regions for the Islamic Umayyad Caliphate, making him the first to bring Islam to the region.",
+        "question": "What happened first Alexander invaded Pauravas or Menander I Soter invaded the Punjab?",
+        "answer": "Alexander the Great invaded Pauravas",
+        "source_dataset": "drop"
+    },
+    "8": {
+        "context": " Hoping to increase their winning streak the Chargers moved to Reliant Stadium for an AFC duel with the Texans. In the first quarter the Chargers trailed early as RB Arian Foster got an 8-yard TD run. They soon replied with QB Philip Rivers making a 55-yard TD pass to WR Seyi Ajirotutu. They trailed again with kicker Neil Rackers nailed a 27-yard field goal, but took the lead after Rivers got an 11-yard TD pass to TE Randy McMichael. They fell behind again in the second quarter as Foster made a 2-yard TD run, followed by Rackers hitting a 21 and a 25-yard field goal. The Chargers eventually pulled themselves in front again, with Rivers finding McMichael again on a 12-yard TD pass. This was followed in the 4th quarter by Rivers' 28-yard TD pass to Ajirotutu (With a successful 2-point conversion as FB Mike Tolbert ran to the endzone). With the win, the Chargers went into their bye week at 4-5.",
+        "question": "Who scored the final points of the game?",
+        "answer": "Mike Tolbert",
+        "source_dataset": "drop"
+    },
+    "9": {
+        "context": "Mehmed built a fleet to besiege the city from the sea .Contemporary estimates of the strength of the Ottoman fleet span between about 110 ships , 145 , 160 , 200-250  to 430 . A more realistic modern estimate predicts a fleet strength of 126 ships comprising 6 large galleys, 10 ordinary galleys, 15 smaller galleys, 75 large rowing boats, and 20 horse-transports.:44 Before the siege of Constantinople, it was known that the Ottomans had the ability to cast medium-sized cannons, but the range of some pieces they were able to field far surpassed the defenders' expectations. Instrumental to this Ottoman advancement in arms production was a somewhat mysterious figure by the name of Orban , a Hungarian .:374 One cannon designed by Orban was named \"Basilica\" and was 27 feet  long, and able to hurl a 600 lb  stone ball over a mile .",
+        "question": "How many miles could the stone ball travel?",
+        "answer": "over a mile",
+        "source_dataset": "drop"
+    },
+    "10": {
+        "context": "Other instances of napalms use include by France during the First Indochina War (1946-1954), the Algerian War of Independence (1954-1962), the Portuguese Colonial War (1961-1974), the Six-Day War by Israel (1967), in Nigeria (1969), India and Pakistan (1965 and 1971), Egypt (1973), by Morocco during the Western Sahara War (1975-1991), by Argentina (1982), by Iran (1980-88), by Iraq (1980-88, 1991), by Angola during the Angolan Civil War, and Yugoslav Wars (1991-1996).",
+        "question": "Which war did Morocco use napalm, Western Sahara War or Angolan Civil War?",
+        "answer": "Western Sahara War",
+        "source_dataset": "drop"
+    },
+    "11": {
+        "context": " Coming off their home win over the Lions, the 49ers flew to the Louisiana Superdome for a Week 4 duel with the New Orleans Saints.  In the first quarter, the Niners struck first as kicker Joe Nedney got a 47-yard field goal.  In the second quarter, the Saints took the lead with QB Drew Brees completing a 5-yard and a 33-yard TD pass to WR Lance Moore.  San Francisco would answer with Nedney's 49-yard field goal, yet New Orleans replied with Brees' 47-yard TD pass to WR Robert Meachem. In the third quarter, the 49ers tried to rally as Nedney kicked a 38-yard field goal.  However, in the fourth quarter, the Saints continued to pull away as RB Deuce McAllister got a 1-yard TD run.  The Niners tried to rally as QB J.T. O'Sullivan completed a 5-yard TD pass to WR Isaac Bruce, yet New Orleans sealed the win with kicker Mart&#237;n Gram&#225;tica nailing a 31-yard field goal.",
+        "question": "Which player caught the first TD of the whole game?",
+        "answer": "Lance Moore",
+        "source_dataset": "drop"
+    },
+    "12": {
+        "context": "Sitcoms offered a romanticized view of middle class American life with The Adventures of Ozzie and Harriet (1952–1966), Father Knows Best (1954–1960), and American Broadcasting Companys The Donna Reed Show (1958–1966) exemplifying the genre. Emmy Award-winning comedy I Love Lucy (1951–1960) starred husband and wife Desi Arnaz and Lucille Ball and enjoyed such popularity that some businesses closed early on Monday nights in order to allow employees to hurry home for the show. In The Life of Riley (1953–1958), blue collar Chester A. Riley (William Bendix) became the prototype for a long line of bumbling television patriarchs that included Fred Flintstone and Archie Bunker. The shows first incarnation for the DuMont Television Network lasted a season (1949–1950) and won an Emmy during the first Emmy Awards in 1949. The Honeymooners (1955–1956) followed bus driver Ralph Kramden (Jackie Gleason) and his sewer-working sidekick Ed Norton (Art Carney) while archetypal suburban life was limned in Leave It to Beaver (1957–1963), purportedly the first sitcom to be told from a childs point of view and the first to strike a blow for television realism by displaying a toilet in an early episode. Genre series were popular with Dragnet (series) (1952) starring Jack Webb representing police procedural drama, British television syndication series The Adventures of Robin Hood (TV series) (1955) starring Richard Greene representing historical drama, and Gunsmoke (1955) with James Arness and Amanda Blake representing the western. Mid-decade, Warner Bros. produced a group of five westerns with Maverick (TV series) starring James Garner and Cheyenne (1955 TV series) starring Clint Walker leading the group in popularity.",
+        "question": "Which sitcoms on TV ran in 1955",
+        "answer": "Ozzie and Harriet",
+        "source_dataset": "drop"
+    }
+}
