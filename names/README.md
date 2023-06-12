@@ -15,6 +15,9 @@ Social security US data - https://www.ssa.gov/oact/babynames/limits.html
 
 Office of National Statistics UK data - https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys
 
+Canada: British Columbia 100 Years of Popular Baby names, 1918 to 2018 - https://www2.gov.bc.ca/gov/content/life-events/statistics-reports/bc-s-most-popular-baby-names
+
+Australia Attorney-General's Department : https://data.gov.au/dataset/ds-sa-9849aa7f-e316-426e-8ab5-74658a62c7e6/details?q=
 
 Additional gender dataset, currently not getting used : 
 
