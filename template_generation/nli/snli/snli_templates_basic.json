@@ -1,0 +1,272 @@
+{
+    "1": {
+        "premise": "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "Bruce Springsteen is from Florida.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "2": {
+        "premise": "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "Bruce Springsteen is a singer.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "3": {
+        "premise": "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "Bruce Springsteen is gay",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "4": {
+        "premise": "A wet child stands in chest deep ocean water.",
+        "hypothesis": "A child is in the ocean",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "5": {
+        "premise": "A bearded man with a backpack on his back holding a tripod in front of a rocky creek and bridge.",
+        "hypothesis": "The man with the bear and backpack held the tripod by the creek.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "6": {
+        "premise": "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "hypothesis": "Laura Bush stands in front of a conference",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "7": {
+        "premise": "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "hypothesis": "Laura Bush is driving a jet-ski near the Washington monument.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "8": {
+        "premise": "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "hypothesis": "Laura Bush gets ready to address a heated issue",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "9": {
+        "premise": "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "hypothesis": "George Bush stands in front of a podium in front of an audience",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "10": {
+        "premise": "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "hypothesis": "Laura Bush is giving a talk about the importance of literacy to young people.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "11": {
+        "premise": "A woman wearing a black t-shirt and green capri pants walks in front of a giant clock.",
+        "hypothesis": "The green clock wears black capri pants in front of the woman.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "12": {
+        "premise": "A man in a red shirt is sitting on top of a rocky mountain.",
+        "hypothesis": "A woman standing on top of a rocky mountain.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "13": {
+        "premise": "Bicyclist ride the course near the ocean as the day comes to an end.",
+        "hypothesis": "The cyclist was riding near the ocean at sunset.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "14": {
+        "premise": "Four entertainers dressed in Roman style garb are performing at an outdoor theater.",
+        "hypothesis": "Professional actors are doing summer stock.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "15": {
+        "premise": "A man wearing blue pants, a white helmet, and a green-striped shirt is shown on skis in midair, against a blue sky with a single puffy cloud.",
+        "hypothesis": "The sky is blue with a single puffy cloud.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "16": {
+        "premise": "A man rides a black motorcycle while wearing a helmet and a van rides beside him in the distance.",
+        "hypothesis": "A motorcycle and a van ride next to each other.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "17": {
+        "premise": "A man rides a black motorcycle while wearing a helmet and a van rides beside him in the distance.",
+        "hypothesis": "A man rides a black motorcycle while wearing a helmet and a pizza delivery van rides beside him in the distance.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "18": {
+        "premise": "A person waterskiing in a river with a large wall in the background.",
+        "hypothesis": "A dog waterskiing in a river with a large wall in the background.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "19": {
+        "premise": "A person waterskiing in a river with a large wall in the background.",
+        "hypothesis": "A man waterskiing in a river with a large wall in the background.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "20": {
+        "premise": "A person waterskiing in a river with a large wall in the background.",
+        "hypothesis": "A person waterskiing in a river with a wall in the background.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "21": {
+        "premise": "A boy scout with a red cap is looking through a telescope",
+        "hypothesis": "A boy scout is making a campfire.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "22": {
+        "premise": "Two silhouetted people paddle a canoe on the ocean during sunset.",
+        "hypothesis": "people are swimming in ocean water",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "23": {
+        "premise": "Two silhouetted people paddle a canoe on the ocean during sunset.",
+        "hypothesis": "two people paddle their boat on the ocean",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "24": {
+        "premise": "Two silhouetted people paddle a canoe on the ocean during sunset.",
+        "hypothesis": "two people paddles a canoe on the ocean",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "25": {
+        "premise": "A woman and child are on a boat and the woman is looking out into the ocean through a scope.",
+        "hypothesis": "A lady and a child are on a boat and the lady is looking out into the ocean through a scope.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "26": {
+        "premise": "A man dressed as an angel balances a woman dressed as an angel on his thighs while she hands out papers to people passing on the sidewalk.",
+        "hypothesis": "A couple dressed in angel costumes are handing out leaflets on the sidewalk.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "27": {
+        "premise": "A woman is posing in a meadow next to an old truck.",
+        "hypothesis": "A woman is posing in the forest near a motorcycle.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "28": {
+        "premise": "This person looks to be snowboarding on a very small pile of snow on a sunny cold day.",
+        "hypothesis": "timmy stares at the remains of Jimmy hoffa",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "29": {
+        "premise": "Young people and a kid are walking in the forest in a sunny day.",
+        "hypothesis": "Young people and a kid are walking on a sunny day.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "30": {
+        "premise": "A woman in a red shirt looks at a map while with a view of a river and several boats in the background.",
+        "hypothesis": "A woman looks at a map outdoors, a river and boats are behind her.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "31": {
+        "premise": "A road crew is working on a road with equipment around them.",
+        "hypothesis": "A crew is working.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "32": {
+        "premise": "A road crew is working on a road with equipment around them.",
+        "hypothesis": "A road crew in orange vests are working on a road with equipment around them.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "33": {
+        "premise": "Two men riding a boat in clear water on a sunny day.",
+        "hypothesis": "Two men fish in a boat on a river on a sunny day.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "34": {
+        "premise": "One many is fishing by a river with some buildings in the background while another man next to him is about to get a drink from the bottle next to him.",
+        "hypothesis": "Two men are by the river",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "35": {
+        "premise": "A news crew in rain jackets standing in front of line of police tape outside of a residence.",
+        "hypothesis": "A news crew investigates a double homicide, while the police place tape outside.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "36": {
+        "premise": "A news crew in rain jackets standing in front of line of police tape outside of a residence.",
+        "hypothesis": "A news crew's van has broken down, so they decide to stay home.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "37": {
+        "premise": "Young men drink coffee and read books just outside some buildings on a sunny day; an older bearded man in a dark blue shirt glances at a younger man in a striped shirt, who has a red toy crab on the table next to him.",
+        "hypothesis": "Hipsters hang out outside of a cafe on a sunny day.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "38": {
+        "premise": "Politician John McCain on a talk show.",
+        "hypothesis": "John McCain is talking about politics.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "39": {
+        "premise": "Politician John McCain on a talk show.",
+        "hypothesis": "John McCain is hosting a talk show.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "40": {
+        "premise": "Politician John McCain on a talk show.",
+        "hypothesis": "John McCain is on a talk show.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "41": {
+        "premise": "A young blond child wearing a black shirt and white shorts looks at the sky with a bridge and water in the background.",
+        "hypothesis": "A child looks at birds in the sky outside of of a bridge.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "42": {
+        "premise": "A young blond child wearing a black shirt and white shorts looks at the sky with a bridge and water in the background.",
+        "hypothesis": "A child looks at the sky outside.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "43": {
+        "premise": "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "A boy dressed for summer in a tight green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "44": {
+        "premise": "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "A boy dressed for summer in a green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "45": {
+        "premise": "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "A boy alien dressed for summer in a green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    }
+}
