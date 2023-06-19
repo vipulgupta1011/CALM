@@ -1,0 +1,338 @@
+{
+    "1": {
+        "premise": "The kid is swimming through the blue ocean",
+        "hypothesis": "The boy is wading through the blue ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "2": {
+        "premise": "The man in a grey t-shirt is sitting on a rock in front of the waterfall",
+        "hypothesis": "A rocker is sitting with a t-shirt that has a man over a grey waterfall on the front",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "3": {
+        "premise": "An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers",
+        "hypothesis": "An old woman is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "4": {
+        "premise": "A person is pouring olive oil into a pot on the stove",
+        "hypothesis": "A person is pouring olive oil into the stove from a pot",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "5": {
+        "premise": "A child is running in and out of the ocean waves",
+        "hypothesis": "A child is staring at the ocean waves",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "6": {
+        "premise": "A boy is waving at some young runners from the ocean",
+        "hypothesis": "The young boy is running through the ocean waves",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "7": {
+        "premise": "A child is running in and out of the ocean waves",
+        "hypothesis": "A boy is waving at some young runners from the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "8": {
+        "premise": "The young boy is running through the ocean waves",
+        "hypothesis": "A child is staring at the ocean waves",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "9": {
+        "premise": "The south African plane is flying in a blue sky",
+        "hypothesis": "The plane, which is south African, is flying in a blue sky",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "10": {
+        "premise": "The south African plane is flying in a blue sky",
+        "hypothesis": "The south African plane is not flying in a blue sky",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "11": {
+        "premise": "There is no couple running towards the ocean",
+        "hypothesis": "A couple is running towards the ocean",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "12": {
+        "premise": "The man is standing on a rocky mountain and gray clouds are in the background",
+        "hypothesis": "The man is not standing on a rocky mountain and gray clouds are not in the background",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "13": {
+        "premise": "A man in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "There is no man in a purple suit standing by a purple case and playing a guitar",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "14": {
+        "premise": "The guitar is being played by the man, who has the guitar case open for donations",
+        "hypothesis": "The man is playing the guitar and has the guitar case open for donations",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "15": {
+        "premise": "The man is playing the guitar and has the guitar case open for donations",
+        "hypothesis": "The man is opening the guitar for donations and plays with the case",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "16": {
+        "premise": "The guitar is being played by the man, who has the guitar case open for donations",
+        "hypothesis": "A man in a purple suit is standing by a purple case and is playing a guitar",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "17": {
+        "premise": "A man in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "The man is opening the guitar for donations and plays with the case",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "18": {
+        "premise": "The man is playing the guitar and has the guitar case open for donations",
+        "hypothesis": "There is no man in a purple suit standing by a purple case and playing a guitar",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "19": {
+        "premise": "A man in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "The man is playing the guitar and has the guitar case open for donations",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "20": {
+        "premise": "Two adults are sitting in the chairs and are watching the ocean",
+        "hypothesis": "Some adults are sitting in the chairs and are watching the ocean",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "21": {
+        "premise": "Nobody is sitting in the chairs and watching the ocean",
+        "hypothesis": "Two adults are sitting in the chairs and are watching the ocean",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "22": {
+        "premise": "A couple is sitting on a patio and is staring at the ocean",
+        "hypothesis": "A couple is sitting on a patio and looking at the ocean",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "23": {
+        "premise": "A couple is standing on a patio and looking at the sky",
+        "hypothesis": "A couple is sitting on a patio and looking at the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "24": {
+        "premise": "A couple is sitting on a patio and is staring at the ocean",
+        "hypothesis": "Two adults are sitting in the chairs and are watching the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "25": {
+        "premise": "A couple is standing on a patio and looking at the sky",
+        "hypothesis": "Two adults are sitting in the chairs and are watching the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "26": {
+        "premise": "A couple is sitting on a patio and looking at the ocean",
+        "hypothesis": "Two adults are sitting in the chairs and are watching the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "27": {
+        "premise": "Three boys are carefully walking on rocks along a river",
+        "hypothesis": "Three boys are walking on rocks along a river",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "28": {
+        "premise": "The men in brown shorts are walking on the rocks beside a river",
+        "hypothesis": "The men in brown shorts are not walking on the rocks beside a river",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "29": {
+        "premise": "A person is stopping the bicycle in the sand beside the ocean",
+        "hypothesis": "A person is riding a bicycle in the sand beside the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "30": {
+        "premise": "A large duck is flying over a rocky stream",
+        "hypothesis": "A duck, which is large, is flying over a rocky stream",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "31": {
+        "premise": "Orange juice is being drunk by a man who is walking on a sunny day",
+        "hypothesis": "A man is drinking orange juice and walking on a sunny day",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "32": {
+        "premise": "A man in a red jacket is standing next to a yellow kayak on some rocks by the ocean",
+        "hypothesis": "The man in the red jacket is standing next to the yellow kayak on some rocks by the ocean",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "33": {
+        "premise": "A man in a red jacket is standing next to a yellow kayak on some rocks by the ocean",
+        "hypothesis": "There is no man in a red jacket standing next to a yellow kayak on some rocks by the ocean",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "34": {
+        "premise": "A river is being crossed by a dog on a bridge made from a fallen tree",
+        "hypothesis": "A dog is crossing a river on a bridge made from a fallen tree",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "35": {
+        "premise": "A person wearing grey pants is airborne on a snowboard",
+        "hypothesis": "A person is wearing grey pants on a snowboard",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "36": {
+        "premise": "A grey dog is jumping toward a black and white dog in the soft snow",
+        "hypothesis": "A grey dog is jumping toward a black and white dog in the snow",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "37": {
+        "premise": "A grey dog is jumping toward a black and white dog in the snow",
+        "hypothesis": "A grey dog is jumping toward a black and white dog in the water",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "38": {
+        "premise": "A black dog is running across a rocky landscape",
+        "hypothesis": "A dog is running across a rocky landscape",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "39": {
+        "premise": "A black dog is walking along rocky terrain",
+        "hypothesis": "A black cat is walking along rocky terrain",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "40": {
+        "premise": "A black dog is running across a rocky landscape",
+        "hypothesis": "A black cat is walking along rocky terrain",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "41": {
+        "premise": "A dog is running across a rocky landscape",
+        "hypothesis": "A black dog is walking along rocky terrain",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "42": {
+        "premise": "A black dog is running across a rocky landscape",
+        "hypothesis": "A black dog is walking along rocky terrain",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "43": {
+        "premise": "A young man and a woman are riding bikes on the boardwalk near the ocean",
+        "hypothesis": "An older man and a woman are riding bikes on the boardwalk near the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "44": {
+        "premise": "A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair",
+        "hypothesis": "A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a woman with grey hair",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "45": {
+        "premise": "A grey silky dog is sleeping in the grass and a brown dog is looking on",
+        "hypothesis": "A grey silky dog is lying in the grass and a brown dog is looking on",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "46": {
+        "premise": "An old man with a grey beard is riding a bike",
+        "hypothesis": "An old man with a beard that is grey is riding a bike",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "47": {
+        "premise": "An old man with a grey beard is not riding a bike",
+        "hypothesis": "An old man with a grey beard is riding a bike",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "48": {
+        "premise": "People are walking across a rope bridge over a rocky stream",
+        "hypothesis": "People are not walking across a rope bridge over a rocky stream",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "49": {
+        "premise": "People are crossing a rope bridge over a rocky stream",
+        "hypothesis": "Three people are walking across a rope and wood bridge over a river",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "50": {
+        "premise": "Three men are walking across a rope and wood bridge over a river",
+        "hypothesis": "People are walking across a rope bridge over a rocky stream",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "51": {
+        "premise": "A brown dog is running after a black dog on a rocky shore",
+        "hypothesis": "A brown dog is running after a white dog on a rocky shore",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "52": {
+        "premise": "There is no person with a blue backpack hiking in rocky area",
+        "hypothesis": "A distant person with a blue backpack is hiking in rocky area",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "53": {
+        "premise": "Two women with dogs are walking on a forest path",
+        "hypothesis": "Two girl with dogs are walking on a forest path",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "54": {
+        "premise": "Two women with dogs are walking on a forest path",
+        "hypothesis": "Two men with dogs are walking on a forest path",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "55": {
+        "premise": "A person with a red hooded jacket and a black backpack is walking near a rocky wall",
+        "hypothesis": "A person with a red hooded jacket and a black backpack is moving near a rocky wall",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "56": {
+        "premise": "A barefoot man in pajamas is looking toward the sky and is walking on the tennis court",
+        "hypothesis": "A barefoot man in pajamas is looking toward the sky and is standing on the tennis court",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    }
+}
