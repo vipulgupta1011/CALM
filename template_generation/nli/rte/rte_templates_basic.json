@@ -1,0 +1,230 @@
+{
+    "1": {
+        "premise": "Following the successful bid to bring the 2010 Ryder Cup to Wales, the Wales Tourist Board has wasted little time in commissioning work to ensure that the benefits accruing from the event are felt throughout the country.",
+        "hypothesis": "Wales to host 2010 Ryder Cup.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "2": {
+        "premise": "A number of the items that he auctioned off over the two day period have been seen on his reality TV show The Osbournes, which featured home life with Sharon, Ozzy and their two children. Amongst some of the higher-priced items were a carved walnut Victorian-style custom built pool table which raised $11,250, a painting from Edourad Drouot which fetched $10,500, a pair of Ozzy's famous round glasses which raised $5,250 and a dog bed given to Sharon by Elton John which sold for $2,375.",
+        "hypothesis": "The Osbournes is the name of a reality show starring Ozzy Osbourne.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "3": {
+        "premise": "According to reports, a man protesting the G20 Summit in London, England has died after collapsing at a protester camp. Sky News says the man collapsed on the street inside a camp close to the Bank of England and when found he was still breathing, but efforts by paramedics to rescue him failed and he was pronounced dead at an area hospital. The name of the person and cause of death are not yet known, but several people were injured earlier in the day. It is also reported by Sky News that people threw bottles at him and authorities when they were taking him to a waiting ambulance.",
+        "hypothesis": "Sky News offices are close to the Bank of England.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "4": {
+        "premise": "The San Diego Padres ace, Jake Peavy, was hurt in an 8-5 loss to the St. Louis Cardinals.",
+        "hypothesis": "The San Diego Padres won the game against the St. Louis Cardinals.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "5": {
+        "premise": "But Huawei says that expansion has not been easy - obtaining visas for its Chinese engineers to work on long-term projects in India being a particular challenge.",
+        "hypothesis": "Chinese engineers working on long-term projects in India can easily obtain visas.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "6": {
+        "premise": "47-year-old Susan Boyle from Blackburn, West Lothian in Scotland, made her debut appearance on the show on Saturday night by saying that she had \"never been married, never been kissed\" and was currently unemployed, living alone at home with her cat, Pebbles. She says that she wants to \"be a professional singer\", but has \"never been given the chance.\" Audience members and judges Amanda Holden, Simon Cowell and Piers Morgan, first laughed and even poked fun at her. Boyle then stunned the judges and audience, getting a standing ovation, with her performance of I Dreamed a Dream from the award winning musical performance Les Misérables. Cowell called her performance \"extraordinary\" while Morgan called it \"the biggest surprise I've had in three years of this show. I am shocked.\" Holden even admitted that \"everyone was against you [Boyle]\" and that \"we were all being very cynical.\"",
+        "hypothesis": "Simon Cowell fell in love with Susan Boyle.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "7": {
+        "premise": "As spacecraft commander for Apollo XI, the first manned lunar landing mission, Armstrong was the first man to walk on the Moon. \"That's one small step for a man, one giant leap for mankind.\" With these historic words, man's dream of the ages was fulfilled.",
+        "hypothesis": "Neil Armstrong was the first man who landed on the Moon.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "8": {
+        "premise": "Tropical Storm Irene on August 11, 2005 at 16:15 UTC. Tropical Storm Irene will increase in strength over the next several days, possibly developing into   a hurricane that will hit the east coast of the United States, said the National Hurricane Center of Miami, Florida in a report today.  Irene was located approximately 975 kilometers south-southeast of Bermuda at 16:00 UTC today. Forecasters say that the storm is now moving in a west-  northwest direction with top sustained winds of 40 miles per hour.",
+        "hypothesis": "A storm called Irene is going to approach the east coast of the US.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "9": {
+        "premise": "The medical student accused of murdering an erotic masseuse he met on Craigslist is drowning in more than $100,000 in student loan debt and is so broke he can't afford to pay an attorney, according to court papers. Philip Markoff, a 23-year-old suspended Boston University medical school student, owes $130,000 in student loans and does not get money from his parents, leaving him to lean on a taxpayer-funded attorney for his defense, according to a court document in Boston Municipal Court that labels him indigent. Markoff graduated from the State University of New York-Albany and was a second-year medical student at BU.",
+        "hypothesis": "The medical student Philip Markoff was engaged.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "10": {
+        "premise": "I asked myself how to understand the 'Twilight's success. And I have come to the idea that when you really believe in something, sooner or later it will become real. So, I guess this is what happened with Robert Pattinson. Last year he was just an unknown actor who's biggest role was in a pair of \"Harry Potter\" movies. Now, not only that Twilight is competing with 'Harry Potter', but Robert Pattinson is one of the most famous young actors who sucked $373.4 million from global box offices. So the movie about a vampire boy who falls in love with a normal girl, begun a real hysteria. And Pattinson has a lot to do with it!.",
+        "hypothesis": "Robert Pattinson is a vampire.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "11": {
+        "premise": "Andreessen, who helped define the Internet revolution as part of team that created the first Internet browser (Mosaic) and his co-founding Netscape, told a packed hall at the San Francisco Marriott hotel Thursday that he is \"extremely committed\" to his startup Loudcloud.",
+        "hypothesis": "The Internet browser Mosaic was created at the San Francisco Marriott hotel.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "12": {
+        "premise": "Former WBA heavyweight champ Greg Page, who suffered a severe brain injury in a 2001 fight, has died at his Louisville home at the age of 50. According to Page's wife, the ex-champ died from complications due to boxing injuries and paralysis. Following a successful amateur career, Page went 58-17-1 during a professional career that began in 1979 and included wins over Jimmy Young, James Tillis, Renaldo Snipes, Gerrie Coetzee (for the WBA title), James 'Bonecrusher' Smith and Tim Witherspoon. Page's losses read like a who's who of heavyweights of the 1980s: Trevor Berbick, Witherspoon, Tony Tubbs, Buster Douglas, Joe Bugner, Orlin Norris, Donovan 'Razor' Ruddock, Bruce Seldon, Monte Barrett and Jorge Luis Gonzalez.",
+        "hypothesis": "Greg Page was a boxer.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "13": {
+        "premise": "Prince Charles, Britain's heir to the throne, has announced that he is to wed his lover of 34 years, Camilla Parker Bowles. In a press statement, the Prince of Wales said \"Mrs Parker Bowles and I are absolutely delighted. It will be a very special day for us and our families.\" Mrs Parker Bowles will use the title \"HRH The Duchess of Cornwall\" after their marriage, and it is intended that following the Prince's accession to the throne, Mrs Parker Bowles will use the title \"HRH The Princess Consort\". The pair are to marry on 8th April 2005 at a private civil ceremony in Windsor Castle, which will be an occasion primarily for friends and family. There will then be a service of prayer and dedication in St. George's Chapel, to be conducted by the Archbishop of Canterbury, Dr. Rowan Williams.",
+        "hypothesis": "Camilla Parker Bowles is engaged to Britain's heir.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "14": {
+        "premise": "Grieving father Christopher Yavelow hopes to deliver one million letters to the queen of Holland to bring his children home.",
+        "hypothesis": "Christopher Yavelow is the queen of Holland.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "15": {
+        "premise": "Unwilling to surrender his dream of beginning a Holy Land pilgrimage in Iraq, Pope John Paul II made a \"virtual pilgrimage\" Wednesday to Ur, the ancient city that is traditionally held to be the birthplace of Abraham.",
+        "hypothesis": "Pope John Paul II was born in Poland.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "16": {
+        "premise": "A plane crashed in North Carolina last year and most of the Blink-182 group was in there. The only survivors of the crash were DJ AM and musical partner Travis Barker. Less lucky, \"Lil\" Chris Baker, Barker's close friend and assistant, the Blink-182 drummer's bodyguard, Charles \"Che\" Still, the pilot and co-pilot died. Both AM and Barker suffered many injures, bad burns and they needed to stay in hospital for several weeks. Now AM asks $20 million in compensation for injuries he suffered. He lawsuits against plane maker Learjet and wants to gain $10 million for medical damages, lost earnings and profit and the same amount for mental and physical suffering.",
+        "hypothesis": "Travis Barker belongs to a band.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "17": {
+        "premise": "Pole Robert Kubica became the highlight of the weekend by winning the pole, but was slow off the start and finished third on the podium. Nick Heidfeld, his BMW Sauber teammate finished fourth. The results puts BMW as the new leader of the Constructors' championship, one point ahead of Scuderia Ferrari. Heikki Kovalainen came fifth and became the only McLaren driver to finish in the points. Jarno Trulli (Toyota) and Mark Webber (Red Bull-Renault) ran 6 and 7 places respectively with Nico Rosberg (Williams-Toyota) closing out the top eight with 1 point. Timo Glock (Toyota) was engaged in a hard battle with Fernando Alonso (Renault) and came 9th ahead of the Spanish 2005 F1 Champion.",
+        "hypothesis": "Robert Kubica has been appointed by Scuderia Ferrari.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "18": {
+        "premise": "Blair has sympathy for anyone who has lost their lives in Iraq.",
+        "hypothesis": "Blair is sympathetic to anyone who has lost their lives in Iraq.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "19": {
+        "premise": "Jerry Reinsdorf (born February 25 1936 in Brooklyn, New York) is the owner of Chicago White Sox and the Chicago Bulls. Recently, he helped the White Sox win the 2005 World Series and, in the process, collected his seventh championship ring overall (the first six were all with the Bulls in the 1990s), becoming the third owner in the history of North American sports to win a championship in two different sports.",
+        "hypothesis": "Jerry Reinsdorf has won 7 championships.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "20": {
+        "premise": "An auto analyst for Bombay's Angel Broking, Vaishali Jajoo, predicted that the Nano will add only three percent to Tata's revenues even if it can sell a quarter of a million such cars per annum. \"That doesn't make a significant difference to the top line,\" Jajoo said. \"And for the bottom line, it will take five to six years to break even.\" Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country.",
+        "hypothesis": "Angel Broking is based in Bombay.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "21": {
+        "premise": "The investigation came about following the collapse of Barings Bank, when one of its traders based in Singapore, Nick Leeson, amassed losses of the order of 600-700 million without the bank being aware of it.",
+        "hypothesis": "Nick Leeson was arrested for collapse of Barings Bank PLC.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "22": {
+        "premise": "General Miguel Maza Marquez, chief of the Colombian Administrative Department Of Security (DAS), today confirmed foreign participation in the assassination of Luis Carlos Galan, senator and Liberal party presidential candidate, on 18 August in Bogota.",
+        "hypothesis": "General Miguel Maza Marquez took part in the assassination of Luis Carlos Galan.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "23": {
+        "premise": "Coextensive with the metropolitan district of Jakarta Raya, it lies at the mouth of the Ciliwung ( Liwung River ) on the northwest coast of Java.",
+        "hypothesis": "Jakarta lies at the mouth of the Ciliwung ( Liwung River ) on the northwest coast of the island of Java.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "24": {
+        "premise": "Four days of talks got underway with the US announcing the first significant overture to North Korea since George W Bush took office three years ago.",
+        "hypothesis": "George W. Bush entered the US presidency 3 years ago.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "25": {
+        "premise": "The mistaken spelling, Miller explained, was made in a section of her notes unrelated to the interviews with Libby.  Other notes documented 3 interviews with Libby, conducted in the year 2003, that in her NYT column she wrote: June 23) ... Mr. Libby raised the subject of Mr. Wilson's wife for the first time. I wrote in my notes, inside parentheses, \"Wife works in bureau?\" I told Mr. Fitzgerald that I believed this was the first time I had been told that Mr. Wilson's wife might work for the C.I.A.",
+        "hypothesis": "Judith Miller works for the New York Times.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "26": {
+        "premise": "On Jan. 27, 1756, composer Wolfgang Amadeus Mozart was born in Salzburg, Austria.",
+        "hypothesis": "Wolfgang Amadeus Mozart was born in Salzburg.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "27": {
+        "premise": "Miller died Thursday night, of congestive heart failure, at his home in Roxbury, Conn., surrounded by his family, his assistant, Julia Bolus, said Friday.",
+        "hypothesis": "Miller died Thursday night, of heart failure, surrounded by family members.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "28": {
+        "premise": "NEW YORK —  Somali pirates attacked and damaged an American ship carrying humanitarian aid Tuesday, but the ship and crew were safe under Navy escort, the military and shipping company said. The pirates fired rocket-propelled grenades and automatic weapons at the Liberty Sun as it carried food for famine-wracked African nations, said the vessel's owner, Liberty Maritime Corp. The ship was en route from Houston to Mombasa, Kenya, with a roughly 20-member crew, officials said. .",
+        "hypothesis": "Pirates damaged the ship Liberty Maritime.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "29": {
+        "premise": "Zahi Hawass, Egypt's pre-eminent archaeologist, revealed the first ancient artifacts which may lead to the discovery of Cleopatra and Marc Antony's resting place.  The expedition has found amulets, 22 bronze coins cast with Cleopatra's image and her name, a royal statue, an alabaster mask resembling Marc Antony, and a statue bust of Cleopatra. \"If you look at the face of Mark Antony, many believed he had this cleft on his chin and that's why I thought this could be Mark Antony,\" said Hawass.  \"In my opinion, if this tomb is found, it will be one of the most important discoveries of the 21st century because of the love between Cleopatra and Mark Antony, and because of the sad story of their death. This is the perfect place for them to be hidden,\" said Hawass.",
+        "hypothesis": "Cleopatra and Marc Antony lived in Egypt.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "30": {
+        "premise": "But the message delivered by their performance piece was mostly sad and raw. After just three weeks on the road, one of the two Italian artists, Pippa Bacca, 33, was killed by a driver who offered her a ride. Her naked body was found on April 11 in some bushes near a Turkish village after a suspect led investigators to the site. Although an official cause of death has not been given, local Turkish authorities said Ms. Bacca had been raped and strangled.",
+        "hypothesis": "Pippa Bacca was an Italian peace activist.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "31": {
+        "premise": "Brown brushed off a threat made Monday by his counterpart, Foreign Trade Minister Wu Yi, that if China's effort to join the General Agreement on Tariffs and Trade (GATT) by the year's end is unsuccessful, Beijing will no longer be bound by previous trade and economic commitments.",
+        "hypothesis": "Wu Yi is the Foreign Trade Minister of China.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "32": {
+        "premise": "Senator Dick Lugar, the ranking Republican member of the Senate Committee on Foreign Relations, spoke in favor of the bill, saying that the United States' embargo on Cuba had \"failed to achieve its stated purpose of bringing democracy to the Cuban people.\" Senator Bob Menendez of New Jersey, a Democrat and a second generation Cuban-American, opposes the bill, arguing that free travel by Europeans, Canadians and the citizens of other Latin American countries has not helped to democratize the island nation. \"The regime has not opened up,\" said Sen. Menendez. \"On the contrary, it has used resources to become more oppressive.\"",
+        "hypothesis": "Dick Lugar is a member of the Cuban-American community.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "33": {
+        "premise": "Kevin Whitaker, who heads the Cuban affairs office at the Department of State, spoke with Lazo on two occasions about the effort to give his sons visas.",
+        "hypothesis": "Kevin Whitaker is a manager of the Department of State.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "34": {
+        "premise": "In support of the Earth Island Institute rebuttal, Greenpeace founder Don White made the following - unfortunately prophetic - public statement on 8/18/93.",
+        "hypothesis": "Don White is the founder of Greenpeace.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "35": {
+        "premise": "Gabriel Garcia Marquez is the author of \"One Hundred Years of Solitude\", \"The Autumn of the Patriarch\" and other novels.",
+        "hypothesis": "Gabriel Garcia Marquez is a novelist and writer.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "36": {
+        "premise": "Monica Meadows, a 22-year-old model from Atlanta, was shot in the shoulder on a subway car in New York City.",
+        "hypothesis": "Monica Meadows, 23, was shot in shoulder while riding a subway car in New York City",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "37": {
+        "premise": "Plans are being drawn up to build a £3.3m working replica of the boat that took Charles Darwin around the world at Milford Haven in Pembrokeshire. Fundraising for the project, which would mark the 200th anniversary of Darwin's birth in 2009, is under way. The aim is to built a seaworthy vessel identical to the HMS Beagle on the outside, but with a modern interior. Darwin, who showed how natural selection could explain evolution, sailed on the Beagle between 1831-36.",
+        "hypothesis": "Charles Darwin took a voyage on a ship named HMS Beagle.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "38": {
+        "premise": "In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed.",
+        "hypothesis": "John Wilkes Booth killed President Abraham Lincoln.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    }
+}
