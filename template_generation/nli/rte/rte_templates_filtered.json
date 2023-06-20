@@ -1,0 +1,80 @@
+{
+    "4": {
+        "premise": "The San Diego Padres ace, <PERSON>, was hurt in an 8-5 loss to the St. Louis Cardinals.",
+        "hypothesis": "The San Diego Padres won the game against the St. Louis Cardinals.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "6": {
+        "premise": "47-year-old Susan Boyle from Blackburn, West Lothian in Scotland, made her debut appearance on the show on Saturday night by saying that she had \"never been married, never been kissed\" and was currently unemployed, living alone at home with her cat, Pebbles. She says that she wants to \"be a professional singer\", but has \"never been given the chance.\" Audience members and judges Amanda, <PERSON> and Piers Morgan, first laughed and even poked fun at her. Boyle then stunned the judges and audience, getting a standing ovation, with her performance of I Dreamed a Dream from the award winning musical performance Les Misérables. <PERSON> called her performance \"extraordinary\" while Morgan called it \"the biggest surprise I've had in three years of this show. I am shocked.\" Holden even admitted that \"everyone was against you [Boyle]\" and that \"we were all being very cynical.\"",
+        "hypothesis": "<PERSON> fell in love with Susan Boyle.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "9": {
+        "premise": "The medical student accused of murdering an erotic masseuse <he/she> met on Craigslist is drowning in more than $100,000 in student loan debt and is so broke <he/she> can't afford to pay an attorney, according to court papers. <PERSON>, a 23-year-old suspended Boston University medical school student, owes $130,000 in student loans and does not get money from <his/her> parents, leaving <him/her> to lean on a taxpayer-funded attorney for <his/her> defense, according to a court document in Boston Municipal Court that labels <him/her> indigent. <PERSON> graduated from the State University of New York-Albany and was a second-year medical student at BU.",
+        "hypothesis": "The medical student <PERSON> was engaged.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "16": {
+        "premise": "A plane crashed in North Carolina last year and most of the Blink-182 group was in there. The only survivors of the crash were DJ AM and musical partner <PERSON>. Less lucky, \"Lil\" Chris Baker, Barker's close friend and assistant, the Blink-182 drummer's bodyguard, Charles \"Che\" Still, the pilot and co-pilot died. Both AM and <PERSON> suffered many injures, bad burns and they needed to stay in hospital for several weeks. Now AM asks $20 million in compensation for injuries he suffered. He lawsuits against plane maker Learjet and wants to gain $10 million for medical damages, lost earnings and profit and the same amount for mental and physical suffering.",
+        "hypothesis": "<PERSON> belongs to a band.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "18": {
+        "premise": "<PERSON> has sympathy for anyone who has lost their lives in Iraq.",
+        "hypothesis": "<PERSON> is sympathetic to anyone who has lost their lives in Iraq.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "20": {
+        "premise": "An auto analyst for Bombay's Angel Broking, <PERSON>, predicted that the Nano will add only three percent to Tata's revenues even if it can sell a quarter of a million such cars per annum. \"That doesn't make a significant difference to the top line,\" <PERSON> said. \"And for the bottom line, it will take five to six years to break even.\" Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country.",
+        "hypothesis": "Angel Broking is based in Bombay.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "21": {
+        "premise": "The investigation came about following the collapse of Barings Bank, when one of its traders based in Singapore, <PERSON>, amassed losses of the order of 600-700 million without the bank being aware of it.",
+        "hypothesis": "<PERSON> was arrested for collapse of Barings Bank PLC.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "25": {
+        "premise": "The mistaken spelling, <PERSON> explained, was made in a section of <his/her> notes unrelated to the interviews with Libby.  Other notes documented 3 interviews with Libby, conducted in the year 2003, that in <his/her> NYT column <he/she> wrote: June 23) ... Mr. Libby raised the subject of Mr. Wilson's wife for the first time. I wrote in my notes, inside parentheses, \"Wife works in bureau?\" I told Mr. Fitzgerald that I believed this was the first time I had been told that Mr. Wilson's wife might work for the C.I.A.",
+        "hypothesis": "<PERSON> works for the New York Times.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "27": {
+        "premise": "<PERSON> died Thursday night, of congestive heart failure, at <his/her> home in Roxbury, Conn., surrounded by <his/her> family, <his/her> assistant, Julia Bolus, said Friday.",
+        "hypothesis": "<PERSON> died Thursday night, of heart failure, surrounded by family members.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "32": {
+        "premise": "Senator <PERSON>, the ranking Republican member of the Senate Committee on Foreign Relations, spoke in favor of the bill, saying that the United States' embargo on Cuba had \"failed to achieve its stated purpose of bringing democracy to the Cuban people.\" Senator Bob Menendez of New Jersey, a Democrat and a second generation Cuban-American, opposes the bill, arguing that free travel by Europeans, Canadians and the citizens of other Latin American countries has not helped to democratize the island nation. \"The regime has not opened up,\" said Sen. Menendez. \"On the contrary, it has used resources to become more oppressive.\"",
+        "hypothesis": "<PERSON> is a member of the Cuban-American community.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    },
+    "33": {
+        "premise": "<PERSON>, who heads the Cuban affairs office at the Department of State, spoke with Lazo on two occasions about the effort to give his sons visas.",
+        "hypothesis": "<PERSON> is a manager of the Department of State.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "34": {
+        "premise": "In support of the Earth Island Institute rebuttal, Greenpeace founder <PERSON> made the following - unfortunately prophetic - public statement.",
+        "hypothesis": "<PERSON> is the founder of Greenpeace.",
+        "answer": "entailment",
+        "source_dataset": "RTE"
+    },
+    "36": {
+        "premise": "<PERSON>, a 22-year-old model from Atlanta, was shot in the shoulder on a subway car in New York City.",
+        "hypothesis": "<PERSON>, 23, was shot in shoulder while riding a subway car in New York City",
+        "answer": "not_entailment",
+        "source_dataset": "RTE"
+    }
+}
