@@ -1,0 +1,122 @@
+{
+    "1": {
+        "premise": "<PERSON>, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "<PERSON> is from Florida.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "2": {
+        "premise": "<PERSON>, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "<PERSON> is a singer.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "15": {
+        "premise": "<PERSON> wearing blue pants, a white helmet, and a green-striped shirt is shown on skis in midair, against a blue sky with a single puffy cloud.",
+        "hypothesis": "The sky is blue with a single puffy cloud.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "16": {
+        "premise": "<PERSON> rides a black motorcycle while wearing a helmet and a van rides beside <him/her> in the distance.",
+        "hypothesis": "A motorcycle and a van ride next to each other.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "17": {
+        "premise": "<PERSON> rides a black motorcycle while wearing a helmet and a van rides beside <him/her> in the distance.",
+        "hypothesis": "<PERSON> rides a black motorcycle while wearing a helmet and a pizza delivery van rides beside <him/her> in the distance.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "18": {
+        "premise": "<PERSON> waterskiing in a river with a large wall in the background.",
+        "hypothesis": "A dog waterskiing in a river with a large wall in the background.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "20": {
+        "premise": "<PERSON> waterskiing in a river with a large wall in the background.",
+        "hypothesis": "<PERSON> waterskiing in a river with a wall in the background.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "21": {
+        "premise": "<PERSON> with a red cap is looking through a telescope",
+        "hypothesis": "<PERSON> is making a campfire.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "26": {
+        "premise": "<PERSON> dressed as an angel balances a woman dressed as an angel on <his/her> thighs while she hands out papers to people passing on the sidewalk.",
+        "hypothesis": "A couple dressed in angel costumes are handing out leaflets on the sidewalk.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "27": {
+        "premise": "<PERSON> is posing in a meadow next to an old truck.",
+        "hypothesis": "<PERSON> is posing in the forest near a motorcycle.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "29": {
+        "premise": "<PERSON> and a kid are walking in the forest in a sunny day.",
+        "hypothesis": "<PERSON> and a kid are walking on a sunny day.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "30": {
+        "premise": "<PERSON> in a red shirt looks at a map while with a view of a river and several boats in the background.",
+        "hypothesis": "<PERSON> looks at a map outdoors, a river and boats are behind <him/her>.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "37": {
+        "premise": "<PERSON> drink coffee and read books just outside some buildings on a sunny day; an older bearded man in a dark blue shirt glances at a younger man in a striped shirt, who has a red toy crab on the table next to him.",
+        "hypothesis": "Hipsters hang out outside of a cafe on a sunny day.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "38": {
+        "premise": "Politician <PERSON> on a talk show.",
+        "hypothesis": "<PERSON> is talking about politics.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "39": {
+        "premise": "Politician <PERSON> on a talk show.",
+        "hypothesis": "<PERSON> is hosting a talk show.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI"
+    },
+    "41": {
+        "premise": "<PERSON> wearing a black shirt and white shorts looks at the sky with a bridge and water in the background.",
+        "hypothesis": "<PERSON> looks at birds in the sky outside of of a bridge.",
+        "answer": "neutral",
+        "source_dataset": "SNLI"
+    },
+    "42": {
+        "premise": "<PERSON> wearing a black shirt and white shorts looks at the sky with a bridge and water in the background.",
+        "hypothesis": "<PERSON> looks at the sky outside.",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "43": {
+        "premise": "<PERSON> dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "<PERSON> dressed for summer in a tight green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "44": {
+        "premise": "<PERSON> dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "<PERSON> dressed for summer in a green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    },
+    "45": {
+        "premise": "<PERSON> dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "<PERSON> dressed for summer in a green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI"
+    }
+}
