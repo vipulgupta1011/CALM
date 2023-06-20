@@ -1,0 +1,68 @@
+{
+    "3": {
+        "premise": "<PERSON> is wearing a rose patterned shirt and is clumsily carrying two newspapers",
+        "hypothesis": "<PERSON> is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "4": {
+        "premise": "<PERSON> is pouring olive oil into a pot on the stove",
+        "hypothesis": "<PERSON> is pouring olive oil into the stove from a pot",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "5": {
+        "premise": "<PERSON> is running in and out of the ocean waves",
+        "hypothesis": "<PERSON> is staring at the ocean waves",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "12": {
+        "premise": "<PERSON> is standing on a rocky mountain and gray clouds are in the background",
+        "hypothesis": "<PERSON> is not standing on a rocky mountain and gray clouds are not in the background",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "13": {
+        "premise": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "There is no person in a purple suit standing by a purple case and playing a guitar",
+        "answer": "contradiction",
+        "source_dataset": "sick"
+    },
+    "15": {
+        "premise": "<PERSON> is playing the guitar and has the guitar case open for donations",
+        "hypothesis": "<PERSON> is opening the guitar for donations and plays with the case",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "16": {
+        "premise": "The guitar is being played by <PERSON>, who has the guitar case open for donations",
+        "hypothesis": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "17": {
+        "premise": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "<PERSON> is opening the guitar for donations and plays with the case",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "29": {
+        "premise": "<PERSON> is stopping the bicycle in the sand beside the ocean",
+        "hypothesis": "<PERSON> is riding a bicycle in the sand beside the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick"
+    },
+    "35": {
+        "premise": "<PERSON> wearing grey pants is airborne on a snowboard",
+        "hypothesis": "<PERSON> is wearing grey pants on a snowboard",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    },
+    "55": {
+        "premise": "<PERSON> with a red hooded jacket and a black backpack is walking near a rocky wall",
+        "hypothesis": "<PERSON> with a red hooded jacket and a black backpack is moving near a rocky wall",
+        "answer": "entailement",
+        "source_dataset": "sick"
+    }
+}
