@@ -1,0 +1,116 @@
+{
+    "1": {
+        "premise": "Jane knocked on <PERSON>'s door but <he/she> did not answer.",
+        "hypothesis": "<PERSON> did not answer.",
+        "answer": "entailment",
+        "source_dataset": "wnli"
+    },
+    "3": {
+        "premise": "Susan knew that <PERSON>'s son had been in a car accident, so she told <him/her> about it.",
+        "hypothesis": "Ann told <him/her> about it.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "4": {
+        "premise": "When Tommy dropped his ice cream, <PERSON> giggled, so father gave <him/her> a stern look.",
+        "hypothesis": "Father gave <PERSON> a stern look.",
+        "answer": "entailment",
+        "source_dataset": "wnli"
+    },
+    "5": {
+        "premise": "Bob collapsed on the sidewalk. Soon he saw <PERSON> coming to help. He was very ill.",
+        "hypothesis": "<PERSON> was very ill.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "6": {
+        "premise": "<PERSON> knew that Grandma always enjoyed serving an abundance of food to her guests. Now <PERSON> watched as Grandma gathered <PERSON>'s small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: \"There's plenty.\"",
+        "hypothesis": "Grandma gathered <PERSON>'s small mother into a wide, scrawny embrace and then propelled <PERSON> to the table.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "7": {
+        "premise": "Ann asked <PERSON> what time the library closes, because she had forgotten.",
+        "hypothesis": "<PERSON> had forgotten.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "8": {
+        "premise": "George got free tickets to the play, but he gave them to <PERSON>, even though he was particularly eager to see it.",
+        "hypothesis": "<PERSON> was particularly eager to see it.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "9": {
+        "premise": "<PERSON> gave Joan candy because she was hungry.",
+        "hypothesis": "<PERSON> was hungry.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "11": {
+        "premise": "Although they ran at about the same speed, Sue beat <PERSON> because she had such a good start.",
+        "hypothesis": "<PERSON> had such a good start.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "13": {
+        "premise": "Always before, <PERSON> had helped Dad with <his/her> work. But <he/she> could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.",
+        "hypothesis": "<PERSON> could not help him now.",
+        "answer": "entailment",
+        "source_dataset": "wnli"
+    },
+    "14": {
+        "premise": "George got free tickets to the play, but he gave them to <PERSON>, because <he/she> was particularly eager to see it.",
+        "hypothesis": "<PERSON> was particularly eager to see it.",
+        "answer": "entailment",
+        "source_dataset": "wnli"
+    },
+    "15": {
+        "premise": "<PERSON> worked hard to harvest <his/her> beans so <he/she> and <his/her> family would have enough to eat that winter, <his/her> friend Henry let <him/her> stack them in his barn where they would dry. Later, <he/she> and Tatyana would shell them and cook them for their Sunday dinners.",
+        "hypothesis": "Later, <he/she> and Tatyana would shell them and cook them for the beans' Sunday dinners.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "16": {
+        "premise": "Beth didn't get angry with <PERSON>, who had cut her off, because <he/she> stopped and apologized.",
+        "hypothesis": "<PERSON> stopped and apologized.",
+        "answer": "entailment",
+        "source_dataset": "wnli"
+    },
+    "17": {
+        "premise": "Always before, <PERSON> had helped Dad with his work. But <he/she> could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.",
+        "hypothesis": "He could not help <PERSON> now.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "18": {
+        "premise": "<PERSON> did not pass the ball to Janie although she was open.",
+        "hypothesis": "She saw that <PERSON> was open.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "19": {
+        "premise": "<PERSON> was doing research in the library when <he/she> heard a man humming and whistling. He was very annoying.",
+        "hypothesis": "<PERSON> was very annoying.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "20": {
+        "premise": "<PERSON> took French classes from Adam, because he was known to speak it fluently.",
+        "hypothesis": "<PERSON> was known to speak it fluently.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "21": {
+        "premise": "<PERSON> looked for <his/her> friend Jade in the crowd. Since she always wears a red turban, <PERSON> spotted her quickly.",
+        "hypothesis": "Since <PERSON> always wears a red turban, <PERSON> spotted her quickly.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    },
+    "22": {
+        "premise": "George got free tickets to the play, but he gave them to <PERSON>, because he was not particularly eager to see it.",
+        "hypothesis": "<PERSON> was not particularly eager to see it.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli"
+    }
+}
