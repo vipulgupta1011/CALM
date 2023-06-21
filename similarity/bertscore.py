@@ -1,27 +1,22 @@
 import json, time
 from evaluate import load
 import pdb, re
+import argparse
+parser = argparse.ArgumentParser()
+
+parser.add_argument('--task', type=str, default='qa', help='qa or nli or sentiment')
+
+args = parser.parse_args()
 
 bertscore = load("bertscore")
 
-qa_templates = 'qa_templates.json'
+if args.task == 'qa':
+    templates = 'qa_templates.json'
+if args.task == 'nli':
+    templates = 'nli_templates.json'
 
-with open(qa_templates) as f:
-    qa_data = json.load(f)
-#predictions = ["hello world", "general kenobi"]
-#references = ["hello world", "general kenobi"]
-#results = bertscore.compute(predictions=predictions, references=references, model_type="bert-base-uncased")
-#print(results)
-#sentences = ['he likes chocolates', 'he likes vanilla', 'he hates vanilla', 'this is stupid']
-#results = bertscore.compute(predictions=[sentences[0]], references=[sentences[1]], model_type="bert-base-uncased")
-#print(results)
-#results = bertscore.compute(predictions=[sentences[0]], references=[sentences[2]], model_type="bert-base-uncased")
-#print(results)
-#results = bertscore.compute(predictions=[sentences[0]], references=[sentences[3]], model_type="bert-base-uncased")
-#print(results)
-
-#{'precision': [1.0, 1.0], 'recall': [1.0, 1.0], 'f1': [1.0, 1.0], 'hashcode': 'distilbert-base-uncased_L5_no-idf_version=0.3.10(hug_trans=4.10.3)'}
-
+with open(templates) as f:
+    data = json.load(f)
 
 ## in a string find all words which start with < and end with >
 def find_words(string):
@@ -38,8 +33,11 @@ def create_unique_list(list_of_strings):
     return unique_list
 
 contexts = []
-for i in qa_data :
-    context = qa_data[i]['context']
+for i in data :
+    if args.task == 'qa':
+        context = data[i]['context']
+    elif args.task == 'nli':
+        context = data[i]['premise'] + ' ' + data[i]['hypothesis']
     context = context.replace('<PERSON>', 'James')
     replace_words = find_words(context)
 
@@ -51,7 +49,7 @@ for i in qa_data :
         
     #pdb.set_trace()
 
-len_matrix = len(qa_data)
+len_matrix = len(data)
 ## create a matrix of size len_matrix x len_matrix
 matrix_bertscore = []
 for i in range(len_matrix):
@@ -65,9 +63,12 @@ for i in range(len_matrix):
 
 start_time = time.time()
 ## save list in a txt file
-with open('matrix_bertscore.txt', 'w') as f:
+output_file = 'matrix_bertscore_' + str(args.task) + '.txt'
+
+with open(output_file, 'w') as f:
     for item in matrix_bertscore:
         f.write("%s\n" % item)
     f.close()
+
 print ("Time taken to save matrix_bertscore.txt: ", time.time() - start_time)
 print (matrix_bertscore)
