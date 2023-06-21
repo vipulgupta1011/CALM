@@ -49,6 +49,7 @@ for i in data :
         
     #pdb.set_trace()
 
+start_time = time.time()
 len_matrix = len(data)
 ## create a matrix of size len_matrix x len_matrix
 matrix_bertscore = []
@@ -61,7 +62,6 @@ for i in range(len_matrix):
         results = bertscore.compute(predictions=[contexts[i]], references=[contexts[j]], model_type="bert-base-uncased")
         matrix_bertscore[i][j] = results['f1'][0]
 
-start_time = time.time()
 ## save list in a txt file
 output_file = 'matrix_bertscore_' + str(args.task) + '.txt'
 
@@ -71,4 +71,4 @@ with open(output_file, 'w') as f:
     f.close()
 
 print ("Time taken to save matrix_bertscore.txt: ", time.time() - start_time)
-print (matrix_bertscore)
+#print (matrix_bertscore)
