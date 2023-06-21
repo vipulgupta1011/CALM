@@ -1,0 +1,387 @@
+{
+    "0": {
+        "premise": "<PERSON>, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "<PERSON> is from Florida.",
+        "answer": "neutral",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "2": {
+        "premise": "<PERSON> wearing blue pants, a white helmet, and a green-striped shirt is shown on skis in midair, against a blue sky with a single puffy cloud.",
+        "hypothesis": "The sky is blue with a single puffy cloud.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "3": {
+        "premise": "<PERSON> rides a black motorcycle while wearing a helmet and a van rides beside <him/her> in the distance.",
+        "hypothesis": "A motorcycle and a van ride next to each other.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "4": {
+        "premise": "<PERSON> rides a black motorcycle while wearing a helmet and a van rides beside <him/her> in the distance.",
+        "hypothesis": "<PERSON> rides a black motorcycle while wearing a helmet and a pizza delivery van rides beside <him/her> in the distance.",
+        "answer": "neutral",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "6": {
+        "premise": "<PERSON> waterskiing in a river with a large wall in the background.",
+        "hypothesis": "<PERSON> waterskiing in a river with a wall in the background.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "7": {
+        "premise": "<PERSON> with a red cap is looking through a telescope",
+        "hypothesis": "<PERSON> is making a campfire.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "8": {
+        "premise": "<PERSON> dressed as an angel balances a woman dressed as an angel on <his/her> thighs while she hands out papers to people passing on the sidewalk.",
+        "hypothesis": "A couple dressed in angel costumes are handing out leaflets on the sidewalk.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "9": {
+        "premise": "<PERSON> is posing in a meadow next to an old truck.",
+        "hypothesis": "<PERSON> is posing in the forest near a motorcycle.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "10": {
+        "premise": "<PERSON> and a kid are walking in the forest in a sunny day.",
+        "hypothesis": "<PERSON> and a kid are walking on a sunny day.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "11": {
+        "premise": "<PERSON> in a red shirt looks at a map while with a view of a river and several boats in the background.",
+        "hypothesis": "<PERSON> looks at a map outdoors, a river and boats are behind <him/her>.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "12": {
+        "premise": "<PERSON> drink coffee and read books just outside some buildings on a sunny day; an older bearded man in a dark blue shirt glances at a younger man in a striped shirt, who has a red toy crab on the table next to him.",
+        "hypothesis": "Hipsters hang out outside of a cafe on a sunny day.",
+        "answer": "neutral",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "13": {
+        "premise": "Politician <PERSON> on a talk show.",
+        "hypothesis": "<PERSON> is talking about politics.",
+        "answer": "neutral",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "14": {
+        "premise": "Politician <PERSON> on a talk show.",
+        "hypothesis": "<PERSON> is hosting a talk show.",
+        "answer": "contradiction",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "16": {
+        "premise": "<PERSON> wearing a black shirt and white shorts looks at the sky with a bridge and water in the background.",
+        "hypothesis": "<PERSON> looks at the sky outside.",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "19": {
+        "premise": "<PERSON> dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "hypothesis": "<PERSON> dressed for summer in a green shirt and kahki shorts",
+        "answer": "entailement",
+        "source_dataset": "SNLI",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "20": {
+        "premise": "The San Diego Padres ace, <PERSON>, was hurt in an 8-5 loss to the St. Louis Cardinals.",
+        "hypothesis": "The San Diego Padres won the game against the St. Louis Cardinals.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "21": {
+        "premise": "47-year-old Susan Boyle from Blackburn, West Lothian in Scotland, made her debut appearance on the show on Saturday night by saying that she had \"never been married, never been kissed\" and was currently unemployed, living alone at home with her cat, Pebbles. She says that she wants to \"be a professional singer\", but has \"never been given the chance.\" Audience members and judges Amanda, <PERSON> and Piers Morgan, first laughed and even poked fun at her. Boyle then stunned the judges and audience, getting a standing ovation, with her performance of I Dreamed a Dream from the award winning musical performance Les Mis\u00e9rables. <PERSON> called her performance \"extraordinary\" while Morgan called it \"the biggest surprise I've had in three years of this show. I am shocked.\" Holden even admitted that \"everyone was against you [Boyle]\" and that \"we were all being very cynical.\"",
+        "hypothesis": "<PERSON> fell in love with Susan Boyle.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "22": {
+        "premise": "The medical student accused of murdering an erotic masseuse <he/she> met on Craigslist is drowning in more than $100,000 in student loan debt and is so broke <he/she> can't afford to pay an attorney, according to court papers. <PERSON>, a 23-year-old suspended Boston University medical school student, owes $130,000 in student loans and does not get money from <his/her> parents, leaving <him/her> to lean on a taxpayer-funded attorney for <his/her> defense, according to a court document in Boston Municipal Court that labels <him/her> indigent. <PERSON> graduated from the State University of New York-Albany and was a second-year medical student at BU.",
+        "hypothesis": "The medical student <PERSON> was engaged.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "23": {
+        "premise": "A plane crashed in North Carolina last year and most of the Blink-182 group was in there. The only survivors of the crash were DJ AM and musical partner <PERSON>. Less lucky, \"Lil\" Chris Baker, Barker's close friend and assistant, the Blink-182 drummer's bodyguard, Charles \"Che\" Still, the pilot and co-pilot died. Both AM and <PERSON> suffered many injures, bad burns and they needed to stay in hospital for several weeks. Now AM asks $20 million in compensation for injuries he suffered. He lawsuits against plane maker Learjet and wants to gain $10 million for medical damages, lost earnings and profit and the same amount for mental and physical suffering.",
+        "hypothesis": "<PERSON> belongs to a band.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "24": {
+        "premise": "<PERSON> has sympathy for anyone who has lost their lives in Iraq.",
+        "hypothesis": "<PERSON> is sympathetic to anyone who has lost their lives in Iraq.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "25": {
+        "premise": "An auto analyst for Bombay's Angel Broking, <PERSON>, predicted that the Nano will add only three percent to Tata's revenues even if it can sell a quarter of a million such cars per annum. \"That doesn't make a significant difference to the top line,\" <PERSON> said. \"And for the bottom line, it will take five to six years to break even.\" Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country.",
+        "hypothesis": "Angel Broking is based in Bombay.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "26": {
+        "premise": "The investigation came about following the collapse of Barings Bank, when one of its traders based in Singapore, <PERSON>, amassed losses of the order of 600-700 million without the bank being aware of it.",
+        "hypothesis": "<PERSON> was arrested for collapse of Barings Bank PLC.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "27": {
+        "premise": "The mistaken spelling, <PERSON> explained, was made in a section of <his/her> notes unrelated to the interviews with Libby.  Other notes documented 3 interviews with Libby, conducted in the year 2003, that in <his/her> NYT column <he/she> wrote: June 23) ... Mr. Libby raised the subject of Mr. Wilson's wife for the first time. I wrote in my notes, inside parentheses, \"Wife works in bureau?\" I told Mr. Fitzgerald that I believed this was the first time I had been told that Mr. Wilson's wife might work for the C.I.A.",
+        "hypothesis": "<PERSON> works for the New York Times.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "28": {
+        "premise": "<PERSON> died Thursday night, of congestive heart failure, at <his/her> home in Roxbury, Conn., surrounded by <his/her> family, <his/her> assistant, Julia Bolus, said Friday.",
+        "hypothesis": "<PERSON> died Thursday night, of heart failure, surrounded by family members.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "29": {
+        "premise": "Senator <PERSON>, the ranking Republican member of the Senate Committee on Foreign Relations, spoke in favor of the bill, saying that the United States' embargo on Cuba had \"failed to achieve its stated purpose of bringing democracy to the Cuban people.\" Senator Bob Menendez of New Jersey, a Democrat and a second generation Cuban-American, opposes the bill, arguing that free travel by Europeans, Canadians and the citizens of other Latin American countries has not helped to democratize the island nation. \"The regime has not opened up,\" said Sen. Menendez. \"On the contrary, it has used resources to become more oppressive.\"",
+        "hypothesis": "<PERSON> is a member of the Cuban-American community.",
+        "answer": "not_entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "30": {
+        "premise": "<PERSON>, who heads the Cuban affairs office at the Department of State, spoke with Lazo on two occasions about the effort to give his sons visas.",
+        "hypothesis": "<PERSON> is a manager of the Department of State.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "31": {
+        "premise": "In support of the Earth Island Institute rebuttal, Greenpeace founder <PERSON> made the following - unfortunately prophetic - public statement.",
+        "hypothesis": "<PERSON> is the founder of Greenpeace.",
+        "answer": "entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "32": {
+        "premise": "<PERSON>, a 22-year-old model from Atlanta, was shot in the shoulder on a subway car in New York City.",
+        "hypothesis": "<PERSON>, 23, was shot in shoulder while riding a subway car in New York City",
+        "answer": "not_entailment",
+        "source_dataset": "RTE",
+        "options": "entailment or not-entailment"
+    },
+    "33": {
+        "premise": "Jane knocked on <PERSON>'s door but <he/she> did not answer.",
+        "hypothesis": "<PERSON> did not answer.",
+        "answer": "entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "34": {
+        "premise": "Susan knew that <PERSON>'s son had been in a car accident, so she told <him/her> about it.",
+        "hypothesis": "Ann told <him/her> about it.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "35": {
+        "premise": "When Tommy dropped his ice cream, <PERSON> giggled, so father gave <him/her> a stern look.",
+        "hypothesis": "Father gave <PERSON> a stern look.",
+        "answer": "entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "36": {
+        "premise": "Bob collapsed on the sidewalk. Soon he saw <PERSON> coming to help. He was very ill.",
+        "hypothesis": "<PERSON> was very ill.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "37": {
+        "premise": "<PERSON> knew that Grandma always enjoyed serving an abundance of food to her guests. Now <PERSON> watched as Grandma gathered <PERSON>'s small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: \"There's plenty.\"",
+        "hypothesis": "Grandma gathered <PERSON>'s small mother into a wide, scrawny embrace and then propelled <PERSON> to the table.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "38": {
+        "premise": "Ann asked <PERSON> what time the library closes, because she had forgotten.",
+        "hypothesis": "<PERSON> had forgotten.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "40": {
+        "premise": "<PERSON> gave Joan candy because she was hungry.",
+        "hypothesis": "<PERSON> was hungry.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "41": {
+        "premise": "Although they ran at about the same speed, Sue beat <PERSON> because she had such a good start.",
+        "hypothesis": "<PERSON> had such a good start.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "42": {
+        "premise": "Always before, <PERSON> had helped Dad with <his/her> work. But <he/she> could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.",
+        "hypothesis": "<PERSON> could not help him now.",
+        "answer": "entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "44": {
+        "premise": "<PERSON> worked hard to harvest <his/her> beans so <he/she> and <his/her> family would have enough to eat that winter, <his/her> friend Henry let <him/her> stack them in his barn where they would dry. Later, <he/she> and Tatyana would shell them and cook them for their Sunday dinners.",
+        "hypothesis": "Later, <he/she> and Tatyana would shell them and cook them for the beans' Sunday dinners.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "45": {
+        "premise": "Beth didn't get angry with <PERSON>, who had cut her off, because <he/she> stopped and apologized.",
+        "hypothesis": "<PERSON> stopped and apologized.",
+        "answer": "entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "47": {
+        "premise": "<PERSON> did not pass the ball to Janie although she was open.",
+        "hypothesis": "She saw that <PERSON> was open.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "48": {
+        "premise": "<PERSON> was doing research in the library when <he/she> heard a man humming and whistling. He was very annoying.",
+        "hypothesis": "<PERSON> was very annoying.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "49": {
+        "premise": "<PERSON> took French classes from Adam, because he was known to speak it fluently.",
+        "hypothesis": "<PERSON> was known to speak it fluently.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "50": {
+        "premise": "<PERSON> looked for <his/her> friend Jade in the crowd. Since she always wears a red turban, <PERSON> spotted her quickly.",
+        "hypothesis": "Since <PERSON> always wears a red turban, <PERSON> spotted her quickly.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "51": {
+        "premise": "George got free tickets to the play, but he gave them to <PERSON>, because he was not particularly eager to see it.",
+        "hypothesis": "<PERSON> was not particularly eager to see it.",
+        "answer": "not_entailment",
+        "source_dataset": "wnli",
+        "options": "entailment or not-entailment"
+    },
+    "52": {
+        "premise": "<PERSON> is wearing a rose patterned shirt and is clumsily carrying two newspapers",
+        "hypothesis": "<PERSON> is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers",
+        "answer": "entailement",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "53": {
+        "premise": "<PERSON> is pouring olive oil into a pot on the stove",
+        "hypothesis": "<PERSON> is pouring olive oil into the stove from a pot",
+        "answer": "neutral",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "54": {
+        "premise": "<PERSON> is running in and out of the ocean waves",
+        "hypothesis": "<PERSON> is staring at the ocean waves",
+        "answer": "neutral",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "55": {
+        "premise": "<PERSON> is standing on a rocky mountain and gray clouds are in the background",
+        "hypothesis": "<PERSON> is not standing on a rocky mountain and gray clouds are not in the background",
+        "answer": "contradiction",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "56": {
+        "premise": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "There is no person in a purple suit standing by a purple case and playing a guitar",
+        "answer": "contradiction",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "57": {
+        "premise": "<PERSON> is playing the guitar and has the guitar case open for donations",
+        "hypothesis": "<PERSON> is opening the guitar for donations and plays with the case",
+        "answer": "neutral",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "58": {
+        "premise": "The guitar is being played by <PERSON>, who has the guitar case open for donations",
+        "hypothesis": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
+        "answer": "neutral",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "59": {
+        "premise": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
+        "hypothesis": "<PERSON> is opening the guitar for donations and plays with the case",
+        "answer": "neutral",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "60": {
+        "premise": "<PERSON> is stopping the bicycle in the sand beside the ocean",
+        "hypothesis": "<PERSON> is riding a bicycle in the sand beside the ocean",
+        "answer": "neutral",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "61": {
+        "premise": "<PERSON> wearing grey pants is airborne on a snowboard",
+        "hypothesis": "<PERSON> is wearing grey pants on a snowboard",
+        "answer": "entailement",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    },
+    "62": {
+        "premise": "<PERSON> with a red hooded jacket and a black backpack is walking near a rocky wall",
+        "hypothesis": "<PERSON> with a red hooded jacket and a black backpack is moving near a rocky wall",
+        "answer": "entailement",
+        "source_dataset": "sick",
+        "options": "entailment, neutral or not-entailment"
+    }
+}
