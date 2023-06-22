@@ -138,7 +138,7 @@
         "source_dataset": "TweetQA"
     },
     "25": {
-        "context": "Watching <PERSON> living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip!\u2014 Hiddles Fashion (@HiddlesFashion) March 7, 2017",
+        "context": "Watching <PERSON> living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip! Hiddles Fashion (@HiddlesFashion) March 7, 2017",
         "question": "who is living his best life?",
         "answer": "<PERSON>",
         "source_dataset": "TweetQA"
