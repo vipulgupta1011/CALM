@@ -114,13 +114,13 @@
         "source_dataset": "TweetQA"
     },
     "21": {
-        "context": "\ud83c\udf86 #2018Prediction 6: I\u2019ll take my rants to the airwaves! Because there\u2019s so much BS flying throughout corporate America \u2013 and not just in wireless \u2013 so maybe I\u2019ll write a book or start a podcast! #staytuned\u2014 <PERSON> December 28, 2017",
+        "context": "#2018Prediction 6: I will take my rants to the airwaves! Because there is so much BS flying throughout corporate America and not just in wireless so maybe I will write a book or start a podcast! #staytuned <PERSON> - December 28, 2017",
         "question": "where will this person take his tirades?",
         "answer": "to the airwaves",
         "source_dataset": "TweetQA"
     },
     "22": {
-        "context": "More photos of <PERSON> crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) \u2014 <PERSON> November 4, 2014",
+        "context": "More photos of <PERSON> crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) - <PERSON> November 4, 2014",
         "question": "where did <PERSON> crash a session?",
         "answer": "nashville",
         "source_dataset": "TweetQA"
@@ -150,7 +150,7 @@
         "source_dataset": "TweetQA"
     },
     "27": {
-        "context": "<PERSON> charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb\u2014 RCMP Manitoba (@rcmpmb) August 27, 2015",
+        "context": "<PERSON> charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb RCMP Manitoba (@rcmpmb) August 27, 2015",
         "question": "what was <PERSON> charged with?",
         "answer": "possession of controlled substance",
         "source_dataset": "TweetQA"
@@ -162,7 +162,7 @@
         "source_dataset": "TweetQA"
     },
     "29": {
-        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN.\u2014 <PERSON> July 5, 2017",
+        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN. <PERSON> July 5, 2017",
         "question": "what phrase would <PERSON> like corrected about a story?",
         "answer": "\"leaked nudes\"",
         "source_dataset": "TweetQA"
@@ -186,7 +186,7 @@
         "question": "What was <PERSON>'s occupation?",
         "answer": "politician",
         "source_dataset": "relation_extraction",
-        "sub_word": "Juan Luis Mart\u00ednez Mart\u00ednez"
+        "sub_word": "Juan Luis Martinez Martinez"
     },
     "33": {
         "context": "<PERSON> died in Greenville in 1933 at age 37 of congenital syphilis, which may have been the reason for his blindness.",
