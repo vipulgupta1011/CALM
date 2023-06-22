@@ -1,0 +1,932 @@
+{
+    "0": {
+        "context": "On the same day, Ed Miliband had announced he would stand down as Labour leader, while James said he would resign as leader of the Liberal Democrats.",
+        "question": "What is James leader of?",
+        "answer": "the Liberal Democrats"
+    },
+    "1": {
+        "context": "On the same day, Ed Miliband had announced he would stand down as Labour leader, while Olivia said she would resign as leader of the Liberal Democrats.",
+        "question": "What is Olivia leader of?",
+        "answer": "the Liberal Democrats"
+    },
+    "2": {
+        "context": "Architects such as Mies van der Rohe, Philip Johnson and James worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the Industrial Revolution, including steel-frame construction, which gave birth to high-rise superstructures.",
+        "question": "What is James one of?",
+        "answer": "Architects"
+    },
+    "3": {
+        "context": "Architects such as Mies van der Rohe, Philip Johnson and Olivia worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the Industrial Revolution, including steel-frame construction, which gave birth to high-rise superstructures.",
+        "question": "What is Olivia one of?",
+        "answer": "Architects"
+    },
+    "4": {
+        "context": "According the Team Manager James, Smith took a while to settle in before taking her first shot.",
+        "question": "Who discussed Smith taking her first shot?",
+        "answer": "James"
+    },
+    "5": {
+        "context": "According the Team Manager Olivia, Smith took a while to settle in before taking her first shot.",
+        "question": "Who discussed Smith taking her first shot?",
+        "answer": "Olivia"
+    },
+    "6": {
+        "context": "The cousins were close, although David was more easygoing while James could be very competitive.",
+        "question": "What kind of person was James?",
+        "answer": "competitive"
+    },
+    "7": {
+        "context": "The cousins were close, although David was more easygoing while Olivia could be very competitive.",
+        "question": "What kind of person was Olivia?",
+        "answer": "competitive"
+    },
+    "8": {
+        "context": "Detective Sergeant James of West Midlands Police's Force CID said the seizure was the largest he had ever made in the 24 years he has been in West Midlands Police and one of the biggest seizures the force has made since its formation in 1974.",
+        "question": "What was James's title?",
+        "answer": "Detective Sergeant"
+    },
+    "9": {
+        "context": "Detective Sergeant Olivia of West Midlands Police's Force CID said the seizure was the largest he had ever made in the 24 years he has been in West Midlands Police and one of the biggest seizures the force has made since its formation in 1974.",
+        "question": "What was Olivia's title?",
+        "answer": "Detective Sergeant"
+    },
+    "10": {
+        "context": "According to documents found in the possession of a descendant of the Manfredi family, Nadia Manfredi, in 2007, Puccini was actually having an affair with James, Doria's cousin.",
+        "question": "Who did Puccini have an affair with?",
+        "answer": "James"
+    },
+    "11": {
+        "context": "According to documents found in the possession of a descendant of the Manfredi family, Nadia Manfredi, in 2007, Puccini was actually having an affair with Olivia, Doria's cousin.",
+        "question": "Who did Puccini have an affair with?",
+        "answer": "Olivia"
+    },
+    "12": {
+        "context": "James was on the playground. As he was running towards his friends, he tripped on a classmate's toy truck and fell. He skinned his knee. He got up and saw that the watch that his brother had given him had broken when he fell. James was very sad about his watch breaking, which was the second bad thing to happen to him today. One of his friends saw that he had fallen. Lindsay heard James saying that his watch was broken. He was mad at the boy, Kevin, who had left his truck on the playground for James to fall over. Lindsay tried to tell him that it was not his Kevin's fault that James had fallen. She said, \"Let's take your watch to the teacher. I think Miss Henderson can fix it.\" Miss Henderson fixed James's watch, and told him to be more careful when he was running outside. After his watch was fixed and he felt better, Lindsay clapped. \"I told you it would be okay,\" she said. She and James went out to play with their other friends.",
+        "question": "Where did James get his watch from? Possible Answers :   A: <His/Her> mother.  B: <His/Her> uncle.  C: <His/Her> grandfather.  D: <His/Her> brother.",
+        "answer": "D"
+    },
+    "13": {
+        "context": "Olivia was on the playground. As she was running towards her friends, she tripped on a classmate's toy truck and fell. She skinned her knee. She got up and saw that the watch that her brother had given her had broken when she fell. Olivia was very sad about her watch breaking, which was the second bad thing to happen to her today. One of her friends saw that she had fallen. Lindsay heard Olivia saying that her watch was broken. She was mad at the boy, Kevin, who had left her truck on the playground for Olivia to fall over. Lindsay tried to tell her that it was not his Kevin's fault that Olivia had fallen. She said, \"Let's take your watch to the teacher. I think Miss Henderson can fix it.\" Miss Henderson fixed Olivia's watch, and told her to be more careful when she was running outside. After her watch was fixed and she felt better, Lindsay clapped. \"I told you it would be okay,\" she said. She and Olivia went out to play with their other friends.",
+        "question": "Where did Olivia get her watch from? Possible Answers :   A: <His/Her> mother.  B: <His/Her> uncle.  C: <His/Her> grandfather.  D: <His/Her> brother.",
+        "answer": "D"
+    },
+    "14": {
+        "context": "James was a small boy who, like many small boys, loved to play. He would play outside. He would play in his basement. He would play in his room. When he played, he would play with lots of things. Sometimes he played with blocks. Sometimes he played with cards. Sometimes he would even play with his sister's dolls. One day, James became bored. \"Maybe I'll play outside,\" said James. He tried to play outside, but it didn't seem right. \"I know,\" said James, \"maybe I'll play in the basement.\" So he tried to play in his basement, but that didn't seem right either. \"I guess I can play in my room,\" said James. So he went to his room to play, but he still felt bored.  \"Maybe I need to play with something different,\" said James. So he tried to play with his blocks, but he was still bored. \"I'll play with my cards,\" said James, but they weren't fun either. \"I'll play with my sister's dolls,\" said James, but he kept being bored.  James was starting to get sad, and then his sister Angie came in and asked, \"Do you want to play, James?\" \"Yes,\" said James. And they played with blocks, and dolls, and cards. And they had fun. As it turns out, all James needed was somebody to play with.",
+        "question": "Where didn't James play? Possible Answers :   A: Playground  B: Outside  C: Basement  D: <His/Her> room",
+        "answer": "A"
+    },
+    "15": {
+        "context": "Olivia was a small girl who, like many small girls, loved to play. She would play outside. She would play in her basement. She would play in her room. When she played, she would play with lots of things. Sometimes she played with blocks. Sometimes she played with cards. Sometimes she would even play with her sister's dolls. One day, Olivia became bored. \"Maybe I'll play outside,\" said Olivia. She tried to play outside, but it didn't seem right. \"I know,\" said Olivia, \"maybe I'll play in the basement.\" So she tried to play in her basement, but that didn't seem right either. \"I guess I can play in my room,\" said Olivia. So she went to her room to play, but she still felt bored.  \"Maybe I need to play with something different,\" said Olivia. So she tried to play with her blocks, but she was still bored. \"I'll play with my cards,\" said Olivia, but they weren't fun either. \"I'll play with my sister's dolls,\" said Olivia, but she kept being bored.  Olivia was starting to get sad, and then her sister Angie came in and asked, \"Do you want to play, Olivia?\" \"Yes,\" said Olivia. And they played with blocks, and dolls, and cards. And they had fun. As it turns out, all Olivia needed was somebody to play with.",
+        "question": "Where didn't Olivia play? Possible Answers :   A: Playground  B: Outside  C: Basement  D: <His/Her> room",
+        "answer": "A"
+    },
+    "16": {
+        "context": "A small boy named James was at the park one day. He was swinging on the swings and his Tim friend played on the slide. James wanted to play on the slide now. James asked Tim if he could play on the slide. Tim said no. James was very upset and started crying. A girl named Susan saw him crying. Susan told the teacher Ms. Tammy. Ms. Tammy came over and told James that they could both take turns on the slide. James and Tim were OK with this. They both took turns on the slide. They all lived happily ever after.",
+        "question": "Who saw James crying and told Ms. Tammy? Possible Answers :   A: Tim  B: Susan  C: James  D: Ms. Tammy",
+        "answer": "B"
+    },
+    "17": {
+        "context": "A small girl named Olivia was at the park one day. She was swinging on the swings and her Tim friend played on the slide. Olivia wanted to play on the slide now. Olivia asked Tim if she could play on the slide. Tim said no. Olivia was very upset and started crying. A girl named Susan saw her crying. Susan told the teacher Ms. Tammy. Ms. Tammy came over and told Olivia that they could both take turns on the slide. Olivia and Tim were OK with this. They both took turns on the slide. They all lived happily ever after.",
+        "question": "Who saw Olivia crying and told Ms. Tammy? Possible Answers :   A: Tim  B: Susan  C: Olivia  D: Ms. Tammy",
+        "answer": "B"
+    },
+    "18": {
+        "context": "Once, there was a boy named James that was no older then seven or eight years old. James lived with his mother Sam and father Spike in a small house in a dangerous neighborhood in New York city. Before their move from Florida he spent most of his time outside at a park. In fact they moved around a lot. They have also lived in Georgia and California and this was the first time being stuck inside. It got so bad he was looking forward to going to school. This boy was an only child and was not allowed to go outside to play. Instead he spent most of his time locked inside his house alone with no friends to play with. One day he got a great idea. Why don't I ask my mom, for a pet? He thought long and hard. I can get a dog or cat. I don't like birds, fish or hamsters. This way I'll always have a friend to play with when I'm inside. He thinks to run up to his mom and say mommy, mommy! Can I get a new pet? His mom told him that if he wanted a pet that he would have to show her that he could take care of it. She gave him chores and said, \"if you can do these chores for one month I'll get you a dog.\" Every evening before bed he would clear the table, clean the bathrooms and nicely stack all of the dishes. His mother was in awe in the fact the she never had to tell him to complete his chore. At the end of the month his mother kept her promise and got him a new puppy. The boy was in love at first sight but the boy wasn't sure if the puppy looked like a Bob or a Rick. Finally he yelled, \"I'm going to call him Rick!\"",
+        "question": "What state does the boy live in? Possible Answers :   A: New York  B: California  C: Georgia  D: Florida",
+        "answer": "A"
+    },
+    "19": {
+        "context": "Once, there was a girl named Olivia that was no older then seven or eight years old. Olivia lived with her mother Sam and father Spike in a small house in a dangerous neighborhood in New York city. Before their move from Florida she spent most of her time outside at a park. In fact they moved around a lot. They have also lived in Georgia and California and this was the first time being stuck inside. It got so bad she was looking forward to going to school. This boy was an only child and was not allowed to go outside to play. Instead she spent most of her time locked inside her house alone with no friends to play with. One day she got a great idea. Why don't I ask my mom, for a pet? She thought long and hard. I can get a dog or cat. I don't like birds, fish or hamsters. This way I'll always have a friend to play with when I'm inside. She thinks to run up to her mom and say mommy, mommy! Can I get a new pet? Her mom told her that if she wanted a pet that she would have to show her that she could take care of it. She gave her chores and said, \"if you can do these chores for one month I'll get you a dog.\" Every evening before bed she would clear the table, clean the bathrooms and nicely stack all of the dishes. Her mother was in awe in the fact the she never had to tell her to complete her chore. At the end of the month her mother kept her promise and got her a new puppy. The girl was in love at first sight but the girl wasn't sure if the puppy looked like a Bob or a Rick. Finally she yelled, \"I'm going to call him Rick!\"",
+        "question": "What state does the girl live in? Possible Answers :   A: New York  B: California  C: Georgia  D: Florida",
+        "answer": "A"
+    },
+    "20": {
+        "context": "James was in his bedroom. He was reading a book that his teacher gave him. The book was titled, \"Everything You'd Want to Know About Fish.\" He was reading the book because He was interested in learning more about fish. James thought reading the book was fun. He liked to imagine himself swimming with fish He read about in the book. Also, He liked looking at the pictures. James's mother called him. James closed the book, and went downstairs. He asked his mother, \"Do you need something?\" And his mother said, \"James, it's time for dinner.\"",
+        "question": "Why was James reading a book? Possible Answers :   A: He was reading a book that his teacher gave him.  B: He was interested in learning more about fish.  C: It was time for dinner.  D: The book was about fish.",
+        "answer": "B"
+    },
+    "21": {
+        "context": "Olivia was in her bedroom. She was reading a book that her teacher gave her. The book was titled, \"Everything You'd Want to Know About Fish.\" She was reading the book because She was interested in learning more about fish. Olivia thought reading the book was fun. She liked to imagine herself swimming with fish She read about in the book. Also, She liked looking at the pictures. Olivia's mother called her. Olivia closed the book, and went downstairs. She asked her mother, \"Do you need something?\" And her mother said, \"Olivia, it's time for dinner.\"",
+        "question": "Why was Olivia reading a book? Possible Answers :   A: She was reading a book that her teacher gave her.  B: She was interested in learning more about fish.  C: It was time for dinner.  D: The book was about fish.",
+        "answer": "B"
+    },
+    "22": {
+        "context": "James thought he would like to stop eating meat, but he didn't know if he could do it. Once, when he was younger, he had tried to go without eating meat, but before the first day was over, he stomach had felt a little empty. \"Hmm,\" he had thought. \"Maybe it's not good for me to stop eating meat. Maybe that's why I feel so hungry.\" But, now, he wondered if there was anything he could do so he wouldn't feel so hungry, even if he did stop eating meat. he went to the library, and there, he saw a magazine. Below the title, the cover said, \"Learn to live on vegetables!\" he read in the magazine that it was good to change he meal plan slowly. If he really felt hungry for a little meat, the magazine said, it was okay to have some, and then go back to eating he veggies. he also read that beans could give he body a lot of the same things meat could, but that eating things like rice and noodles would help the beans do a better job of building he body and giving it energy. That way, he would feel better, instead of feeling so hungry! James wasn't sure if it would work this time, but the magazine's tips made he want to give it another try!",
+        "question": "What did James think after reading the magazine? Possible Answers :   A: he wasn't sure it would work, but he wanted to give it another try.  B: he felt really hungry.  C: he wanted to go to the library.  D: he wondered if there was anything he could do to feel better without eating meat.",
+        "answer": "A"
+    },
+    "23": {
+        "context": "Olivia thought she would like to stop eating meat, but she didn't know if she could do it. Once, when she was younger, she had tried to go without eating meat, but before the first day was over, she stomach had felt a little empty. \"Hmm,\" she had thought. \"Maybe it's not good for me to stop eating meat. Maybe that's why I feel so hungry.\" But, now, she wondered if there was anything she could do so she wouldn't feel so hungry, even if she did stop eating meat. she went to the library, and there, she saw a magazine. Below the title, the cover said, \"Learn to live on vegetables!\" she read in the magazine that it was good to change she meal plan slowly. If she really felt hungry for a little meat, the magazine said, it was okay to have some, and then go back to eating she veggies. she also read that beans could give she body a lot of the same things meat could, but that eating things like rice and noodles would help the beans do a better job of building she body and giving it energy. That way, she would feel better, instead of feeling so hungry! Olivia wasn't sure if it would work this time, but the magazine's tips made she want to give it another try!",
+        "question": "What did Olivia think after reading the magazine? Possible Answers :   A: she wasn't sure it would work, but she wanted to give it another try.  B: she felt really hungry.  C: she wanted to go to the library.  D: she wondered if there was anything she could do to feel better without eating meat.",
+        "answer": "A"
+    },
+    "24": {
+        "context": "Once upon a time there was a small boy named James. James was very shy and did not have a lot of friends. One day, when he was sitting outside his house, he saw a small cat hiding around his house. The cat was under his porch. This cat was yellow. Yellow was James's favorite color. James went under the porch and caught the yellow cat. James was very happy when he caught the cat. A new cat meant he had a new friend to play with. James and the cat played every day. James loved his cat and they ran happily around the neighborhood. They played in his friend's front yard, in the street, and even by the garbage can. James loved his cat and the yellow cat loved James. The cat lived with James, along with his orange and black cat. James had lots of cats and he wants to get a blue cat. James's cats were his best friends and he was their favorite person.",
+        "question": "What color is the cat that James found? Possible Answers :   A: Black  B: Blue  C: Yellow  D: Orange",
+        "answer": "C"
+    },
+    "25": {
+        "context": "Once upon a time there was a small girl named Olivia. Olivia was very shy and did not have a lot of friends. One day, when her was sitting outside her house, her saw a small cat hiding around her house. The cat was under her porch. This cat was yellow. Yellow was Olivia's favorite color. Olivia went under the porch and caught the yellow cat. Olivia was very happy when her caught the cat. A new cat meant her had a new friend to play with. Olivia and the cat played every day. Olivia loved her cat and they ran happily around the neighborhood. They played in her friend's front yard, in the street, and even by the garbage can. Olivia loved her cat and the yellow cat loved Olivia. The cat lived with Olivia, along with her orange and black cat. Olivia had lots of cats and her wants to get a blue cat. Olivia's cats were her best friends and her was their favorite person.",
+        "question": "What color is the cat that Olivia found? Possible Answers :   A: Black  B: Blue  C: Yellow  D: Orange",
+        "answer": "C"
+    },
+    "26": {
+        "context": "James Catches a Fish. James loved to eat fish as a young girl. He saw fish as good food. But he asked, \"Where do fish come from?\" \"People have to catch them,\" Daddy said.\" James wanted to know how to catch a fish. \"People have caught fish from a pole, line, and hook for a long time,\" Daddy said.\" \"I am about to show you how to that.\"  \"Let's take a lunch with us,\" Daddy said. James chose some fries with ketchup and a bean sandwich. James also like sweets. He brought some candy bears. James has strange tastes. Daddy drove to a nearby lake. It was early. James was yawning in daddy's car. The people at the lake had special times for young people learning to fish. They talked with James about them. James was excited. Daddy took James to a small spot on the lake. Daddy showed James how to put a worm on the hook as something to get the fish. Daddy said other like things like grasshoppers, corn, or tiny fish could also get the fish. James lifted his pole and dropped his line in the water. The small red and white float was there on the water. It was easy to see that from the blue water and sunny sky. James said, \"Daddy I'm bored.\" Daddy told his that sometimes you need to wait. After a short wait, the float went under! \"James, you have a fish!\" Daddy yelled. James lifted up his line and took the small fish out of the water. \"Daddy, I can catch fish\", He happily said.",
+        "question": "Which of these did James like for lunch with ketchup? Possible Answers :   A: candy bears  B: bean sandwich  C: fish  D: fries",
+        "answer": "D"
+    },
+    "27": {
+        "context": "Olivia Catches a Fish. Olivia loved to eat fish as a young girl. She saw fish as good food. But she asked, \"Where do fish come from?\" \"People have to catch them,\" Daddy said.\" Olivia wanted to know how to catch a fish. \"People have caught fish from a pole, line, and hook for a long time,\" Daddy said.\" \"I am about to show you how to that.\"  \"Let's take a lunch with us,\" Daddy said. Olivia chose some fries with ketchup and a bean sandwich. Olivia also like sweets. She brought some candy bears. Olivia has strange tastes. Daddy drove to a nearby lake. It was early. Olivia was yawning in daddy's car. The people at the lake had special times for young people learning to fish. They talked with Olivia about them. Olivia was excited. Daddy took Olivia to a small spot on the lake. Daddy showed Olivia how to put a worm on the hook as something to get the fish. Daddy said other like things like grasshoppers, corn, or tiny fish could also get the fish. Olivia lifted her pole and dropped her line in the water. The small red and white float was there on the water. It was easy to see that from the blue water and sunny sky. Olivia said, \"Daddy I'm bored.\" Daddy told her that sometimes you need to wait. After a short wait, the float went under! \"Olivia, you have a fish!\" Daddy yelled. Olivia lifted up her line and took the small fish out of the water. \"Daddy, I can catch fish\", She happily said.",
+        "question": "Which of these did Olivia like for lunch with ketchup? Possible Answers :   A: candy bears  B: bean sandwich  C: fish  D: fries",
+        "answer": "D"
+    },
+    "28": {
+        "context": "James's sister, Julia, was having a birthday party in the afternoon. James's mother was going to bake the cake for the party. Mother asked James to help her bake the cake. They chose to make a chocolate cake with chocolate frosting. James got the bowls and the ingredients they would need for the cake. She helped measure the flour, the sugar and the cocoa. Once his mother added the rest of the ingredients, James was allowed to stir the ingredients in the bowl. He helped to pour the cake mix into two pans and then put them in the oven. The smell of the cake made James hungry. While the cake was baking, James helped his mother make the chocolate frosting. His mother let him lick the spoon when they were done mixing the frosting. Once the cake was done, James and his mother took the cake out of the oven and let it cool, and then they frosted it. They ate the chocolate cake at Julia's party with scoops of vanilla ice cream and fresh strawberries. James gave their dog, Sunny, a little piece of cake too!",
+        "question": "What did James and his mother make? Possible Answers :   A: flour and sugar  B: cake and frosting  C: ice cream and strawberries  D: Julia and Sunny",
+        "answer": "B"
+    },
+    "29": {
+        "context": "Olivia's sister, Julia, was having a birthday party in the afternoon. Olivia's mother was going to bake the cake for the party. Mother asked Olivia to help her bake the cake. They chose to make a chocolate cake with chocolate frosting. Olivia got the bowls and the ingredients they would need for the cake. She helped measure the flour, the sugar and the cocoa. Once her mother added the rest of the ingredients, Olivia was allowed to stir the ingredients in the bowl. She helped to pour the cake mix into two pans and then put them in the oven. The smell of the cake made Olivia hungry. While the cake was baking, Olivia helped her mother make the chocolate frosting. Her mother let her lick the spoon when they were done mixing the frosting. Once the cake was done, Olivia and her mother took the cake out of the oven and let it cool, and then they frosted it. They ate the chocolate cake at Julia's party with scoops of vanilla ice cream and fresh strawberries. Olivia gave their dog, Sunny, a little piece of cake too!",
+        "question": "What did Olivia and her mother make? Possible Answers :   A: flour and sugar  B: cake and frosting  C: ice cream and strawberries  D: Julia and Sunny",
+        "answer": "B"
+    },
+    "30": {
+        "context": "James is 30 years old, and lives in a big house. He is a doctor. James enjoys his job because he helps sick people get better. He works with another doctor, named Zeke, and with four nurses.  James had to study hard to become a doctor. He had to go to a special school for seven years. Learning to be a doctor is difficult. Only very smart and hardworking people can become doctors. James was not sad when he was studying. He enjoyed learning all about why people get sick and how to make them feel better. Now, James is a very good doctor. Sometimes other doctors ask him questions, because he knows more about some things that they do. Jim and Alice are two other doctors who became friends with James. Jim is 40 years old, and Alice is 25 years old. Sometimes they all have dinner together, and at other times they listen to music at James's house. In his free time, James likes to play basketball. James works hard, and sometimes He wants to have fun. But really, his job is fun to him. When he wakes up in the morning, he always is excited thinking about how he can help people as a doctor.",
+        "question": "How many nurses does James work with? Possible Answers :   A: seven  B: two  C: four  D: 30",
+        "answer": "C"
+    },
+    "31": {
+        "context": "Olivia is 30 years old, and lives in a big house. She is a doctor. Olivia enjoys her job because she helps sick people get better. She works with another doctor, named Zeke, and with four nurses.  Olivia had to study hard to become a doctor. She had to go to a special school for seven years. Learning to be a doctor is difficult. Only very smart and hardworking people can become doctors. Olivia was not sad when she was studying. She enjoyed learning all about why people get sick and how to make them feel better. Now, Olivia is a very good doctor. Sometimes other doctors ask her questions, because she knows more about some things that they do. Jim and Alice are two other doctors who became friends with Olivia. Jim is 40 years old, and Alice is 25 years old. Sometimes they all have dinner together, and at other times they listen to music at Olivia's house. In her free time, Olivia likes to play basketball. Olivia works hard, and sometimes She wants to have fun. But really, her job is fun to her. When she wakes up in the morning, she always is excited thinking about how she can help people as a doctor.",
+        "question": "How many nurses does Olivia work with? Possible Answers :   A: seven  B: two  C: four  D: 30",
+        "answer": "C"
+    },
+    "32": {
+        "context": "James liked his old sneakers but they were getting too small. He tried on sixteen different pairs of shoes at the mall with his mom. He was looking for green shoes with blue laces. He couldn't find any he liked and left sad. His mom wanted to cheer him up. They stopped for lunch at a restaurant drive-thru. \"What do you want to order?\" asked James's Mom as she got a cheeseburger and a large drink. He ordered a hamburger. While they ate, James and his mom talked about different shoes James might try on next. He didn't want to go back to the store, but he really wanted green shoes. He ate some of her fries as he thought about it. Suddenly, his mom had a great idea. They would paint a pair of new shoes green! James loved that idea. So they went to the Art Store and bought green paint. They went back to the mall and bought new blue shoelaces and white sneakers. James was so excited about his shoes that he painted them as soon as he got home. Afterwards, he walked around the house in his new shoes dripping green paint.",
+        "question": "What color sneakers did James and his mom buy? Possible Answers :   A: Green  B: Blue  C: White  D: Yellow",
+        "answer": "C"
+    },
+    "33": {
+        "context": "Olivia liked her old sneakers but they were getting too small. She tried on sixteen different pairs of shoes at the mall with her mom. She was looking for green shoes with blue laces. She couldn't find any she liked and left sad. Her mom wanted to cheer him up. They stopped for lunch at a restaurant drive-thru. \"What do you want to order?\" asked Olivia's Mom as she got a cheeseburger and a large drink. She ordered a hamburger. While they ate, Olivia and her mom talked about different shoes Olivia might try on next. She didn't want to go back to the store, but she really wanted green shoes. She ate some of her fries as she thought about it. Suddenly, her mom had a great idea. They would paint a pair of new shoes green! Olivia loved that idea. So they went to the Art Store and bought green paint. They went back to the mall and bought new blue shoelaces and white sneakers. Olivia was so excited about her shoes that she painted them as soon as she got home. Afterwards, she walked around the house in her new shoes dripping green paint.",
+        "question": "What color sneakers did Olivia and her mom buy? Possible Answers :   A: Green  B: Blue  C: White  D: Yellow",
+        "answer": "C"
+    },
+    "34": {
+        "context": "What an honor it was to work for James. We took this photo at Don Graham's farewell party - one year ago today. Christine Brennan (@cbrennansports) October 22, 2014",
+        "question": "what was it like to work for James?",
+        "answer": "an honor"
+    },
+    "35": {
+        "context": "What an honor it was to work for Olivia. We took this photo at Don Graham's farewell party - one year ago today. Christine Brennan (@cbrennansports) October 22, 2014",
+        "question": "what was it like to work for Olivia?",
+        "answer": "an honor"
+    },
+    "36": {
+        "context": "\"James... you didn't save jazz.\" -Emma Stone # Saturday Night Live (@nbcsnl) October 1, 2017",
+        "question": "what form of music does emma comment that James did not save?",
+        "answer": "jazz"
+    },
+    "37": {
+        "context": "\"Olivia... you didn't save jazz.\" -Emma Stone # Saturday Night Live (@nbcsnl) October 1, 2017",
+        "question": "what form of music does emma comment that Olivia did not save?",
+        "answer": "jazz"
+    },
+    "38": {
+        "context": "#2018Prediction 6: I will take my rants to the airwaves! Because there is so much BS flying throughout corporate America and not just in wireless so maybe I will write a book or start a podcast! #staytuned James - December 28, 2017",
+        "question": "where will this person take his tirades?",
+        "answer": "to the airwaves"
+    },
+    "39": {
+        "context": "#2018Prediction 6: I will take my rants to the airwaves! Because there is so much BS flying throughout corporate America and not just in wireless so maybe I will write a book or start a podcast! #staytuned Olivia - December 28, 2017",
+        "question": "where will this person take his tirades?",
+        "answer": "to the airwaves"
+    },
+    "40": {
+        "context": "More photos of James crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) - James November 4, 2014",
+        "question": "where did James crash a session?",
+        "answer": "nashville"
+    },
+    "41": {
+        "context": "More photos of Olivia crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) - Olivia November 4, 2014",
+        "question": "where did Olivia crash a session?",
+        "answer": "nashville"
+    },
+    "42": {
+        "context": "NOPE. I refuse. I will not call muggle No-Maj. Nope nope nope. James November 4, 2015",
+        "question": "what does James think of calling muggle no-maj?",
+        "answer": "she refuses"
+    },
+    "43": {
+        "context": "NOPE. I refuse. I will not call muggle No-Maj. Nope nope nope. Olivia November 4, 2015",
+        "question": "what does Olivia think of calling muggle no-maj?",
+        "answer": "she refuses"
+    },
+    "44": {
+        "context": " young pop  you don't have to wear that dress toni - James January 5, 2017",
+        "question": "to what catholic figure does James refer?",
+        "answer": "pope"
+    },
+    "45": {
+        "context": " young pop  you don't have to wear that dress toni - Olivia January 5, 2017",
+        "question": "to what catholic figure does Olivia refer?",
+        "answer": "pope"
+    },
+    "46": {
+        "context": "Watching James living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip! Hiddles Fashion (@HiddlesFashion) March 7, 2017",
+        "question": "who is living his best life?",
+        "answer": "James"
+    },
+    "47": {
+        "context": "Watching Olivia living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip! Hiddles Fashion (@HiddlesFashion) March 7, 2017",
+        "question": "who is living his best life?",
+        "answer": "Olivia"
+    },
+    "48": {
+        "context": "We illuminated just one tree for the grandchildren It said everything ! Merry Christmas wherever you may be! - James December 25, 2015",
+        "question": "for who did James illuminate this tree?",
+        "answer": "the grandchildren."
+    },
+    "49": {
+        "context": "We illuminated just one tree for the grandchildren It said everything ! Merry Christmas wherever you may be! - Olivia December 25, 2015",
+        "question": "for who did Olivia illuminate this tree?",
+        "answer": "the grandchildren."
+    },
+    "50": {
+        "context": "James charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb RCMP Manitoba (@rcmpmb) August 27, 2015",
+        "question": "what was James charged with?",
+        "answer": "possession of controlled substance"
+    },
+    "51": {
+        "context": "Olivia charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb RCMP Manitoba (@rcmpmb) August 27, 2015",
+        "question": "what was Olivia charged with?",
+        "answer": "possession of controlled substance"
+    },
+    "52": {
+        "context": "Don't believe @ConanOBrien's height lies. James is the tallest host in late night. #alternativefacts\u2014 Full Frontal (@FullFrontalSamB) January 22, 2017",
+        "question": "who is the tallest host?",
+        "answer": "James"
+    },
+    "53": {
+        "context": "Don't believe @ConanOBrien's height lies. Olivia is the tallest host in late night. #alternativefacts\u2014 Full Frontal (@FullFrontalSamB) January 22, 2017",
+        "question": "who is the tallest host?",
+        "answer": "Olivia"
+    },
+    "54": {
+        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN. James July 5, 2017",
+        "question": "what phrase would James like corrected about a story?",
+        "answer": "\"leaked nudes\""
+    },
+    "55": {
+        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN. Olivia July 5, 2017",
+        "question": "what phrase would Olivia like corrected about a story?",
+        "answer": "\"leaked nudes\""
+    },
+    "56": {
+        "context": "James (born 12 September 1966) is an Irish former journalist and writer of women's fiction since 1997.",
+        "question": "What was James's career?",
+        "answer": "journalist"
+    },
+    "57": {
+        "context": "Olivia (born 12 September 1966) is an Irish former journalist and writer of women's fiction since 1997.",
+        "question": "What was Olivia's career?",
+        "answer": "journalist"
+    },
+    "58": {
+        "context": "James (born 24 February 1958 in Graz, Austria) is an Austrian Australian writer and publisher diagnosed with Parkinson's disease at the age of 48 years.",
+        "question": "What medical condition did James have?",
+        "answer": "Parkinson's disease"
+    },
+    "59": {
+        "context": "Olivia (born 24 February 1958 in Graz, Austria) is an Austrian Australian writer and publisher diagnosed with Parkinson's disease at the age of 48 years.",
+        "question": "What medical condition did Olivia have?",
+        "answer": "Parkinson's disease"
+    },
+    "60": {
+        "context": "James (born 26 June 1972) is a Mexican politician affiliated to the National Regeneration Movement (formerly to the Citizens' Movement. He currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Oaxaca.",
+        "question": "What was James's occupation?",
+        "answer": "politician"
+    },
+    "61": {
+        "context": "Olivia (born 26 June 1972) is a Mexican politician affiliated to the National Regeneration Movement (formerly to the Citizens' Movement. She currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Oaxaca.",
+        "question": "What was Olivia's occupation?",
+        "answer": "politician"
+    },
+    "62": {
+        "context": "James died in Greenville in 1933 at age 37 of congenital syphilis, which may have been the reason for his blindness.",
+        "question": "What led to James's death?",
+        "answer": "blindness"
+    },
+    "63": {
+        "context": "Olivia died in Greenville in 1933 at age 37 of congenital syphilis, which may have been the reason for his blindness.",
+        "question": "What led to Olivia's death?",
+        "answer": "blindness"
+    },
+    "64": {
+        "context": "James had suffered a stroke and been dealing with Alzheimer's disease at the time of his death at the age of 85 on October 26, 2008.",
+        "question": "What medical condition was James suffering from?",
+        "answer": "Alzheimer's disease"
+    },
+    "65": {
+        "context": "Olivia had suffered a stroke and been dealing with Alzheimer's disease at the time of her death at the age of 85 on October 26, 2008.",
+        "question": "What medical condition was Olivia suffering from?",
+        "answer": "Alzheimer's disease"
+    },
+    "66": {
+        "context": "James (born 1966 in Montebello, California) is an American expert in human echolocation and President of World Access for the Blind, a non-profit founded in 2000 to facilitate ``the self-directed achievement of people with all forms of blindness'' and increase public awareness about their strengths and capabilities.",
+        "question": "What was James's medical condition near the end of his life?",
+        "answer": "blindness"
+    },
+    "67": {
+        "context": "Olivia (born 1966 in Montebello, California) is an American expert in human echolocation and President of World Access for the Blind, a non-profit founded in 2000 to facilitate ``the self-directed achievement of people with all forms of blindness'' and increase public awareness about their strengths and capabilities.",
+        "question": "What was Olivia's medical condition near the end of his life?",
+        "answer": "blindness"
+    },
+    "68": {
+        "context": "Weakened and in poor health from exhaustion and tuberculosis, James fell ill while traveling from Linglestown, Pennsylvania, northeast of Harrisburg.",
+        "question": "What medical condition did James have?",
+        "answer": "tuberculosis"
+    },
+    "69": {
+        "context": "Weakened and in poor health from exhaustion and tuberculosis, Olivia fell ill while traveling from Linglestown, Pennsylvania, northeast of Harrisburg.",
+        "question": "What medical condition did Olivia have?",
+        "answer": "tuberculosis"
+    },
+    "70": {
+        "context": "James (13 August 1837 -- 3 March 1923) was a German conductor, composer, and music pedagogue.",
+        "question": "What kind of  occupation does James have?",
+        "answer": "composer"
+    },
+    "71": {
+        "context": "Olivia (13 August 1837 -- 3 March 1923) was a German conductor, composer, and music pedagogue.",
+        "question": "What kind of  occupation does Olivia have?",
+        "answer": "composer"
+    },
+    "72": {
+        "context": "James (September 11, 1821 - October 29, 1901) was a Republican politician and the 52nd Governor of Connecticut.",
+        "question": "What kind of  occupation does James have?",
+        "answer": "politician"
+    },
+    "73": {
+        "context": "Olivia (September 11, 1821 - October 29, 1901) was a Republican politician and the 52nd Governor of Connecticut.",
+        "question": "What kind of  occupation does Olivia have?",
+        "answer": "politician"
+    },
+    "74": {
+        "context": "Having suffered for at least a year, James endured a serious attack of tuberculosis in 1805.",
+        "question": "What caused James's death?",
+        "answer": "tuberculosis"
+    },
+    "75": {
+        "context": "Having suffered for at least a year, Olivia endured a serious attack of tuberculosis in 1805.",
+        "question": "What caused Olivia's death?",
+        "answer": "tuberculosis"
+    },
+    "76": {
+        "context": "James (born 2 April 1950) is an Australian Paralympic athlete with paraplegia, who won six medals at six Paralympics.",
+        "question": "What medical condition does James have?",
+        "answer": "paraplegia"
+    },
+    "77": {
+        "context": "Olivia (born 2 April 1950) is an Australian Paralympic athlete with paraplegia, who won six medals at six Paralympics.",
+        "question": "What medical condition does Olivia have?",
+        "answer": "paraplegia"
+    },
+    "78": {
+        "context": "This evening James went to the bathroom. James travelled to the garden this morning. James went to the office this afternoon. Daniel moved to the office this afternoon. Yesterday Sandra moved to the kitchen. Sandra moved to the bathroom this afternoon.",
+        "question": "Where was James before the office?",
+        "answer": "garden"
+    },
+    "79": {
+        "context": "This evening Olivia went to the bathroom. Olivia travelled to the garden this morning. Olivia went to the office this afternoon. Daniel moved to the office this afternoon. Yesterday Sandra moved to the kitchen. Sandra moved to the bathroom this afternoon.",
+        "question": "Where was Olivia before the office?",
+        "answer": "garden"
+    },
+    "80": {
+        "context": "This afternoon Daniel moved to the hallway. Mary went to the bathroom yesterday. This afternoon Mary went to the kitchen. This morning Mary journeyed to the office. Daniel moved to the kitchen yesterday. James travelled to the kitchen this morning. James went to the bedroom this afternoon. Mary moved to the bedroom this evening. Sandra went to the hallway this evening. Sandra travelled to the bedroom yesterday.",
+        "question": "Where was James before the bedroom?",
+        "answer": "kitchen"
+    },
+    "81": {
+        "context": "This afternoon Daniel moved to the hallway. Mary went to the bathroom yesterday. This afternoon Mary went to the kitchen. This morning Mary journeyed to the office. Daniel moved to the kitchen yesterday. Olivia travelled to the kitchen this morning. Olivia went to the bedroom this afternoon. Mary moved to the bedroom this evening. Sandra went to the hallway this evening. Sandra travelled to the bedroom yesterday.",
+        "question": "Where was Olivia before the bedroom?",
+        "answer": "kitchen"
+    },
+    "82": {
+        "context": "Mary and Sandra moved to the bathroom. Following that they went to the bedroom. Mary and Sandra went to the office. After that they travelled to the bathroom. James and Sandra went to the garden. Following that they went to the bathroom.",
+        "question": "Where is James?",
+        "answer": "bathroom"
+    },
+    "83": {
+        "context": "Mary and Sandra moved to the bathroom. Following that they went to the bedroom. Mary and Sandra went to the office. After that they travelled to the bathroom. Olivia and Sandra went to the garden. Following that they went to the bathroom.",
+        "question": "Where is Olivia?",
+        "answer": "bathroom"
+    },
+    "84": {
+        "context": "Sandra and James moved to the bedroom. Then they went to the bathroom. James and Sandra journeyed to the kitchen. Following that they journeyed to the hallway. Sandra and Mary went to the garden. Following that they went to the bathroom. Mary and James went to the garden. Following that they moved to the hallway.",
+        "question": "Where is James?",
+        "answer": "hallway"
+    },
+    "85": {
+        "context": "Sandra and Olivia moved to the bedroom. Then they went to the bathroom. Olivia and Sandra journeyed to the kitchen. Following that they journeyed to the hallway. Sandra and Mary went to the garden. Following that they went to the bathroom. Mary and Olivia went to the garden. Following that they moved to the hallway.",
+        "question": "Where is Olivia?",
+        "answer": "hallway"
+    },
+    "86": {
+        "context": "John and Sandra travelled to the garden. Then they moved to the office. James and John journeyed to the garden. Then they went to the bathroom. John and James travelled to the garden. After that they moved to the office. James and John moved to the hallway. After that they travelled to the bedroom.",
+        "question": "Where is James?",
+        "answer": "bedroom"
+    },
+    "87": {
+        "context": "John and Sandra travelled to the garden. Then they moved to the office. Olivia and John journeyed to the garden. Then they went to the bathroom. John and Olivia travelled to the garden. After that they moved to the office. Olivia and John moved to the hallway. After that they travelled to the bedroom.",
+        "question": "Where is Olivia?",
+        "answer": "bedroom"
+    },
+    "88": {
+        "context": "Sandra and Mary travelled to the bedroom. Then they moved to the hallway. James and Daniel journeyed to the garden. After that they travelled to the kitchen.",
+        "question": "Where is James?",
+        "answer": "kitchen"
+    },
+    "89": {
+        "context": "Sandra and Mary travelled to the bedroom. Then they moved to the hallway. Olivia and Daniel journeyed to the garden. After that they travelled to the kitchen.",
+        "question": "Where is Olivia?",
+        "answer": "kitchen"
+    },
+    "90": {
+        "context": "James and Daniel moved to the bedroom. Following that they moved to the office. Sandra and John travelled to the garden. Then they journeyed to the office. James and Daniel moved to the office. Following that they journeyed to the garden.",
+        "question": "Where is James?",
+        "answer": "garden"
+    },
+    "91": {
+        "context": "Olivia and Daniel moved to the bedroom. Following that they moved to the office. Sandra and John travelled to the garden. Then they journeyed to the office. Olivia and Daniel moved to the office. Following that they journeyed to the garden.",
+        "question": "Where is Olivia?",
+        "answer": "garden"
+    },
+    "92": {
+        "context": "John and Daniel went to the bathroom. Then they journeyed to the office. Daniel and Mary travelled to the hallway. Following that they journeyed to the bedroom. Daniel and James travelled to the kitchen. Following that they travelled to the garden. James and Mary journeyed to the bathroom. After that they travelled to the office.",
+        "question": "Where is James?",
+        "answer": "office"
+    },
+    "93": {
+        "context": "John and Daniel went to the bathroom. Then they journeyed to the office. Daniel and Mary travelled to the hallway. Following that they journeyed to the bedroom. Daniel and Olivia travelled to the kitchen. Following that they travelled to the garden. Olivia and Mary journeyed to the bathroom. After that they travelled to the office.",
+        "question": "Where is Olivia?",
+        "answer": "office"
+    },
+    "94": {
+        "context": "James grabbed the football. John got the apple. Daniel travelled to the office. John went to the hallway. James let go of the football. John dropped the apple.",
+        "question": "What is James holding?",
+        "answer": "nothing"
+    },
+    "95": {
+        "context": "Olivia grabbed the football. John got the apple. Daniel travelled to the office. John went to the hallway. Olivia let go of the football. John dropped the apple.",
+        "question": "What is Olivia holding?",
+        "answer": "nothing"
+    },
+    "96": {
+        "context": "James took the football. John grabbed the milk. John went to the garden. Mary journeyed to the office. John gave James the milk. James gave John the milk.",
+        "question": "What is James holding?",
+        "answer": "football"
+    },
+    "97": {
+        "context": "Olivia took the football. John grabbed the milk. John went to the garden. Mary journeyed to the office. John gave Olivia the milk. Olivia gave John the milk.",
+        "question": "What is Olivia holding?",
+        "answer": "football"
+    },
+    "98": {
+        "context": "James got the milk. Sandra took the football. Sandra journeyed to the bathroom. James dropped the milk. Sandra dropped the football. James got the milk. Sandra grabbed the football. James took the apple. Sandra let go of the football. James dropped the milk.",
+        "question": "What is James holding?",
+        "answer": "apple"
+    },
+    "99": {
+        "context": "Olivia got the milk. Sandra took the football. Sandra journeyed to the bathroom. Olivia dropped the milk. Sandra dropped the football. Olivia got the milk. Sandra grabbed the football. Olivia took the apple. Sandra let go of the football. Olivia dropped the milk.",
+        "question": "What is Olivia holding?",
+        "answer": "apple"
+    },
+    "100": {
+        "context": "James got the milk. Mary journeyed to the garden. James got the apple. James let go of the apple. James journeyed to the bedroom. Mary travelled to the kitchen.",
+        "question": "What is James holding?",
+        "answer": "milk"
+    },
+    "101": {
+        "context": "Olivia got the milk. Mary journeyed to the garden. Olivia got the apple. Olivia let go of the apple. Olivia journeyed to the bedroom. Mary travelled to the kitchen.",
+        "question": "What is Olivia holding?",
+        "answer": "milk"
+    },
+    "102": {
+        "context": "Mary journeyed to the kitchen. Mary is either in the kitchen or in the garden. James is either in the hallway or in the bedroom. Daniel is in the hallway. Mary is in the kitchen. Daniel is in the hallway.",
+        "question": "Is James in the hallway?",
+        "answer": "maybe"
+    },
+    "103": {
+        "context": "Mary journeyed to the kitchen. Mary is either in the kitchen or in the garden. Olivia is either in the hallway or in the bedroom. Daniel is in the hallway. Mary is in the kitchen. Daniel is in the hallway.",
+        "question": "Is Olivia in the hallway?",
+        "answer": "maybe"
+    },
+    "104": {
+        "context": "Mary moved to the kitchen. Mary is either in the garden or in the hallway. Mary is in the kitchen. Mary journeyed to the garden. Mary is either in the bedroom or in the bathroom. Mary is either in the bathroom or in the kitchen. Daniel is either in the bedroom or in the garden. James is either in the bedroom or in the garden.",
+        "question": "Is James in the office?",
+        "answer": "no"
+    },
+    "105": {
+        "context": "Mary moved to the kitchen. Mary is either in the garden or in the hallway. Mary is in the kitchen. Mary journeyed to the garden. Mary is either in the bedroom or in the bathroom. Mary is either in the bathroom or in the kitchen. Daniel is either in the bedroom or in the garden. Olivia is either in the bedroom or in the garden.",
+        "question": "Is Olivia in the office?",
+        "answer": "no"
+    },
+    "106": {
+        "context": "Mary journeyed to the kitchen. James is either in the garden or in the office. Mary went to the bedroom. John journeyed to the hallway. John is either in the bathroom or in the office. James is in the hallway. James is either in the office or in the bathroom. James is either in the office or in the bathroom. Mary travelled to the garden. Sandra went to the hallway.",
+        "question": "Is James in the garden?",
+        "answer": "no"
+    },
+    "107": {
+        "context": "Mary journeyed to the kitchen. Olivia is either in the garden or in the office. Mary went to the bedroom. John journeyed to the hallway. John is either in the bathroom or in the office. Olivia is in the hallway. Olivia is either in the office or in the bathroom. Olivia is either in the office or in the bathroom. Mary travelled to the garden. Sandra went to the hallway.",
+        "question": "Is Olivia in the garden?",
+        "answer": "no"
+    },
+    "108": {
+        "context": "James moved to the hallway. James moved to the office. Sandra moved to the hallway. Sandra travelled to the bathroom.",
+        "question": "Where is James?",
+        "answer": "office"
+    },
+    "109": {
+        "context": "Olivia moved to the hallway. Olivia moved to the office. Sandra moved to the hallway. Sandra travelled to the bathroom.",
+        "question": "Where is Olivia?",
+        "answer": "office"
+    },
+    "110": {
+        "context": "Mary journeyed to the garden. She then journeyed to the bedroom. James moved to the kitchen. After that he moved to the bedroom. Sandra went to the bedroom. She then moved to the kitchen. James journeyed to the bathroom. Following that he moved to the bedroom. James journeyed to the garden. After that he moved to the bedroom.",
+        "question": "Where is James?",
+        "answer": "bedroom"
+    },
+    "111": {
+        "context": "Mary journeyed to the garden. She then journeyed to the bedroom. Olivia moved to the kitchen. After that she moved to the bedroom. Sandra went to the bedroom. She then moved to the kitchen. Olivia journeyed to the bathroom. Following that she moved to the bedroom. Olivia journeyed to the garden. After that she moved to the bedroom.",
+        "question": "Where is Olivia?",
+        "answer": "bedroom"
+    },
+    "112": {
+        "context": "Daniel moved to the kitchen. After that he moved to the hallway. Mary travelled to the kitchen. Then she went to the bedroom. Daniel travelled to the bathroom. Following that he travelled to the bedroom. James journeyed to the hallway. Following that he went to the garden.",
+        "question": "Where is James?",
+        "answer": "garden"
+    },
+    "113": {
+        "context": "Daniel moved to the kitchen. After that he moved to the hallway. Mary travelled to the kitchen. Then she went to the bedroom. Daniel travelled to the bathroom. Following that he travelled to the bedroom. Olivia journeyed to the hallway. Following that she went to the garden.",
+        "question": "Where is Olivia?",
+        "answer": "garden"
+    },
+    "114": {
+        "context": "Sandra moved to the kitchen. Then she went to the office. Mary went to the kitchen. Following that she went to the hallway. Mary went to the bathroom. After that she journeyed to the hallway. James went to the office. After that he went to the bathroom.",
+        "question": "Where is James?",
+        "answer": "bathroom"
+    },
+    "115": {
+        "context": "Sandra moved to the kitchen. Then she went to the office. Mary went to the kitchen. Following that she went to the hallway. Mary went to the bathroom. After that she journeyed to the hallway. Olivia went to the office. After that she went to the bathroom.",
+        "question": "Where is Olivia?",
+        "answer": "bathroom"
+    },
+    "116": {
+        "context": "James went to the garden. Following that he journeyed to the kitchen. Sandra travelled to the bathroom. After that she travelled to the garden. Sandra went to the office. Then she moved to the kitchen. Sandra moved to the bedroom. She then moved to the bathroom.",
+        "question": "Where is James?",
+        "answer": "kitchen"
+    },
+    "117": {
+        "context": "Olivia went to the garden. Following that she journeyed to the kitchen. Sandra travelled to the bathroom. After that she travelled to the garden. Sandra went to the office. Then she moved to the kitchen. Sandra moved to the bedroom. She then moved to the bathroom.",
+        "question": "Where is Olivia?",
+        "answer": "kitchen"
+    },
+    "118": {
+        "context": "Sandra moved to the bathroom. James travelled to the garden. Daniel travelled to the kitchen. James journeyed to the hallway. Sandra went to the garden. Daniel travelled to the bedroom. Daniel journeyed to the bathroom. Sandra went to the bathroom. Sandra travelled to the office. Daniel travelled to the bedroom.",
+        "question": "Is James in the hallway?",
+        "answer": "yes"
+    },
+    "119": {
+        "context": "Sandra moved to the bathroom. Olivia travelled to the garden. Daniel travelled to the kitchen. Olivia journeyed to the hallway. Sandra went to the garden. Daniel travelled to the bedroom. Daniel journeyed to the bathroom. Sandra went to the bathroom. Sandra travelled to the office. Daniel travelled to the bedroom.",
+        "question": "Is Olivia in the hallway?",
+        "answer": "yes"
+    },
+    "120": {
+        "context": "John journeyed to the bedroom. Mary went to the bathroom. Mary journeyed to the bedroom. James journeyed to the bedroom.",
+        "question": "Is James in the bedroom?",
+        "answer": "yes"
+    },
+    "121": {
+        "context": "John journeyed to the bedroom. Mary went to the bathroom. Mary journeyed to the bedroom. Olivia journeyed to the bedroom.",
+        "question": "Is Olivia in the bedroom?",
+        "answer": "yes"
+    },
+    "122": {
+        "context": "Sandra and James journeyed to the kitchen. Sandra and John travelled to the bedroom. Sandra and James moved to the kitchen. Sandra and James journeyed to the garden. Sandra and James journeyed to the hallway. Mary and Sandra travelled to the bathroom.",
+        "question": "Where is James?",
+        "answer": "hallway"
+    },
+    "123": {
+        "context": "Sandra and Olivia journeyed to the kitchen. Sandra and John travelled to the bedroom. Sandra and Olivia moved to the kitchen. Sandra and Olivia journeyed to the garden. Sandra and Olivia journeyed to the hallway. Mary and Sandra travelled to the bathroom.",
+        "question": "Where is Olivia?",
+        "answer": "hallway"
+    },
+    "124": {
+        "context": "Mary travelled to the kitchen. Daniel is not in the bathroom. Daniel is not in the office. Mary went to the hallway. Mary is in the hallway. James is not in the kitchen. John is in the kitchen. Daniel is not in the kitchen.",
+        "question": "Is James in the kitchen?",
+        "answer": "no"
+    },
+    "125": {
+        "context": "Mary travelled to the kitchen. Daniel is not in the bathroom. Daniel is not in the office. Mary went to the hallway. Mary is in the hallway. Olivia is not in the kitchen. John is in the kitchen. Daniel is not in the kitchen.",
+        "question": "Is Olivia in the kitchen?",
+        "answer": "no"
+    },
+    "126": {
+        "context": "Mary went to the garden. James is not in the bathroom. Mary is not in the kitchen. Mary is in the garden. Sandra is in the garden. James is not in the garden. Sandra went to the office. Mary is no longer in the bedroom.",
+        "question": "Is James in the garden?",
+        "answer": "no"
+    },
+    "127": {
+        "context": "Mary went to the garden. Olivia is not in the bathroom. Mary is not in the kitchen. Mary is in the garden. Sandra is in the garden. Olivia is not in the garden. Sandra went to the office. Mary is no longer in the bedroom.",
+        "question": "Is Olivia in the garden?",
+        "answer": "no"
+    },
+    "128": {
+        "context": "Sandra travelled to the bedroom. James is in the hallway. Sandra is in the bedroom. John moved to the garden.",
+        "question": "Is James in the hallway?",
+        "answer": "yes"
+    },
+    "129": {
+        "context": "Sandra travelled to the bedroom. Olivia is in the hallway. Sandra is in the bedroom. John moved to the garden.",
+        "question": "Is Olivia in the hallway?",
+        "answer": "yes"
+    },
+    "130": {
+        "context": "Sandra is no longer in the office. Daniel is in the hallway. James journeyed to the kitchen. Daniel is no longer in the office. Daniel went to the bathroom. John is no longer in the hallway.",
+        "question": "Is James in the bedroom?",
+        "answer": "no"
+    },
+    "131": {
+        "context": "Sandra is no longer in the office. Daniel is in the hallway. Olivia journeyed to the kitchen. Daniel is no longer in the office. Daniel went to the bathroom. John is no longer in the hallway.",
+        "question": "Is Olivia in the bedroom?",
+        "answer": "no"
+    },
+    "132": {
+        "context": "James is in the bedroom. Daniel is no longer in the office. Sandra is in the garden. James journeyed to the kitchen. Sandra is in the garden. James is in the kitchen.",
+        "question": "Is James in the kitchen?",
+        "answer": "yes"
+    },
+    "133": {
+        "context": "Olivia is in the bedroom. Daniel is no longer in the office. Sandra is in the garden. Olivia journeyed to the kitchen. Sandra is in the garden. Olivia is in the kitchen.",
+        "question": "Is Olivia in the kitchen?",
+        "answer": "yes"
+    },
+    "134": {
+        "context": "James gave money to my friend who needed it but failed to by it back as they promised.",
+        "question": "What will happen to James?",
+        "answer": "C"
+    },
+    "135": {
+        "context": "Olivia gave money to my friend who needed it but failed to by it back as they promised.",
+        "question": "What will happen to Olivia?",
+        "answer": "C"
+    },
+    "136": {
+        "context": "James knew what was going on after seeing the cashier stealing from the till.",
+        "question": "What will James want to do next?",
+        "answer": "C"
+    },
+    "137": {
+        "context": "Olivia knew what was going on after seeing the cashier stealing from the till.",
+        "question": "What will Olivia want to do next?",
+        "answer": "C"
+    },
+    "138": {
+        "context": "James wanted to learn how to play the guitar on her own and set the plans into motion.",
+        "question": "What will James want to do next?",
+        "answer": "B"
+    },
+    "139": {
+        "context": "Olivia wanted to learn how to play the guitar on her own and set the plans into motion.",
+        "question": "What will Olivia want to do next?",
+        "answer": "B"
+    },
+    "140": {
+        "context": "James's mother does not allow them to play video games. James's mother found out that James was at a friend's house playing video games.",
+        "question": "What will happen to James?",
+        "answer": "B"
+    },
+    "141": {
+        "context": "Olivia's mother does not allow them to play video games. Olivia's mother found out that Olivia was at a friend's house playing video games.",
+        "question": "What will happen to Olivia?",
+        "answer": "B"
+    },
+    "142": {
+        "context": "James took his son to the eye doctor instead of going to the birthday party for their other child.",
+        "question": "What will happen to Others?",
+        "answer": "A"
+    },
+    "143": {
+        "context": "Olivia took her son to the eye doctor instead of going to the birthday party for their other child.",
+        "question": "What will happen to Others?",
+        "answer": "A"
+    },
+    "144": {
+        "context": "James guessed the ending of the speech and ruined it for the others.",
+        "question": "What will Others want to do next?",
+        "answer": "B"
+    },
+    "145": {
+        "context": "Olivia guessed the ending of the speech and ruined it for the others.",
+        "question": "What will Others want to do next?",
+        "answer": "B"
+    },
+    "146": {
+        "context": "James took the trash to the burn barrel then set the trash on fire.",
+        "question": "What will James want to do next?",
+        "answer": "A"
+    },
+    "147": {
+        "context": "Olivia took the trash to the burn barrel then set the trash on fire.",
+        "question": "What will Olivia want to do next?",
+        "answer": "A"
+    },
+    "148": {
+        "context": "James laid around and fell asleep. He woke up late for work.",
+        "question": "What will James want to do next?",
+        "answer": "C"
+    },
+    "149": {
+        "context": "Olivia laid around and fell asleep. She woke up late for work.",
+        "question": "What will Olivia want to do next?",
+        "answer": "C"
+    },
+    "150": {
+        "context": "James was bored so she went to a friend's house and played video games.",
+        "question": "What will Others want to do next?",
+        "answer": "C"
+    },
+    "151": {
+        "context": "Olivia was bored so she went to a friend's house and played video games.",
+        "question": "What will Others want to do next?",
+        "answer": "C"
+    },
+    "152": {
+        "context": "James played some soccer with their friend after school that day and had fun.",
+        "question": "What will happen to Others?",
+        "answer": "C"
+    },
+    "153": {
+        "context": "Olivia played some soccer with their friend after school that day and had fun.",
+        "question": "What will happen to Others?",
+        "answer": "C"
+    },
+    "154": {
+        "context": "James was the best of friends with her pals and had a good heart.",
+        "question": "What will James want to do next?",
+        "answer": "C"
+    },
+    "155": {
+        "context": "Olivia was the best of friends with her pals and had a good heart.",
+        "question": "What will Olivia want to do next?",
+        "answer": "C"
+    },
+    "156": {
+        "context": "James looked up their friend on Instagram after he came back from vacation.",
+        "question": "What will her other friends want to do next?",
+        "answer": "C"
+    },
+    "157": {
+        "context": "Olivia looked up their friend on Instagram after she came back from vacation.",
+        "question": "What will her other friends want to do next?",
+        "answer": "C"
+    },
+    "158": {
+        "context": "James brought the kids to the party and everyone found the kids to be annoying.",
+        "question": "What will Others want to do next?",
+        "answer": "B"
+    },
+    "159": {
+        "context": "Olivia brought the kids to the party and everyone found the kids to be annoying.",
+        "question": "What will Others want to do next?",
+        "answer": "B"
+    },
+    "160": {
+        "context": "My friend was selling popcorn to raise money for the Boy Scouts. James loves popcorn, and placed a large order. James gave money to my friend for the popcorn.",
+        "question": "What will James want to do next?",
+        "answer": "A"
+    },
+    "161": {
+        "context": "My friend was selling popcorn to raise money for the Boy Scouts. Olivia loves popcorn, and placed a large order. Olivia gave money to my friend for the popcorn.",
+        "question": "What will Olivia want to do next?",
+        "answer": "A"
+    },
+    "162": {
+        "context": "James was feeling very hungry but didn't like the school cafeteria food, so she left the premises with permission.",
+        "question": "What will James want to do next?",
+        "answer": "A"
+    },
+    "163": {
+        "context": "Olivia was feeling very hungry but didn't like the school cafeteria food, so she left the premises with permission.",
+        "question": "What will Olivia want to do next?",
+        "answer": "A"
+    },
+    "164": {
+        "context": "James knew the topic well enough that she felt she didn't need to study anymore.",
+        "question": "What will James want to do next?",
+        "answer": "A"
+    },
+    "165": {
+        "context": "Olivia knew the topic well enough that she felt she didn't need to study anymore.",
+        "question": "What will Olivia want to do next?",
+        "answer": "A"
+    },
+    "166": {
+        "context": "James was a shy kid at school. They made no friends.",
+        "question": "What will happen to James?",
+        "answer": "A"
+    },
+    "167": {
+        "context": "Olivia was a shy kid at school. They made no friends.",
+        "question": "What will happen to Olivia?",
+        "answer": "A"
+    },
+    "168": {
+        "context": "James wanted to do something special for their spouse on Valentines day, so James decided to have a picnic in the park.",
+        "question": "What will James want to do next?",
+        "answer": "B"
+    },
+    "169": {
+        "context": "Olivia wanted to do something special for their spouse on Valentines day, so Olivia decided to have a picnic in the park.",
+        "question": "What will Olivia want to do next?",
+        "answer": "B"
+    },
+    "170": {
+        "context": "James did not consider that her words may have the feelings of others.",
+        "question": "What will Others want to do next?",
+        "answer": "B"
+    },
+    "171": {
+        "context": "Olivia did not consider that her words may have the feelings of others.",
+        "question": "What will Others want to do next?",
+        "answer": "B"
+    },
+    "172": {
+        "context": "James was jealous that it was their sister's birthday that day.",
+        "question": "What will happen to Others?",
+        "answer": "C"
+    },
+    "173": {
+        "context": "Olivia was jealous that it was their sister's birthday that day.",
+        "question": "What will happen to Others?",
+        "answer": "C"
+    },
+    "174": {
+        "context": "I had decided that I wanted to visit my friend James whom lives quite a distance away . With this and my fear of air travel in mind I decided to take a train . After researching and finding one online I was well on my way to going to see my friend James . I drive to the station and decide that I am going to purchase a round trip ticket as this would be cheaper than just buying both tickets separately . I purchase my ticket and then go to sit down and wait for my train . Whenever my train arrives I have to get in line as they process our tickets . After all this is done I decide to take a seat by the window . I sit and fall asleep a bit as I ride on the train for hours . After a couple hours we finally reach the destination and I get off the train , excited to see my friend . ",
+        "question": "Who did they board the train with?",
+        "answer": "James"
+    },
+    "175": {
+        "context": "I had decided that I wanted to visit my friend Olivia whom lives quite a distance away . With this and my fear of air travel in mind I decided to take a train . After researching and finding one online I was well on my way to going to see my friend Olivia . I drive to the station and decide that I am going to purchase a round trip ticket as this would be cheaper than just buying both tickets separately . I purchase my ticket and then go to sit down and wait for my train . Whenever my train arrives I have to get in line as they process our tickets . After all this is done I decide to take a seat by the window . I sit and fall asleep a bit as I ride on the train for hours . After a couple hours we finally reach the destination and I get off the train , excited to see my friend . ",
+        "question": "Who did they board the train with?",
+        "answer": "Olivia"
+    },
+    "176": {
+        "context": "James helps clean the table after dinner.  He takes the plates first, scrapes the food off of them, and throws away the scraps. He sets the dishes near the sink. Then, he takes the cups two at a time, and empties them in the sink if there is any drink left in them.  He sets them next to the counter where the sink is to be washed.   Then he gathers the silverware, and any other dishes with food in them.  He wipes the table carefully, and puts back the flower decoration onto the center of the table.  He then goes back to the kitchen, to rinse the dishes, and prepare them for the dishwasher.  He loads the dishwasher with the dirty dishes, and puts the soap in the dishwasher.  He turns on the dishwasher, and goes to tell his mom that he done with the dishes and cleaning the table.",
+        "question": "Who cleaned the table?",
+        "answer": "James"
+    },
+    "177": {
+        "context": "Olivia helps clean the table after dinner.  She takes the plates first, scrapes the food off of them, and throws away the scraps. She sets the dishes near the sink. Then, she takes the cups two at a time, and empties them in the sink if there is any drink left in them.  She sets them next to the counter where the sink is to be washed.   Then she gathers the silverware, and any other dishes with food in them.  She wipes the table carefully, and puts back the flower decoration onto the center of the table.  She then goes back to the kitchen, to rinse the dishes, and prepare them for the dishwasher.  She loads the dishwasher with the dirty dishes, and puts the soap in the dishwasher.  She turns on the dishwasher, and goes to tell her mom that she done with the dishes and cleaning the table.",
+        "question": "Who cleaned the table?",
+        "answer": "Olivia"
+    },
+    "178": {
+        "context": "In 1843 roguish gambler Paul Regret (Stuart Whitman) escapes a death penalty after killing in a duel James Bouvier (Gregg Palmer), the child of a Louisiana judge. Regret claimed that he would have only wounded Bouvier if he hadn't sidestepped. He is captured by Texas Ranger Jake Cutter (John Wayne) after a tryst with a mysterious lady, Pilar Graile (Ina Balin). Regret manages to escape, but is subsequently recaptured after a chance encounter with Cutter in a saloon. In the process of returning Regret to Louisiana, Cutter is forced to join forces with the condemned to fight the \"Comancheros\", a large criminal gang headed by a former officer that smuggles guns and whiskey to the Comanche Indians to make money and keep the frontier in a state of violence. Cutter stops at a ranch owned by a friend when there is a sudden Comanche attack. During the attack Regret jumps on a horse and flees, but instead of making a clean getaway he soon returns with a unit of Texas Rangers and the attack is repulsed. Eventually they infiltrate the self-sufficient Comanchero community at the bottom of a valley in the desert. Pilar reappears as the daughter of the wheelchair-bound but ruthless leader Graile (Nehemiah Persoff). After Cutter and the other Texas Rangers defeat both the Comanches and Comancheros, Regret and Pilar leave together for Mexico and Jake rides off into the sunset. ",
+        "question": "Whom did Paul Regret kill in a duel?",
+        "answer": "James Bouvier"
+    },
+    "179": {
+        "context": "In 1843 roguish gambler Paul Regret (Stuart Whitman) escapes a death penalty after killing in a duel Olivia Bouvier (Gregg Palmer), the child of a Louisiana judge. Regret claimed that he would have only wounded Bouvier if he hadn't sidestepped. He is captured by Texas Ranger Jake Cutter (John Wayne) after a tryst with a mysterious lady, Pilar Graile (Ina Balin). Regret manages to escape, but is subsequently recaptured after a chance encounter with Cutter in a saloon. In the process of returning Regret to Louisiana, Cutter is forced to join forces with the condemned to fight the \"Comancheros\", a large criminal gang headed by a former officer that smuggles guns and whiskey to the Comanche Indians to make money and keep the frontier in a state of violence. Cutter stops at a ranch owned by a friend when there is a sudden Comanche attack. During the attack Regret jumps on a horse and flees, but instead of making a clean getaway he soon returns with a unit of Texas Rangers and the attack is repulsed. Eventually they infiltrate the self-sufficient Comanchero community at the bottom of a valley in the desert. Pilar reappears as the daughter of the wheelchair-bound but ruthless leader Graile (Nehemiah Persoff). After Cutter and the other Texas Rangers defeat both the Comanches and Comancheros, Regret and Pilar leave together for Mexico and Jake rides off into the sunset. ",
+        "question": "Whom did Paul Regret kill in a duel?",
+        "answer": "Olivia Bouvier"
+    },
+    "180": {
+        "context": "In pre-revolutionary Cuba, James Wormold (Alec Guinness), a vacuum cleaner salesman, is recruited by Hawthorne (No\u00c3\u00abl Coward) of the British Secret Intelligence Service to be their Havana operative. Instead of recruiting his own agents, Wormold invents agents from men he knows only by sight, and sketches \"plans\" for a rocket-launching pad based on vacuum parts to increase his value to the service and to procure more money for himself and his expensive daughter Milly (Jo Morrow). Because his importance grows, he is sent a secretary, James, and a radioman from London to be under his command. With their arrival it becomes much harder for Wormold to maintain his facade. However, all of his invented information begins to come true: his cables home are intercepted and believed to be true by enemy agents who then act against his \"cell\". One of his \"agents\" is killed, and he is himself targeted for assassination. He admits what he's done to his secretary, and is recalled to London. At the film's conclusion, rather than telling the truth to the prime minister and other military intelligence services, Wormold's commanders (led by Ralph Richardson) agree to fabricate a story claiming his imagined machines had been dismantled, bestow honors on Wormold, and offer him a position teaching espionage classes in London. ",
+        "question": "Who is James Wormold's secretary?",
+        "answer": "James"
+    },
+    "181": {
+        "context": "In pre-revolutionary Cuba, James Wormold (Alec Guinness), a vacuum cleaner salesman, is recruited by Hawthorne (No\u00c3\u00abl Coward) of the British Secret Intelligence Service to be their Havana operative. Instead of recruiting his own agents, Wormold invents agents from men he knows only by sight, and sketches \"plans\" for a rocket-launching pad based on vacuum parts to increase his value to the service and to procure more money for himself and his expensive daughter Milly (Jo Morrow). Because his importance grows, he is sent a secretary, Olivia, and a radioman from London to be under his command. With their arrival it becomes much harder for Wormold to maintain his facade. However, all of his invented information begins to come true: his cables home are intercepted and believed to be true by enemy agents who then act against his \"cell\". One of his \"agents\" is killed, and he is himself targeted for assassination. He admits what he's done to his secretary, and is recalled to London. At the film's conclusion, rather than telling the truth to the prime minister and other military intelligence services, Wormold's commanders (led by Ralph Richardson) agree to fabricate a story claiming his imagined machines had been dismantled, bestow honors on Wormold, and offer him a position teaching espionage classes in London. ",
+        "question": "Who is James Wormold's secretary?",
+        "answer": "Olivia"
+    },
+    "182": {
+        "context": "The film is set in Lisbon, and tells the story of a day in the life of Rita and James, a Portuguese young couple of the 90's, belonging to the first generation of Portuguese to grow up inside the European Union. The fast changing city around them makes them wish to break with all traditions and live the day the get married (only civil marriage) like it is an ordinary day. However, for some reason Rita wants to be absolutely sure James loves her and decides to cut her long black hair short before the ceremony. Rita and James still get married, but Rita's haircut would drastically and unexpectedly change their relationship. ",
+        "question": "Does the city around Rita and James make them wish to keep traditions?",
+        "answer": "no"
+    },
+    "183": {
+        "context": "The film is set in Lisbon, and tells the story of a day in the life of Rita and Olivia, a Portuguese young couple of the 90's, belonging to the first generation of Portuguese to grow up inside the European Union. The fast changing city around them makes them wish to break with all traditions and live the day the get married (only civil marriage) like it is an ordinary day. However, for some reason Rita wants to be absolutely sure Olivia loves her and decides to cut her long black hair short before the ceremony. Rita and Olivia still get married, but Rita's haircut would drastically and unexpectedly change their relationship. ",
+        "question": "Does the city around Rita and Olivia make them wish to keep traditions?",
+        "answer": "no"
+    },
+    "184": {
+        "context": "  James Montgomery (Ally Sheedy) is a spoiled rich boy who's hard partying life style and lack of self respect, as well as a lack of respect for others, annoys his father (Tom Skerritt) endlessly. When James gets arrested for drunk driving and drug possession, he finally pushes his father beyond his limits and, beside himself with frustration and disappointment, he says the one thing he thought he'd never say - he wishes he'd never had a son. A Fairy Godmother named Stella (Beverly D'Angelo), hears his wish and decides to comply, but she arranges it so that James never existed in his life. The next morning, she springs James from jail, but James is shocked to find that he has no money except some loose change, no family and no friends and is not sure what to do with herself, as he has never been on his own. His father, unaware about his wish coming true, has no memory of him at all. Ultimately, James is forced to take a demeaning job as a maid for an eccentric rich couple (Dick Shawn and Valerie Perrine), where he learns the true meaning of hard work, as well as the true meaning of love, friendship and self-respect. Having learned these things, he is eventually rewarded by having his old life more or less returned to him.  ",
+        "question": "What does James take a job as?",
+        "answer": "Maid"
+    },
+    "185": {
+        "context": "  Olivia Montgomery (Ally Sheedy) is a spoiled rich girl who's hard partying life style and lack of self respect, as well as a lack of respect for others, annoys her father (Tom Skerritt) endlessly. When Olivia gets arrested for drunk driving and drug possession, she finally pushes her father beyond his limits and, beside himself with frustration and disappointment, he says the one thing he thought he'd never say - he wishes he'd never had a daughter. A Fairy Godmother named Stella (Beverly D'Angelo), hears his wish and decides to comply, but she arranges it so that Olivia never existed in his life. The next morning, she springs Olivia from jail, but Olivia is shocked to find that she has no money except some loose change, no family and no friends and is not sure what to do with herself, as she has never been on her own. Her father, unaware about his wish coming true, has no memory of her at all. Ultimately, Olivia is forced to take a demeaning job as a maid for an eccentric rich couple (Dick Shawn and Valerie Perrine), where she learns the true meaning of hard work, as well as the true meaning of love, friendship and self-respect. Having learned these things, she is eventually rewarded by having her old life more or less returned to her.  ",
+        "question": "What does Olivia take a job as?",
+        "answer": "Maid"
+    }
+}
