@@ -1,0 +1,560 @@
+{
+    "0": {
+        "context": "On the same day, Ed Miliband had announced he would stand down as Labour leader, while <PERSON> said <he/she> would resign as leader of the Liberal Democrats.",
+        "source_dataset": "qamr",
+        "question": "What is <PERSON> leader of?",
+        "answer": "the Liberal Democrats"
+    },
+    "1": {
+        "context": "Architects such as Mies van der Rohe, Philip Johnson and <PERSON> worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the Industrial Revolution, including steel-frame construction, which gave birth to high-rise superstructures.",
+        "source_dataset": "qamr",
+        "question": "What is <PERSON> one of?",
+        "answer": "Architects"
+    },
+    "2": {
+        "context": "According the Team Manager <PERSON>, Smith took a while to settle in before taking her first shot.",
+        "source_dataset": "qamr",
+        "question": "Who discussed Smith taking her first shot?",
+        "answer": "<PERSON>"
+    },
+    "3": {
+        "context": "The cousins were close, although David was more easygoing while <PERSON> could be very competitive.",
+        "source_dataset": "qamr",
+        "question": "What kind of person was <PERSON>?",
+        "answer": "competitive"
+    },
+    "4": {
+        "context": "Detective Sergeant <PERSON> of West Midlands Police's Force CID said the seizure was the largest he had ever made in the 24 years he has been in West Midlands Police and one of the biggest seizures the force has made since its formation in 1974.",
+        "source_dataset": "qamr",
+        "question": "What was <PERSON>'s title?",
+        "answer": "Detective Sergeant"
+    },
+    "5": {
+        "context": "According to documents found in the possession of a descendant of the Manfredi family, Nadia Manfredi, in 2007, Puccini was actually having an affair with <PERSON>, Doria's cousin.",
+        "source_dataset": "qamr",
+        "question": "Who did Puccini have an affair with?",
+        "answer": "<PERSON>"
+    },
+    "6": {
+        "context": "<PERSON> was on the playground. As <he/she> was running towards <his/her> friends, <he/she> tripped on a classmate's toy truck and fell. <He/She> skinned <his/her> knee. <He/She> got up and saw that the watch that <his/her> brother had given <him/her> had broken when <he/she> fell. <PERSON> was very sad about <his/her> watch breaking, which was the second bad thing to happen to <him/her> today. One of <his/her> friends saw that <he/she> had fallen. Lindsay heard <PERSON> saying that <his/her> watch was broken. <He/She> was mad at the boy, Kevin, who had left <his/her> truck on the playground for <PERSON> to fall over. Lindsay tried to tell <him/her> that it was not his Kevin's fault that <PERSON> had fallen. She said, \"Let's take your watch to the teacher. I think Miss Henderson can fix it.\" Miss Henderson fixed <PERSON>'s watch, and told <him/her> to be more careful when <he/she> was running outside. After <his/her> watch was fixed and <he/she> felt better, Lindsay clapped. \"I told you it would be okay,\" she said. She and <PERSON> went out to play with their other friends.",
+        "source_dataset": "mctest",
+        "question": "Where did <PERSON> get <his/her> watch from? Possible Answers :   A: <His/Her> mother.  B: <His/Her> uncle.  C: <His/Her> grandfather.  D: <His/Her> brother.",
+        "answer": "D"
+    },
+    "7": {
+        "context": "<PERSON> was a small <boy/girl> who, like many small <boys/girls>, loved to play. <He/She> would play outside. <He/She> would play in <his/her> basement. <He/She> would play in <his/her> room. When <he/she> played, <he/she> would play with lots of things. Sometimes <he/she> played with blocks. Sometimes <he/she> played with cards. Sometimes <he/she> would even play with <his/her> sister's dolls. One day, <PERSON> became bored. \"Maybe I'll play outside,\" said <PERSON>. <He/She> tried to play outside, but it didn't seem right. \"I know,\" said <PERSON>, \"maybe I'll play in the basement.\" So <he/she> tried to play in <his/her> basement, but that didn't seem right either. \"I guess I can play in my room,\" said <PERSON>. So <he/she> went to <his/her> room to play, but <he/she> still felt bored.  \"Maybe I need to play with something different,\" said <PERSON>. So <he/she> tried to play with <his/her> blocks, but <he/she> was still bored. \"I'll play with my cards,\" said <PERSON>, but they weren't fun either. \"I'll play with my sister's dolls,\" said <PERSON>, but <he/she> kept being bored.  <PERSON> was starting to get sad, and then <his/her> sister Angie came in and asked, \"Do you want to play, <PERSON>?\" \"Yes,\" said <PERSON>. And they played with blocks, and dolls, and cards. And they had fun. As it turns out, all <PERSON> needed was somebody to play with.",
+        "source_dataset": "mctest",
+        "question": "Where didn't <PERSON> play? Possible Answers :   A: Playground  B: Outside  C: Basement  D: <His/Her> room",
+        "answer": "A"
+    },
+    "8": {
+        "context": "A small <boy/girl> named <PERSON> was at the park one day. <He/She> was swinging on the swings and <his/her> Tim friend played on the slide. <PERSON> wanted to play on the slide now. <PERSON> asked Tim if <he/she> could play on the slide. Tim said no. <PERSON> was very upset and started crying. A girl named Susan saw <him/her> crying. Susan told the teacher Ms. Tammy. Ms. Tammy came over and told <PERSON> that they could both take turns on the slide. <PERSON> and Tim were OK with this. They both took turns on the slide. They all lived happily ever after.",
+        "source_dataset": "mctest",
+        "question": "Who saw <PERSON> crying and told Ms. Tammy? Possible Answers :   A: Tim  B: Susan  C: <PERSON>  D: Ms. Tammy",
+        "answer": "B"
+    },
+    "9": {
+        "context": "Once, there was a <boy/girl> named <PERSON> that was no older then seven or eight years old. <PERSON> lived with <his/her> mother Sam and father Spike in a small house in a dangerous neighborhood in New York city. Before their move from Florida <he/she> spent most of <his/her> time outside at a park. In fact they moved around a lot. They have also lived in Georgia and California and this was the first time being stuck inside. It got so bad <he/she> was looking forward to going to school. This boy was an only child and was not allowed to go outside to play. Instead <he/she> spent most of <his/her> time locked inside <his/her> house alone with no friends to play with. One day <he/she> got a great idea. Why don't I ask my mom, for a pet? <He/She> thought long and hard. I can get a dog or cat. I don't like birds, fish or hamsters. This way I'll always have a friend to play with when I'm inside. <He/She> thinks to run up to <his/her> mom and say mommy, mommy! Can I get a new pet? <His/Her> mom told <him/her> that if <he/she> wanted a pet that <he/she> would have to show her that <he/she> could take care of it. She gave <him/her> chores and said, \"if you can do these chores for one month I'll get you a dog.\" Every evening before bed <he/she> would clear the table, clean the bathrooms and nicely stack all of the dishes. <His/Her> mother was in awe in the fact the she never had to tell <him/her> to complete <his/her> chore. At the end of the month <his/her> mother kept her promise and got <him/her> a new puppy. The <boy/girl> was in love at first sight but the <boy/girl> wasn't sure if the puppy looked like a Bob or a Rick. Finally <he/she> yelled, \"I'm going to call him Rick!\"",
+        "source_dataset": "mctest",
+        "question": "What state does the <boy/girl> live in? Possible Answers :   A: New York  B: California  C: Georgia  D: Florida",
+        "answer": "A"
+    },
+    "10": {
+        "context": "<PERSON> was in <his/her> bedroom. <He/She> was reading a book that <his/her> teacher gave <him/her>. The book was titled, \"Everything You'd Want to Know About Fish.\" <He/She> was reading the book because <He/She> was interested in learning more about fish. <PERSON> thought reading the book was fun. <He/She> liked to imagine <him/her>self swimming with fish <He/She> read about in the book. Also, <He/She> liked looking at the pictures. <PERSON>'s mother called <him/her>. <PERSON> closed the book, and went downstairs. <He/She> asked <his/her> mother, \"Do you need something?\" And <his/her> mother said, \"<PERSON>, it's time for dinner.\"",
+        "source_dataset": "mctest",
+        "question": "Why was <PERSON> reading a book? Possible Answers :   A: <He/She> was reading a book that <his/her> teacher gave <him/her>.  B: <He/She> was interested in learning more about fish.  C: It was time for dinner.  D: The book was about fish.",
+        "answer": "B"
+    },
+    "11": {
+        "context": "<PERSON> thought <he/she> would like to stop eating meat, but <he/she> didn't know if <he/she> could do it. Once, when <he/she> was younger, <he/she> had tried to go without eating meat, but before the first day was over, <he/she> stomach had felt a little empty. \"Hmm,\" <he/she> had thought. \"Maybe it's not good for me to stop eating meat. Maybe that's why I feel so hungry.\" But, now, <he/she> wondered if there was anything <he/she> could do so <he/she> wouldn't feel so hungry, even if <he/she> did stop eating meat. <he/she> went to the library, and there, <he/she> saw a magazine. Below the title, the cover said, \"Learn to live on vegetables!\" <he/she> read in the magazine that it was good to change <he/she> meal plan slowly. If <he/she> really felt hungry for a little meat, the magazine said, it was okay to have some, and then go back to eating <he/she> veggies. <he/she> also read that beans could give <he/she> body a lot of the same things meat could, but that eating things like rice and noodles would help the beans do a better job of building <he/she> body and giving it energy. That way, <he/she> would feel better, instead of feeling so hungry! <PERSON> wasn't sure if it would work this time, but the magazine's tips made <he/she> want to give it another try!",
+        "source_dataset": "mctest",
+        "question": "What did <PERSON> think after reading the magazine? Possible Answers :   A: <he/she> wasn't sure it would work, but <he/she> wanted to give it another try.  B: <he/she> felt really hungry.  C: <he/she> wanted to go to the library.  D: <he/she> wondered if there was anything <he/she> could do to feel better without eating meat.",
+        "answer": "A"
+    },
+    "12": {
+        "context": "Once upon a time there was a small <boy/girl> named <PERSON>. <PERSON> was very shy and did not have a lot of friends. One day, when <he/her> was sitting outside <his/her> house, <he/her> saw a small cat hiding around <his/her> house. The cat was under <his/her> porch. This cat was yellow. Yellow was <PERSON>'s favorite color. <PERSON> went under the porch and caught the yellow cat. <PERSON> was very happy when <he/her> caught the cat. A new cat meant <he/her> had a new friend to play with. <PERSON> and the cat played every day. <PERSON> loved <his/her> cat and they ran happily around the neighborhood. They played in <his/her> friend's front yard, in the street, and even by the garbage can. <PERSON> loved <his/her> cat and the yellow cat loved <PERSON>. The cat lived with <PERSON>, along with <his/her> orange and black cat. <PERSON> had lots of cats and <he/her> wants to get a blue cat. <PERSON>'s cats were <his/her> best friends and <he/her> was their favorite person.",
+        "source_dataset": "mctest",
+        "question": "What color is the cat that <PERSON> found? Possible Answers :   A: Black  B: Blue  C: Yellow  D: Orange",
+        "answer": "C"
+    },
+    "13": {
+        "context": "<PERSON> Catches a Fish. <PERSON> loved to eat fish as a young girl. <He/She> saw fish as good food. But <he/she> asked, \"Where do fish come from?\" \"People have to catch them,\" Daddy said.\" <PERSON> wanted to know how to catch a fish. \"People have caught fish from a pole, line, and hook for a long time,\" Daddy said.\" \"I am about to show you how to that.\"  \"Let's take a lunch with us,\" Daddy said. <PERSON> chose some fries with ketchup and a bean sandwich. <PERSON> also like sweets. <He/She> brought some candy bears. <PERSON> has strange tastes. Daddy drove to a nearby lake. It was early. <PERSON> was yawning in daddy's car. The people at the lake had special times for young people learning to fish. They talked with <PERSON> about them. <PERSON> was excited. Daddy took <PERSON> to a small spot on the lake. Daddy showed <PERSON> how to put a worm on the hook as something to get the fish. Daddy said other like things like grasshoppers, corn, or tiny fish could also get the fish. <PERSON> lifted <his/her> pole and dropped <his/her> line in the water. The small red and white float was there on the water. It was easy to see that from the blue water and sunny sky. <PERSON> said, \"Daddy I'm bored.\" Daddy told <his/her> that sometimes you need to wait. After a short wait, the float went under! \"<PERSON>, you have a fish!\" Daddy yelled. <PERSON> lifted up <his/her> line and took the small fish out of the water. \"Daddy, I can catch fish\", <He/She> happily said.",
+        "source_dataset": "mctest",
+        "question": "Which of these did <PERSON> like for lunch with ketchup? Possible Answers :   A: candy bears  B: bean sandwich  C: fish  D: fries",
+        "answer": "D"
+    },
+    "14": {
+        "context": "<PERSON>'s sister, Julia, was having a birthday party in the afternoon. <PERSON>'s mother was going to bake the cake for the party. Mother asked <PERSON> to help her bake the cake. They chose to make a chocolate cake with chocolate frosting. <PERSON> got the bowls and the ingredients they would need for the cake. She helped measure the flour, the sugar and the cocoa. Once <his/her> mother added the rest of the ingredients, <PERSON> was allowed to stir the ingredients in the bowl. <He/She> helped to pour the cake mix into two pans and then put them in the oven. The smell of the cake made <PERSON> hungry. While the cake was baking, <PERSON> helped <his/her> mother make the chocolate frosting. <His/Her> mother let <him/her> lick the spoon when they were done mixing the frosting. Once the cake was done, <PERSON> and <his/her> mother took the cake out of the oven and let it cool, and then they frosted it. They ate the chocolate cake at Julia's party with scoops of vanilla ice cream and fresh strawberries. <PERSON> gave their dog, Sunny, a little piece of cake too!",
+        "source_dataset": "mctest",
+        "question": "What did <PERSON> and <his/her> mother make? Possible Answers :   A: flour and sugar  B: cake and frosting  C: ice cream and strawberries  D: Julia and Sunny",
+        "answer": "B"
+    },
+    "15": {
+        "context": "<PERSON> is 30 years old, and lives in a big house. <He/She> is a doctor. <PERSON> enjoys <his/her> job because <he/she> helps sick people get better. <He/She> works with another doctor, named Zeke, and with four nurses.  <PERSON> had to study hard to become a doctor. <He/She> had to go to a special school for seven years. Learning to be a doctor is difficult. Only very smart and hardworking people can become doctors. <PERSON> was not sad when <he/she> was studying. <He/She> enjoyed learning all about why people get sick and how to make them feel better. Now, <PERSON> is a very good doctor. Sometimes other doctors ask <him/her> questions, because <he/she> knows more about some things that they do. Jim and Alice are two other doctors who became friends with <PERSON>. Jim is 40 years old, and Alice is 25 years old. Sometimes they all have dinner together, and at other times they listen to music at <PERSON>'s house. In <his/her> free time, <PERSON> likes to play basketball. <PERSON> works hard, and sometimes <He/She> wants to have fun. But really, <his/her> job is fun to <him/her>. When <he/she> wakes up in the morning, <he/she> always is excited thinking about how <he/she> can help people as a doctor.",
+        "source_dataset": "mctest",
+        "question": "How many nurses does <PERSON> work with? Possible Answers :   A: seven  B: two  C: four  D: 30",
+        "answer": "C"
+    },
+    "16": {
+        "context": "<PERSON> liked <his/her> old sneakers but they were getting too small. <He/She> tried on sixteen different pairs of shoes at the mall with <his/her> mom. <He/She> was looking for green shoes with blue laces. <He/She> couldn't find any <he/she> liked and left sad. <His/Her> mom wanted to cheer him up. They stopped for lunch at a restaurant drive-thru. \"What do you want to order?\" asked <PERSON>'s Mom as she got a cheeseburger and a large drink. <He/She> ordered a hamburger. While they ate, <PERSON> and <his/her> mom talked about different shoes <PERSON> might try on next. <He/She> didn't want to go back to the store, but <he/she> really wanted green shoes. <He/She> ate some of her fries as <he/she> thought about it. Suddenly, <his/her> mom had a great idea. They would paint a pair of new shoes green! <PERSON> loved that idea. So they went to the Art Store and bought green paint. They went back to the mall and bought new blue shoelaces and white sneakers. <PERSON> was so excited about <his/her> shoes that <he/she> painted them as soon as <he/she> got home. Afterwards, <he/she> walked around the house in <his/her> new shoes dripping green paint.",
+        "source_dataset": "mctest",
+        "question": "What color sneakers did <PERSON> and <his/her> mom buy? Possible Answers :   A: Green  B: Blue  C: White  D: Yellow",
+        "answer": "C"
+    },
+    "17": {
+        "context": "What an honor it was to work for <PERSON>. We took this photo at Don Graham's farewell party - one year ago today. Christine Brennan (@cbrennansports) October 22, 2014",
+        "source_dataset": "TweetQA",
+        "question": "what was it like to work for <PERSON>?",
+        "answer": "an honor"
+    },
+    "18": {
+        "context": "\"<PERSON>... you didn't save jazz.\" -Emma Stone # Saturday Night Live (@nbcsnl) October 1, 2017",
+        "source_dataset": "TweetQA",
+        "question": "what form of music does emma comment that <PERSON> did not save?",
+        "answer": "jazz"
+    },
+    "19": {
+        "context": "#2018Prediction 6: I will take my rants to the airwaves! Because there is so much BS flying throughout corporate America and not just in wireless so maybe I will write a book or start a podcast! #staytuned <PERSON> - December 28, 2017",
+        "source_dataset": "TweetQA",
+        "question": "where will this person take his tirades?",
+        "answer": "to the airwaves"
+    },
+    "20": {
+        "context": "More photos of <PERSON> crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) - <PERSON> November 4, 2014",
+        "source_dataset": "TweetQA",
+        "question": "where did <PERSON> crash a session?",
+        "answer": "nashville"
+    },
+    "21": {
+        "context": "NOPE. I refuse. I will not call muggle No-Maj. Nope nope nope. - <PERSON> November 4, 2015",
+        "source_dataset": "TweetQA",
+        "question": "what does <PERSON> think of calling muggle no-maj?",
+        "answer": "she refuses"
+    },
+    "22": {
+        "context": " young pop  you don't have to wear that dress toni - <PERSON> January 5, 2017",
+        "source_dataset": "TweetQA",
+        "question": "to what catholic figure does <PERSON> refer?",
+        "answer": "pope"
+    },
+    "23": {
+        "context": "Watching <PERSON> living his best life at this Ed Sheeran concert is the ultimate surprise to this NYC trip! - Hiddles Fashion (@HiddlesFashion) March 7, 2017",
+        "source_dataset": "TweetQA",
+        "question": "who is living his best life?",
+        "answer": "<PERSON>"
+    },
+    "24": {
+        "context": "We illuminated just one tree for the grandchildren It said everything ! Merry Christmas wherever you may be! - <PERSON> December 25, 2015",
+        "source_dataset": "TweetQA",
+        "question": "for who did <PERSON> illuminate this tree?",
+        "answer": "the grandchildren."
+    },
+    "25": {
+        "context": "<PERSON> charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb - RCMP Manitoba (@rcmpmb) August 27, 2015",
+        "source_dataset": "TweetQA",
+        "question": "what was <PERSON> charged with?",
+        "answer": "possession of controlled substance"
+    },
+    "26": {
+        "context": "Don't believe @ConanOBrien's height lies. <PERSON> is the tallest host in late night. #alternativefacts Full Frontal (@FullFrontalSamB) January 22, 2017",
+        "source_dataset": "TweetQA",
+        "question": "who is the tallest host?",
+        "answer": "<PERSON>"
+    },
+    "27": {
+        "context": "Yo, if you MUST cover that Rob Kardashian/Blac Chyna story, what Rob posted wasn't just \"leaked nudes\" but rather REVENGE PORN. <PERSON> July 5, 2017",
+        "source_dataset": "TweetQA",
+        "question": "what phrase would <PERSON> like corrected about a story?",
+        "answer": "\"leaked nudes\""
+    },
+    "28": {
+        "context": "<PERSON> (born 12 September 1966) is an Irish former journalist and writer of women's fiction since 1997.",
+        "source_dataset": "relation_extraction",
+        "question": "What was <PERSON>'s career?",
+        "answer": "journalist"
+    },
+    "29": {
+        "context": "<PERSON> (born 24 February 1958 in Graz, Austria) is an Austrian Australian writer and publisher diagnosed with Parkinson's disease at the age of 48 years.",
+        "source_dataset": "relation_extraction",
+        "question": "What medical condition did <PERSON> have?",
+        "answer": "Parkinson's disease"
+    },
+    "30": {
+        "context": "<PERSON> (born 26 June 1972) is a Mexican politician affiliated to the National Regeneration Movement (formerly to the Citizens' Movement. <He/She> currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Oaxaca.",
+        "source_dataset": "relation_extraction",
+        "question": "What was <PERSON>'s occupation?",
+        "answer": "politician"
+    },
+    "31": {
+        "context": "<PERSON> died in Greenville in 1933 at age 37 of congenital syphilis, which may have been the reason for his blindness.",
+        "source_dataset": "relation_extraction",
+        "question": "What led to <PERSON>'s death?",
+        "answer": "blindness"
+    },
+    "32": {
+        "context": "<PERSON> had suffered a stroke and been dealing with Alzheimer's disease at the time of <his/her> death at the age of 85 on October 26, 2008.",
+        "source_dataset": "relation_extraction",
+        "question": "What medical condition was <PERSON> suffering from?",
+        "answer": "Alzheimer's disease"
+    },
+    "33": {
+        "context": "<PERSON> (born 1966 in Montebello, California) is an American expert in human echolocation and President of World Access for the Blind, a non-profit founded in 2000 to facilitate ``the self-directed achievement of people with all forms of blindness'' and increase public awareness about their strengths and capabilities.",
+        "source_dataset": "relation_extraction",
+        "question": "What was <PERSON>'s medical condition near the end of his life?",
+        "answer": "blindness"
+    },
+    "34": {
+        "context": "Weakened and in poor health from exhaustion and tuberculosis, <PERSON> fell ill while traveling from Linglestown, Pennsylvania, northeast of Harrisburg.",
+        "source_dataset": "relation_extraction",
+        "question": "What medical condition did <PERSON> have?",
+        "answer": "tuberculosis"
+    },
+    "35": {
+        "context": "<PERSON> (13 August 1837 -- 3 March 1923) was a German conductor, composer, and music pedagogue.",
+        "source_dataset": "relation_extraction",
+        "question": "What kind of  occupation does <PERSON> have?",
+        "answer": "composer"
+    },
+    "36": {
+        "context": "<PERSON> (September 11, 1821 - October 29, 1901) was a Republican politician and the 52nd Governor of Connecticut.",
+        "source_dataset": "relation_extraction",
+        "question": "What kind of  occupation does <PERSON> have?",
+        "answer": "politician"
+    },
+    "37": {
+        "context": "Having suffered for at least a year, <PERSON> endured a serious attack of tuberculosis in 1805.",
+        "source_dataset": "relation_extraction",
+        "question": "What caused <PERSON>'s death?",
+        "answer": "tuberculosis"
+    },
+    "38": {
+        "context": "<PERSON> (born 2 April 1950) is an Australian Paralympic athlete with paraplegia, who won six medals at six Paralympics.",
+        "source_dataset": "relation_extraction",
+        "question": "What medical condition does <PERSON> have?",
+        "answer": "paraplegia"
+    },
+    "39": {
+        "context": "This evening <PERSON> went to the bathroom. <PERSON> travelled to the garden this morning. <PERSON> went to the office this afternoon. Daniel moved to the office this afternoon. Yesterday Sandra moved to the kitchen. Sandra moved to the bathroom this afternoon.",
+        "source_dataset": "babi",
+        "question": "Where was <PERSON> before the office?",
+        "answer": "garden"
+    },
+    "40": {
+        "context": "This afternoon Daniel moved to the hallway. Mary went to the bathroom yesterday. This afternoon Mary went to the kitchen. This morning Mary journeyed to the office. Daniel moved to the kitchen yesterday. <PERSON> travelled to the kitchen this morning. <PERSON> went to the bedroom this afternoon. Mary moved to the bedroom this evening. Sandra went to the hallway this evening. Sandra travelled to the bedroom yesterday.",
+        "source_dataset": "babi",
+        "question": "Where was <PERSON> before the bedroom?",
+        "answer": "kitchen"
+    },
+    "41": {
+        "context": "Mary and Sandra moved to the bathroom. Following that they went to the bedroom. Mary and Sandra went to the office. After that they travelled to the bathroom. <PERSON> and Sandra went to the garden. Following that they went to the bathroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "bathroom"
+    },
+    "42": {
+        "context": "Sandra and <PERSON> moved to the bedroom. Then they went to the bathroom. <PERSON> and Sandra journeyed to the kitchen. Following that they journeyed to the hallway. Sandra and Mary went to the garden. Following that they went to the bathroom. Mary and <PERSON> went to the garden. Following that they moved to the hallway.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "hallway"
+    },
+    "43": {
+        "context": "John and Sandra travelled to the garden. Then they moved to the office. <PERSON> and John journeyed to the garden. Then they went to the bathroom. John and <PERSON> travelled to the garden. After that they moved to the office. <PERSON> and John moved to the hallway. After that they travelled to the bedroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "bedroom"
+    },
+    "44": {
+        "context": "Sandra and Mary travelled to the bedroom. Then they moved to the hallway. <PERSON> and Daniel journeyed to the garden. After that they travelled to the kitchen.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "kitchen"
+    },
+    "45": {
+        "context": "<PERSON> and Daniel moved to the bedroom. Following that they moved to the office. Sandra and John travelled to the garden. Then they journeyed to the office. <PERSON> and Daniel moved to the office. Following that they journeyed to the garden.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "garden"
+    },
+    "46": {
+        "context": "John and Daniel went to the bathroom. Then they journeyed to the office. Daniel and Mary travelled to the hallway. Following that they journeyed to the bedroom. Daniel and <PERSON> travelled to the kitchen. Following that they travelled to the garden. <PERSON> and Mary journeyed to the bathroom. After that they travelled to the office.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "office"
+    },
+    "47": {
+        "context": "<PERSON> grabbed the football. John got the apple. Daniel travelled to the office. John went to the hallway. <PERSON> let go of the football. John dropped the apple.",
+        "source_dataset": "babi",
+        "question": "What is <PERSON> holding?",
+        "answer": "nothing"
+    },
+    "48": {
+        "context": "<PERSON> took the football. John grabbed the milk. John went to the garden. Mary journeyed to the office. John gave <PERSON> the milk. <PERSON> gave John the milk.",
+        "source_dataset": "babi",
+        "question": "What is <PERSON> holding?",
+        "answer": "football"
+    },
+    "49": {
+        "context": "<PERSON> got the milk. Sandra took the football. Sandra journeyed to the bathroom. <PERSON> dropped the milk. Sandra dropped the football. <PERSON> got the milk. Sandra grabbed the football. <PERSON> took the apple. Sandra let go of the football. <PERSON> dropped the milk.",
+        "source_dataset": "babi",
+        "question": "What is <PERSON> holding?",
+        "answer": "apple"
+    },
+    "50": {
+        "context": "<PERSON> got the milk. Mary journeyed to the garden. <PERSON> got the apple. <PERSON> let go of the apple. <PERSON> journeyed to the bedroom. Mary travelled to the kitchen.",
+        "source_dataset": "babi",
+        "question": "What is <PERSON> holding?",
+        "answer": "milk"
+    },
+    "51": {
+        "context": "Mary journeyed to the kitchen. Mary is either in the kitchen or in the garden. <PERSON> is either in the hallway or in the bedroom. Daniel is in the hallway. Mary is in the kitchen. Daniel is in the hallway.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the hallway?",
+        "answer": "maybe"
+    },
+    "52": {
+        "context": "Mary moved to the kitchen. Mary is either in the garden or in the hallway. Mary is in the kitchen. Mary journeyed to the garden. Mary is either in the bedroom or in the bathroom. Mary is either in the bathroom or in the kitchen. Daniel is either in the bedroom or in the garden. <PERSON> is either in the bedroom or in the garden.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the office?",
+        "answer": "no"
+    },
+    "53": {
+        "context": "Mary journeyed to the kitchen. <PERSON> is either in the garden or in the office. Mary went to the bedroom. John journeyed to the hallway. John is either in the bathroom or in the office. <PERSON> is in the hallway. <PERSON> is either in the office or in the bathroom. <PERSON> is either in the office or in the bathroom. Mary travelled to the garden. Sandra went to the hallway.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the garden?",
+        "answer": "no"
+    },
+    "54": {
+        "context": "<PERSON> moved to the hallway. <PERSON> moved to the office. Sandra moved to the hallway. Sandra travelled to the bathroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "office"
+    },
+    "55": {
+        "context": "Mary journeyed to the garden. She then journeyed to the bedroom. <PERSON> moved to the kitchen. After that <he/she> moved to the bedroom. Sandra went to the bedroom. She then moved to the kitchen. <PERSON> journeyed to the bathroom. Following that <he/she> moved to the bedroom. <PERSON> journeyed to the garden. After that <he/she> moved to the bedroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "bedroom"
+    },
+    "56": {
+        "context": "Daniel moved to the kitchen. After that he moved to the hallway. Mary travelled to the kitchen. Then she went to the bedroom. Daniel travelled to the bathroom. Following that he travelled to the bedroom. <PERSON> journeyed to the hallway. Following that <he/she> went to the garden.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "garden"
+    },
+    "57": {
+        "context": "Sandra moved to the kitchen. Then she went to the office. Mary went to the kitchen. Following that she went to the hallway. Mary went to the bathroom. After that she journeyed to the hallway. <PERSON> went to the office. After that <he/she> went to the bathroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "bathroom"
+    },
+    "58": {
+        "context": "<PERSON> went to the garden. Following that <he/she> journeyed to the kitchen. Sandra travelled to the bathroom. After that she travelled to the garden. Sandra went to the office. Then she moved to the kitchen. Sandra moved to the bedroom. She then moved to the bathroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "kitchen"
+    },
+    "59": {
+        "context": "Sandra moved to the bathroom. <PERSON> travelled to the garden. Daniel travelled to the kitchen. <PERSON> journeyed to the hallway. Sandra went to the garden. Daniel travelled to the bedroom. Daniel journeyed to the bathroom. Sandra went to the bathroom. Sandra travelled to the office. Daniel travelled to the bedroom.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the hallway?",
+        "answer": "yes"
+    },
+    "60": {
+        "context": "John journeyed to the bedroom. Mary went to the bathroom. Mary journeyed to the bedroom. <PERSON> journeyed to the bedroom.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the bedroom?",
+        "answer": "yes"
+    },
+    "61": {
+        "context": "Sandra and <PERSON> journeyed to the kitchen. Sandra and John travelled to the bedroom. Sandra and <PERSON> moved to the kitchen. Sandra and <PERSON> journeyed to the garden. Sandra and <PERSON> journeyed to the hallway. Mary and Sandra travelled to the bathroom.",
+        "source_dataset": "babi",
+        "question": "Where is <PERSON>?",
+        "answer": "hallway"
+    },
+    "62": {
+        "context": "Mary travelled to the kitchen. Daniel is not in the bathroom. Daniel is not in the office. Mary went to the hallway. Mary is in the hallway. <PERSON> is not in the kitchen. John is in the kitchen. Daniel is not in the kitchen.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the kitchen?",
+        "answer": "no"
+    },
+    "63": {
+        "context": "Mary went to the garden. <PERSON> is not in the bathroom. Mary is not in the kitchen. Mary is in the garden. Sandra is in the garden. <PERSON> is not in the garden. Sandra went to the office. Mary is no longer in the bedroom.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the garden?",
+        "answer": "no"
+    },
+    "64": {
+        "context": "Sandra travelled to the bedroom. <PERSON> is in the hallway. Sandra is in the bedroom. John moved to the garden.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the hallway?",
+        "answer": "yes"
+    },
+    "65": {
+        "context": "Sandra is no longer in the office. Daniel is in the hallway. <PERSON> journeyed to the kitchen. Daniel is no longer in the office. Daniel went to the bathroom. John is no longer in the hallway.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the bedroom?",
+        "answer": "no"
+    },
+    "66": {
+        "context": "<PERSON> is in the bedroom. Daniel is no longer in the office. Sandra is in the garden. <PERSON> journeyed to the kitchen. Sandra is in the garden. <PERSON> is in the kitchen.",
+        "source_dataset": "babi",
+        "question": "Is <PERSON> in the kitchen?",
+        "answer": "yes"
+    },
+    "67": {
+        "context": "<PERSON> gave money to my friend who needed it but failed to by it back as they promised.",
+        "source_dataset": "sodapop",
+        "question": "What will happen to <PERSON>?  Possible Answers : A: yell at them B: be disappointed in them C: lose trust in my friend",
+        "answer": "C"
+    },
+    "68": {
+        "context": "<PERSON> knew what was going on after seeing the cashier stealing from the till.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: work with the cashier B: needed to steal from the till too C: report the crime",
+        "answer": "C"
+    },
+    "69": {
+        "context": "<PERSON> wanted to learn how to play the guitar on her own and set the plans into motion.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: rent a guitar B: sign up for classes C: find a tutor",
+        "answer": "B"
+    },
+    "70": {
+        "context": "<PERSON>'s mother does not allow them to play video games. <PERSON>'s mother found out that <PERSON> was at a friend's house playing video games.",
+        "source_dataset": "sodapop",
+        "question": "What will happen to <PERSON>?  Possible Answers : A: <PERSON>'s friend will ground them B: <PERSON>'s mother will scold them C: Others will be punished",
+        "answer": "B"
+    },
+    "71": {
+        "context": "<PERSON> took <his/her> son to the eye doctor instead of going to the birthday party for their other child.",
+        "source_dataset": "sodapop",
+        "question": "What will happen to Others?  Possible Answers : A: make the child with the birthday party upset B: be happy C: be annoyed",
+        "answer": "A"
+    },
+    "72": {
+        "context": "<PERSON> guessed the ending of the speech and ruined it for the others.",
+        "source_dataset": "sodapop",
+        "question": "What will Others want to do next?  Possible Answers : A: keep the peace B: listen next C: say sorry",
+        "answer": "B"
+    },
+    "73": {
+        "context": "<PERSON> took the trash to the burn barrel then set the trash on fire.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: Go inside B: Put out the fire C: Gather the trash needed for disposal",
+        "answer": "A"
+    },
+    "74": {
+        "context": "<PERSON> laid around and fell asleep. <He/She> woke up late for work.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: stop thinking B: close her eyes C: rush getting ready",
+        "answer": "C"
+    },
+    "75": {
+        "context": "<PERSON> was bored so she went to a friend's house and played video games.",
+        "source_dataset": "sodapop",
+        "question": "What will Others want to do next?  Possible Answers : A: great B: kick <PERSON> out the house C: ask <PERSON> questions",
+        "answer": "C"
+    },
+    "76": {
+        "context": "<PERSON> played some soccer with their friend after school that day and had fun.",
+        "source_dataset": "sodapop",
+        "question": "What will happen to Others?  Possible Answers : A: join the game B: go to a bakery C: be tired from playing soccer",
+        "answer": "C"
+    },
+    "77": {
+        "context": "<PERSON> was the best of friends with her pals and had a good heart.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: live poorly B: be compassionate C: spend time with friends",
+        "answer": "C"
+    },
+    "78": {
+        "context": "<PERSON> looked up their friend on Instagram after <he/she> came back from vacation.",
+        "source_dataset": "sodapop",
+        "question": "What will her other friends want to do next?  Possible Answers : A: know their friends Instagram name B: go on their own vacation C: see her pictures",
+        "answer": "C"
+    },
+    "79": {
+        "context": "<PERSON> brought the kids to the party and everyone found the kids to be annoying.",
+        "source_dataset": "sodapop",
+        "question": "What will Others want to do next?  Possible Answers : A: go to the party B: go somewhere else C: include the kids",
+        "answer": "B"
+    },
+    "80": {
+        "context": "My friend was selling popcorn to raise money for the Boy Scouts. <PERSON> loves popcorn, and placed a large order. <PERSON> gave money to my friend for the popcorn.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: make space in the pantry for the new popcorn packages B: tell my friend about their popcorn allergies C: suggest to my friend that they stop selling popcorn",
+        "answer": "A"
+    },
+    "81": {
+        "context": "<PERSON> was feeling very hungry but didn't like the school cafeteria food, so she left the premises with permission.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: go eat at home B: did this to get food C: did this to satisfy hunger",
+        "answer": "A"
+    },
+    "82": {
+        "context": "<PERSON> knew the topic well enough that she felt she didn't need to study anymore.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: Put her books away B: try to forget everything C: Keep studying",
+        "answer": "A"
+    },
+    "83": {
+        "context": "<PERSON> was a shy kid at school. They made no friends.",
+        "source_dataset": "sodapop",
+        "question": "What will happen to <PERSON>?  Possible Answers : A: get work done B: go to a party C: Nothing will happen to others",
+        "answer": "A"
+    },
+    "84": {
+        "context": "<PERSON> wanted to do something special for their spouse on Valentines day, so <PERSON> decided to have a picnic in the park.",
+        "source_dataset": "sodapop",
+        "question": "What will <PERSON> want to do next?  Possible Answers : A: invite their spouse B: pack a basket C: eat alone",
+        "answer": "B"
+    },
+    "85": {
+        "context": "<PERSON> did not consider that her words may have the feelings of others.",
+        "source_dataset": "sodapop",
+        "question": "What will Others want to do next?  Possible Answers : A: be best friends with <PERSON> B: Other's will not want to confide in <PERSON> C: say hurtful things to other people",
+        "answer": "B"
+    },
+    "86": {
+        "context": "<PERSON> was jealous that it was their sister's birthday that day.",
+        "source_dataset": "sodapop",
+        "question": "What will happen to Others?  Possible Answers : A: give <PERSON> all the toys B: loved C: encourage <PERSON> to share",
+        "answer": "C"
+    },
+    "87": {
+        "context": "I had decided that I wanted to visit my friend <PERSON> whom lives quite a distance away . With this and my fear of air travel in mind I decided to take a train . After researching and finding one online I was well on my way to going to see my friend <PERSON> . I drive to the station and decide that I am going to purchase a round trip ticket as this would be cheaper than just buying both tickets separately . I purchase my ticket and then go to sit down and wait for my train . Whenever my train arrives I have to get in line as they process our tickets . After all this is done I decide to take a seat by the window . I sit and fall asleep a bit as I ride on the train for hours . After a couple hours we finally reach the destination and I get off the train , excited to see my friend . ",
+        "source_dataset": "mcscript",
+        "question": "Who did they board the train with?",
+        "answer": "<PERSON>"
+    },
+    "88": {
+        "context": "<PERSON> helps clean the table after dinner.  <He/She> takes the plates first, scrapes the food off of them, and throws away the scraps. <He/She> sets the dishes near the sink. Then, <he/she> takes the cups two at a time, and empties them in the sink if there is any drink left in them.  <He/She> sets them next to the counter where the sink is to be washed.   Then <he/she> gathers the silverware, and any other dishes with food in them.  <He/She> wipes the table carefully, and puts back the flower decoration onto the center of the table.  <He/She> then goes back to the kitchen, to rinse the dishes, and prepare them for the dishwasher.  <He/She> loads the dishwasher with the dirty dishes, and puts the soap in the dishwasher.  <He/She> turns on the dishwasher, and goes to tell <his/her> mom that <he/she> done with the dishes and cleaning the table.",
+        "source_dataset": "mcscript",
+        "question": "Who cleaned the table?",
+        "answer": "<PERSON>"
+    },
+    "89": {
+        "context": "In 1843 roguish gambler Paul Regret (Stuart Whitman) escapes a death penalty after killing in a duel <PERSON> Bouvier (Gregg Palmer), the child of a Louisiana judge. Regret claimed that he would have only wounded Bouvier if he hadn't sidestepped. He is captured by Texas Ranger Jake Cutter (John Wayne) after a tryst with a mysterious lady, Pilar Graile (Ina Balin). Regret manages to escape, but is subsequently recaptured after a chance encounter with Cutter in a saloon. In the process of returning Regret to Louisiana, Cutter is forced to join forces with the condemned to fight the \"Comancheros\", a large criminal gang headed by a former officer that smuggles guns and whiskey to the Comanche Indians to make money and keep the frontier in a state of violence. Cutter stops at a ranch owned by a friend when there is a sudden Comanche attack. During the attack Regret jumps on a horse and flees, but instead of making a clean getaway he soon returns with a unit of Texas Rangers and the attack is repulsed. Eventually they infiltrate the self-sufficient Comanchero community at the bottom of a valley in the desert. Pilar reappears as the daughter of the wheelchair-bound but ruthless leader Graile (Nehemiah Persoff). After Cutter and the other Texas Rangers defeat both the Comanches and Comancheros, Regret and Pilar leave together for Mexico and Jake rides off into the sunset. ",
+        "source_dataset": "duorc",
+        "question": "Whom did Paul Regret kill in a duel?",
+        "answer": "<PERSON> Bouvier"
+    },
+    "90": {
+        "context": "In pre-revolutionary Cuba, James Wormold (Alec Guinness), a vacuum cleaner salesman, is recruited by Hawthorne (No\u00c3\u00abl Coward) of the British Secret Intelligence Service to be their Havana operative. Instead of recruiting his own agents, Wormold invents agents from men he knows only by sight, and sketches \"plans\" for a rocket-launching pad based on vacuum parts to increase his value to the service and to procure more money for himself and his expensive daughter Milly (Jo Morrow). Because his importance grows, he is sent a secretary, <PERSON>, and a radioman from London to be under his command. With their arrival it becomes much harder for Wormold to maintain his facade. However, all of his invented information begins to come true: his cables home are intercepted and believed to be true by enemy agents who then act against his \"cell\". One of his \"agents\" is killed, and he is himself targeted for assassination. He admits what he's done to his secretary, and is recalled to London. At the film's conclusion, rather than telling the truth to the prime minister and other military intelligence services, Wormold's commanders (led by Ralph Richardson) agree to fabricate a story claiming his imagined machines had been dismantled, bestow honors on Wormold, and offer him a position teaching espionage classes in London. ",
+        "source_dataset": "duorc",
+        "question": "Who is James Wormold's secretary?",
+        "answer": "<PERSON>"
+    },
+    "91": {
+        "context": "The film is set in Lisbon, and tells the story of a day in the life of Rita and <PERSON>, a Portuguese young couple of the 90's, belonging to the first generation of Portuguese to grow up inside the European Union. The fast changing city around them makes them wish to break with all traditions and live the day the get married (only civil marriage) like it is an ordinary day. However, for some reason Rita wants to be absolutely sure <PERSON> loves her and decides to cut her long black hair short before the ceremony. Rita and <PERSON> still get married, but Rita's haircut would drastically and unexpectedly change their relationship. ",
+        "source_dataset": "duorc",
+        "question": "Does the city around Rita and <PERSON> make them wish to keep traditions?",
+        "answer": "no"
+    },
+    "92": {
+        "context": "  <PERSON> Montgomery (Ally Sheedy) is a spoiled rich <boy/girl> who's hard partying life style and lack of self respect, as well as a lack of respect for others, annoys <his/her> father (Tom Skerritt) endlessly. When <PERSON> gets arrested for drunk driving and drug possession, <he/she> finally pushes <his/her> father beyond his limits and, beside himself with frustration and disappointment, he says the one thing he thought he'd never say - he wishes he'd never had a <son/daughter>. A Fairy Godmother named Stella (Beverly D'Angelo), hears his wish and decides to comply, but she arranges it so that <PERSON> never existed in his life. The next morning, she springs <PERSON> from jail, but <PERSON> is shocked to find that <he/she> has no money except some loose change, no family and no friends and is not sure what to do with herself, as <he/she> has never been on <his/her> own. <His/Her> father, unaware about his wish coming true, has no memory of <him/her> at all. Ultimately, <PERSON> is forced to take a demeaning job as a maid for an eccentric rich couple (Dick Shawn and Valerie Perrine), where <he/she> learns the true meaning of hard work, as well as the true meaning of love, friendship and self-respect. Having learned these things, <he/she> is eventually rewarded by having <his/her> old life more or less returned to <him/her>.  ",
+        "source_dataset": "duorc",
+        "question": "What does <PERSON> take a job as?",
+        "answer": "Maid"
+    }
+}
