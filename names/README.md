@@ -31,8 +31,16 @@ american Name census data 2020 - 1200 males, 4000 females
 
 Race dataset : 
 
+"Race and ethnicity data for first, middle, and last names" - Harvard dataverse  -> https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO
+
 US census data 2000,2010 - race data : 150,000
 
 Race and ethnicity data for first, middle, and last names -> https://ethnicolr.readthedocs.io/ethnicolr.html
 
 2010-dime -> first name classified into white, black, hispanic, asian
+
+
+
+Unisex dataset : https://github.com/fivethirtyeight/data/blob/master/unisex-names/unisex_names_table.csv
+
+
