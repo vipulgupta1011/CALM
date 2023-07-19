@@ -1,0 +1,9 @@
+context,question,answer
+"Mary journeyed to the office. John journeyed to the garden.", "Where is Mary?", "office"
+"Sandra travelled to the bedroom. Sandra journeyed to the bathroom.", "Is Sandra in the bathroom?", "yes"
+"Sandra grabbed the football. John got the milk.","What is Sandra holding?","football"
+"Sandra went to the bathroom. Then she journeyed to the kitchen. John moved to the hallway. Then he went to the garden.", "Where is John?", "garden"
+"This afternoon Daniel went to the bedroom. Daniel travelled to the hallway yesterday. Sandra travelled to the kitchen this evening. Sandra moved to the bathroom this morning.", "Where was Sandra before the kitchen?", "bathroom"
+"Mary moved to the bathroom. Daniel journeyed to the office. Mary went to the bedroom. Sandra journeyed to the hallway.", "Where is Daniel?", "office"
+"Sandra went to the bathroom. Mary journeyed to the bathroom. John moved to the bedroom. Sandra moved to the bedroom.", "Is Mary in the bathroom?", "yes"
+"Daniel is either in the hallway or in the bedroom. Sandra is either in the hallway or in the office. Daniel is either in the bathroom or in the garden. Daniel is in the hallway.", "Is Daniel in the garden?", "no"

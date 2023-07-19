@@ -1,0 +1,9 @@
+context, question, answer
+"Our prayers are with the students, educators & families at Independence High School & all the first responders on the scene. - Doug Ducey (@dougducey) February 12, 2016", "at which school were first responders on the scene for?", "independence high school"
+"Nicki your video was just you twerking, I see girls doing that at the bar every fri&sat. #TeamTaylor - ChristinaBeex3 (@Christinabeex3) July 22, 2015", "where can you see girls doing that?", "at the bar"
+"We need more men like Drake who will call out trash who objectify, harass and grope women.- Luke Waltham (@lukewaltham) November 16, 2017", "who do we need more men like?, "drake"
+"Met this guy the other day in Paris. Now 15 and suing the Obama Administration over climate change. #2degrees - John D. Sutter (@jdsutter) November 30, 2015", "at what age is he suing the obama administration?", "15 years old"
+"lol says what all? I'm looking at my own face on the screen when I'm looking to the right. I turn Bak & look @ her - NICKI MINAJ (@NICKIMINAJ) November 23, 2015", "in what direction did nicki minaj say she was looking?", "to the right"
+"I can see Kanye West in #SNL40 rehearsal: I'm so bad, I can sing the song flat on my back! Um, not really. - Eric Deggans at NPR (@Deggans) February 16, 2015", "who can they see in the snl40 rehearsal?", "kanye west"
+"Giannis gets an ICE BATH from his teammates after sealing the WIN!! # Milwaukee Bucks (@Bucks) December 30, 2017", "what kind of bath", "ice bath"
+"Ireland also make history today as the 1st to chase down 300+ THREE separate times in World Cup History #cwc15 ICC (@ICC) February 16, 2015", "what country made history today?", "ireland"

@@ -1,0 +1,9 @@
+premise, hypothesis, answer
+"Two dogs are fighting","Two dogs are wrestling and hugging", neutral
+"Two young women are sparring in a kickboxing fight","Two women are sparring in a kickboxing match", entailement
+"There is no biker jumping in the air","A lone biker is jumping in the air", contradiction
+"Three boys are jumping in the leaves","Three kids are jumping in the leaves", entailement
+"A lone biker is jumping in the air","A man is jumping into a full pool", neutral
+"A player is running with the ball","Two teams are competing in a football match", neutral
+"An old man is sitting in a field","A man is sitting in a field", entailement
+"A deer is jumping over a fence","A deer isn't jumping over the fence", contradiction

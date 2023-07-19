@@ -1,0 +1,10 @@
+context, question, answer
+"Liam had his whole life in front of him, said Detective Inspector Andy Logan, who was the senior investigator of his murder.", "Who was Detective Logan speaking about?", "Liam"
+"In Germany publishers willingly forfeited their right to payment from Google, given how much traffic they would lose from not being indexed on Google News.", "Where aren't they indexed?", "Google News"
+"He was 57 and had terminal lung cancer.", "What was in the lung?", "cancer"
+"In languages accented on one of the last three syllables, the last syllable is called the ultima, the next-to-last is called the penult, and the third syllable from the end is called the antepenult.", " What is the third syllable from the end called?", "antepenult"
+"Griffin was BNP chairman until July, when he quit the role and became honorary president; acting chairman Adam Walker took his place.", "Who was Chairman?", "Griffin"
+"A passenger train is one which includes passenger-carrying vehicles which can often be very long and fast.", "What can be very fast?", "A passenger train"
+"Through research and studying the consumers' lives the needs of the customer can be obtained and help fashion brands know what trends the consumers are ready for.", "What is being helped?", "fashion brands"
+"Russia also said the exercises were to include an array of fighters, bombers and helicopters, and told Interfax the purpose of the exercises is to improve air force cohesion.", "Which military branch took part in the exercises?", "air force"
+

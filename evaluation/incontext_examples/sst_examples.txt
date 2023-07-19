@@ -1,0 +1,9 @@
+sentence, answer
+"Yet the act is still charming here.", positive
+"This is not a new idea.", negative
+"Dramas like this make it human.", positive
+"An absurdist spider web." , negative
+"You will probably love it.", positive
+"Some movies blend together as they become distant memories." , negative
+"The actors are fantastic.", positive
+"Imperfect?" , negative

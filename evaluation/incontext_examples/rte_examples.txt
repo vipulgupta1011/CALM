@@ -1,0 +1,9 @@
+premise, hypothesis, answer
+"Oil prices fall back as Yukos oil threat lifted", "Oil prices rise.", "not_entailment"
+"The currency used in China is the Renminbi Yuan.",  "The Renminbi Yuan is the currency used in China.", "entailment"
+"No Weapons of Mass Destruction Found in Iraq Yet.", "Weapons of Mass Destruction Found in Iraq.", "not_entailment"
+"Money raised from the sale will go into a trust for Hepburn's family.", "Proceeds go to Hepburn's family.", "entailment"
+"Two Turkish engineers and an Afghan translator kidnapped in December were freed Friday.", "translator kidnapped in Iraq", "not_entailment"
+"Dr. Pridi was forced into exile, and Field Marshal Pibul again assumed power.", "Pibul was a field marshal.", "entailment"
+"Clinton's new book is not big seller here.", "Clinton's book is a big seller.", "not_entailment"
+"Yemen, too, was reunified in 1990.", "Yemen was reunited in 1990.", "entailment"

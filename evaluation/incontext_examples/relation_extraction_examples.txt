@@ -1,0 +1,9 @@
+context, question, answer
+"Paragagrellina legendrei is a species of harvestmen in a monotypic genus in the family Sclerosomatidae.", "Which was the family of Paragagrellina?", "Sclerosomatidae"
+"Christians & Lions is a band based out of Jamaica Plain and has been a notable part of the Boston DIY scene.", "What city was Christians & Lions formed in?", "Jamaica Plain"
+"Once the number of monks had increased and the future of the community was assured Landelin resigned as abbot, in order to dedicate his life to the practice of austerities.", "Which position was held by Landelin?", "abbot"
+"The Schermerhorn-Drees cabinet was in office in the Netherlands from 24 June 1945 until 3 July 1946.", "On what date did Schermerhorn-Drees cabinet end?", "1946"
+"Du glucose pour Noémie, written and drawn by Fournier, is the twentyfirst album of the Spirou et Fantasio series, and the author's second, following the Spirou retirement of André Franquin.", "The Du glucose pour Noémie has what character?", "Fantasio"
+"Newport-on-Tay is a small town in the north-east of Fife in Scotland, acting as a commuter suburb for Dundee.", "What state is Newport-on-Tay located?", "Fife"
+"Headquartered in Atlanta, Sharecare was founded in 2010 by Jeff Arnold (founder of WebMD) and Dr. Mehmet Oz, in partnership with Harpo Studios, Sony Pictures Television and Discovery Communications.", "What is the name of the founder of Sharecare?", "Mehmet Oz"
+"Norbert Hummelt (born in 1962 in Neuss) is a German poet, essayist and translator.", "In what city was Norbert Hummelt born?", "Neuss"

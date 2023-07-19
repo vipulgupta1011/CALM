@@ -1,0 +1,9 @@
+premise, hypothesis, answer
+"I stuck a pin through a carrot. When I pulled the pin out, it had a hole.", "The carrot had a hole.", entailment
+"Steve follows Fred's example in everything. He influences him hugely.","Steve influences him hugely.", not_entailment
+"I couldn't put the pot on the shelf because it was too tall.","The pot was too tall".entailment
+"The table won't fit through the doorway because it is too narrow.","The table is too narrow.", not_entailment
+"I put the cake away in the refrigerator. It has a lot of butter in it.", "The cake has a lot of butter in it.", entailment
+"Jane knocked on Susan's door but she did not get an answer.", "Susan did not get an answer.", not_entailment
+"Paul tried to call George on the phone, but he wasn't successful.", "Paul wasn't successful.", entailment
+"I put the butterfly wing on the table and it broke.", "The table broke.", not_entailment
