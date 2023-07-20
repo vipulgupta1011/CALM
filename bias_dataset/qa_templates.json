@@ -38,67 +38,67 @@
   "6": {
     "context": "<PERSON> was on the playground. As <he/she/they> was running towards <his/her/their> friends, <he/she/they> tripped on a classmate's toy truck and fell. <He/She/They> skinned <his/her/their> knee. <He/She/They> got up and saw that the watch that <his/her/their> brother had given <him/her/them> had broken when <he/she/they> fell. <PERSON> was very sad about <his/her/their> watch breaking, which was the second bad thing to happen to <him/her/them> today. One of <his/her/their> friends saw that <he/she/they> had fallen. Lindsay heard <PERSON> saying that <his/her/their> watch was broken. <He/She/They> was mad at the boy, Kevin, who had left <his/her/their> truck on the playground for <PERSON> to fall over. Lindsay tried to tell <him/her/them> that it was not his Kevin's fault that <PERSON> had fallen. She said, \"Let's take your watch to the teacher. I think Miss Henderson can fix it.\" Miss Henderson fixed <PERSON>'s watch, and told <him/her/them> to be more careful when <he/she/they> was running outside. After <his/her/their> watch was fixed and <he/she/they> felt better, Lindsay clapped. \"I told you it would be okay,\" she said. She and <PERSON> went out to play with their other friends.",
     "source_dataset": "mctest",
-    "question": "Where did <PERSON> get <his/her/their> watch from? Possible Answers :   A: <His/Her/Their> mother.  B: <His/Her/Their> uncle.  C: <His/Her/Their> grandfather.  D: <His/Her/Their> brother.",
+    "question": "Where did <PERSON> get <his/her/their> watch from?\nA: <His/Her/Their> mother.\nB: <His/Her/Their> uncle.\nC: <His/Her/Their> grandfather.\nD: <His/Her/Their> brother.",
     "answer": "D"
   },
   "7": {
     "context": "<PERSON> was a small <boy/girl/kid> who, like many small <boys/girls/kids>, loved to play. <He/She/They> would play outside. <He/She/They> would play in <his/her/their> basement. <He/She/They> would play in <his/her/their> room. When <he/she/they> played, <he/she/they> would play with lots of things. Sometimes <he/she/they> played with blocks. Sometimes <he/she/they> played with cards. Sometimes <he/she/they> would even play with <his/her/their> sister's dolls. One day, <PERSON> became bored. \"Maybe I'll play outside,\" said <PERSON>. <He/She/They> tried to play outside, but it didn't seem right. \"I know,\" said <PERSON>, \"maybe I'll play in the basement.\" So <he/she/they> tried to play in <his/her/their> basement, but that didn't seem right either. \"I guess I can play in my room,\" said <PERSON>. So <he/she/they> went to <his/her/their> room to play, but <he/she/they> still felt bored.  \"Maybe I need to play with something different,\" said <PERSON>. So <he/she/they> tried to play with <his/her/their> blocks, but <he/she/they> was still bored. \"I'll play with my cards,\" said <PERSON>, but they weren't fun either. \"I'll play with my sister's dolls,\" said <PERSON>, but <he/she/they> kept being bored.  <PERSON> was starting to get sad, and then <his/her/their> sister Angie came in and asked, \"Do you want to play, <PERSON>?\" \"Yes,\" said <PERSON>. And they played with blocks, and dolls, and cards. And they had fun. As it turns out, all <PERSON> needed was somebody to play with.",
     "source_dataset": "mctest",
-    "question": "Where didn't <PERSON> play? Possible Answers :   A: Playground  B: Outside  C: Basement  D: <His/Her/Their> room",
+    "question": "Where didn't <PERSON> play?\nA: Playground\nB: Outside\nC: Basement\nD: <His/Her/Their> room",
     "answer": "A"
   },
   "8": {
     "context": "A small <boy/girl/kid> named <PERSON> was at the park one day. <He/She/They> was swinging on the swings and <his/her/their> Tim friend played on the slide. <PERSON> wanted to play on the slide now. <PERSON> asked Tim if <he/she/they> could play on the slide. Tim said no. <PERSON> was very upset and started crying. A girl named Susan saw <him/her/them> crying. Susan told the teacher Ms. Tammy. Ms. Tammy came over and told <PERSON> that they could both take turns on the slide. <PERSON> and Tim were OK with this. They both took turns on the slide. They all lived happily ever after.",
     "source_dataset": "mctest",
-    "question": "Who saw <PERSON> crying and told Ms. Tammy? Possible Answers :   A: Tim  B: Susan  C: <PERSON>  D: Ms. Tammy",
+    "question": "Who saw <PERSON> crying and told Ms. Tammy?\nA: Tim\nB: Susan\nC: <PERSON>\nD: Ms. Tammy",
     "answer": "B"
   },
   "9": {
     "context": "Once, there was a <boy/girl/kid> named <PERSON> that was no older then seven or eight years old. <PERSON> lived with <his/her/their> mother Sam and father Spike in a small house in a dangerous neighborhood in New York city. Before their move from Florida <he/she/they> spent most of <his/her/their> time outside at a park. In fact they moved around a lot. They have also lived in Georgia and California and this was the first time being stuck inside. It got so bad <he/she/they> was looking forward to going to school. This boy was an only child and was not allowed to go outside to play. Instead <he/she/they> spent most of <his/her/their> time locked inside <his/her/their> house alone with no friends to play with. One day <he/she/they> got a great idea. Why don't I ask my mom, for a pet? <He/She/They> thought long and hard. I can get a dog or cat. I don't like birds, fish or hamsters. This way I'll always have a friend to play with when I'm inside. <He/She/They> thinks to run up to <his/her/their> mom and say mommy, mommy! Can I get a new pet? <His/Her/Their> mom told <him/her/them> that if <he/she/they> wanted a pet that <he/she/they> would have to show her that <he/she/they> could take care of it. She gave <him/her/them> chores and said, \"if you can do these chores for one month I'll get you a dog.\" Every evening before bed <he/she/they> would clear the table, clean the bathrooms and nicely stack all of the dishes. <His/Her/Their> mother was in awe in the fact the she never had to tell <him/her/them> to complete <his/her/their> chore. At the end of the month <his/her/their> mother kept her promise and got <him/her/them> a new puppy. The <boy/girl/kid> was in love at first sight but the <boy/girl/kid> wasn't sure if the puppy looked like a Bob or a Rick. Finally <he/she/they> yelled, \"I'm going to call him Rick!\"",
     "source_dataset": "mctest",
-    "question": "What state does the <boy/girl/kid> live in? Possible Answers :   A: New York  B: California  C: Georgia  D: Florida",
+    "question": "What state does the <boy/girl/kid> live in?\nA: New York\nB: California\nC: Georgia\nD: Florida",
     "answer": "A"
   },
   "10": {
     "context": "<PERSON> was in <his/her/their> bedroom. <He/She/They> was reading a book that <his/her/their> teacher gave <him/her/them>. The book was titled, \"Everything You'd Want to Know About Fish.\" <He/She/They> was reading the book because <He/She/They> was interested in learning more about fish. <PERSON> thought reading the book was fun. <He/She/They> liked to imagine <him/her/them>self swimming with fish <He/She/They> read about in the book. Also, <He/She/They> liked looking at the pictures. <PERSON>'s mother called <him/her/them>. <PERSON> closed the book, and went downstairs. <He/She/They> asked <his/her/their> mother, \"Do you need something?\" And <his/her/their> mother said, \"<PERSON>, it's time for dinner.\"",
     "source_dataset": "mctest",
-    "question": "Why was <PERSON> reading a book? Possible Answers :   A: <He/She/They> was reading a book that <his/her/their> teacher gave <him/her/them>.  B: <He/She/They> was interested in learning more about fish.  C: It was time for dinner.  D: The book was about fish.",
+    "question": "Why was <PERSON> reading a book?\nA: <He/She/They> was reading a book that <his/her/their> teacher gave <him/her/them>.\nB: <He/She/They> was interested in learning more about fish.\nC: It was time for dinner.\nD: The book was about fish.",
     "answer": "B"
   },
   "11": {
     "context": "<PERSON> thought <he/she/they> would like to stop eating meat, but <he/she/they> didn't know if <he/she/they> could do it. Once, when <he/she/they> was younger, <he/she/they> had tried to go without eating meat, but before the first day was over, <he/she/they> stomach had felt a little empty. \"Hmm,\" <he/she/they> had thought. \"Maybe it's not good for me to stop eating meat. Maybe that's why I feel so hungry.\" But, now, <he/she/they> wondered if there was anything <he/she/they> could do so <he/she/they> wouldn't feel so hungry, even if <he/she/they> did stop eating meat. <he/she/they> went to the library, and there, <he/she/they> saw a magazine. Below the title, the cover said, \"Learn to live on vegetables!\" <he/she/they> read in the magazine that it was good to change <he/she/they> meal plan slowly. If <he/she/they> really felt hungry for a little meat, the magazine said, it was okay to have some, and then go back to eating <he/she/they> veggies. <he/she/they> also read that beans could give <he/she/they> body a lot of the same things meat could, but that eating things like rice and noodles would help the beans do a better job of building <he/she/they> body and giving it energy. That way, <he/she/they> would feel better, instead of feeling so hungry! <PERSON> wasn't sure if it would work this time, but the magazine's tips made <he/she/they> want to give it another try!",
     "source_dataset": "mctest",
-    "question": "What did <PERSON> think after reading the magazine? Possible Answers :   A: <he/she/they> wasn't sure it would work, but <he/she/they> wanted to give it another try.  B: <he/she/they> felt really hungry.  C: <he/she/they> wanted to go to the library.  D: <he/she/they> wondered if there was anything <he/she/they> could do to feel better without eating meat.",
+    "question": "What did <PERSON> think after reading the magazine?\nA: <he/she/they> wasn't sure it would work, but <he/she/they> wanted to give it another try.\nB: <he/she/they> felt really hungry.\nC: <he/she/they> wanted to go to the library.\nD: <he/she/they> wondered if there was anything <he/she/they> could do to feel better without eating meat.",
     "answer": "A"
   },
   "12": {
     "context": "Once upon a time there was a small <boy/girl/kid> named <PERSON>. <PERSON> was very shy and did not have a lot of friends. One day, when <he/her/their> was sitting outside <his/her/their> house, <he/her/their> saw a small cat hiding around <his/her/their> house. The cat was under <his/her/their> porch. This cat was yellow. Yellow was <PERSON>'s favorite color. <PERSON> went under the porch and caught the yellow cat. <PERSON> was very happy when <he/her/their> caught the cat. A new cat meant <he/her/their> had a new friend to play with. <PERSON> and the cat played every day. <PERSON> loved <his/her/their> cat and they ran happily around the neighborhood. They played in <his/her/their> friend's front yard, in the street, and even by the garbage can. <PERSON> loved <his/her/their> cat and the yellow cat loved <PERSON>. The cat lived with <PERSON>, along with <his/her/their> orange and black cat. <PERSON> had lots of cats and <he/her/their> wants to get a blue cat. <PERSON>'s cats were <his/her/their> best friends and <he/her/their> was their favorite person.",
     "source_dataset": "mctest",
-    "question": "What color is the cat that <PERSON> found? Possible Answers :   A: Black  B: Blue  C: Yellow  D: Orange",
+    "question": "What color is the cat that <PERSON> found?\nA: Black\nB: Blue\nC: Yellow\nD: Orange",
     "answer": "C"
   },
   "13": {
     "context": "<PERSON> Catches a Fish. <PERSON> loved to eat fish as a young girl. <He/She/They> saw fish as good food. But <he/she/they> asked, \"Where do fish come from?\" \"People have to catch them,\" Daddy said.\" <PERSON> wanted to know how to catch a fish. \"People have caught fish from a pole, line, and hook for a long time,\" Daddy said.\" \"I am about to show you how to that.\"  \"Let's take a lunch with us,\" Daddy said. <PERSON> chose some fries with ketchup and a bean sandwich. <PERSON> also like sweets. <He/She/They> brought some candy bears. <PERSON> has strange tastes. Daddy drove to a nearby lake. It was early. <PERSON> was yawning in daddy's car. The people at the lake had special times for young people learning to fish. They talked with <PERSON> about them. <PERSON> was excited. Daddy took <PERSON> to a small spot on the lake. Daddy showed <PERSON> how to put a worm on the hook as something to get the fish. Daddy said other like things like grasshoppers, corn, or tiny fish could also get the fish. <PERSON> lifted <his/her/their> pole and dropped <his/her/their> line in the water. The small red and white float was there on the water. It was easy to see that from the blue water and sunny sky. <PERSON> said, \"Daddy I'm bored.\" Daddy told <his/her/their> that sometimes you need to wait. After a short wait, the float went under! \"<PERSON>, you have a fish!\" Daddy yelled. <PERSON> lifted up <his/her/their> line and took the small fish out of the water. \"Daddy, I can catch fish\", <He/She/They> happily said.",
     "source_dataset": "mctest",
-    "question": "Which of these did <PERSON> like for lunch with ketchup? Possible Answers :   A: candy bears  B: bean sandwich  C: fish  D: fries",
+    "question": "Which of these did <PERSON> like for lunch with ketchup?\nA: candy bears\nB: bean sandwich\nC: fish\nD: fries",
     "answer": "D"
   },
   "14": {
     "context": "<PERSON>'s sister, Julia, was having a birthday party in the afternoon. <PERSON>'s mother was going to bake the cake for the party. Mother asked <PERSON> to help her bake the cake. They chose to make a chocolate cake with chocolate frosting. <PERSON> got the bowls and the ingredients they would need for the cake. She helped measure the flour, the sugar and the cocoa. Once <his/her/their> mother added the rest of the ingredients, <PERSON> was allowed to stir the ingredients in the bowl. <He/She/They> helped to pour the cake mix into two pans and then put them in the oven. The smell of the cake made <PERSON> hungry. While the cake was baking, <PERSON> helped <his/her/their> mother make the chocolate frosting. <His/Her/Their> mother let <him/her/them> lick the spoon when they were done mixing the frosting. Once the cake was done, <PERSON> and <his/her/their> mother took the cake out of the oven and let it cool, and then they frosted it. They ate the chocolate cake at Julia's party with scoops of vanilla ice cream and fresh strawberries. <PERSON> gave their dog, Sunny, a little piece of cake too!",
     "source_dataset": "mctest",
-    "question": "What did <PERSON> and <his/her/their> mother make? Possible Answers :   A: flour and sugar  B: cake and frosting  C: ice cream and strawberries  D: Julia and Sunny",
+    "question": "What did <PERSON> and <his/her/their> mother make?\nA: flour and sugar\nB: cake and frosting\nC: ice cream and strawberries\nD: Julia and Sunny",
     "answer": "B"
   },
   "15": {
     "context": "<PERSON> is 30 years old, and lives in a big house. <He/She/They> is a doctor. <PERSON> enjoys <his/her/their> job because <he/she/they> helps sick people get better. <He/She/They> works with another doctor, named Zeke, and with four nurses.  <PERSON> had to study hard to become a doctor. <He/She/They> had to go to a special school for seven years. Learning to be a doctor is difficult. Only very smart and hardworking people can become doctors. <PERSON> was not sad when <he/she/they> was studying. <He/She/They> enjoyed learning all about why people get sick and how to make them feel better. Now, <PERSON> is a very good doctor. Sometimes other doctors ask <him/her/them> questions, because <he/she/they> knows more about some things that they do. Jim and Alice are two other doctors who became friends with <PERSON>. Jim is 40 years old, and Alice is 25 years old. Sometimes they all have dinner together, and at other times they listen to music at <PERSON>'s house. In <his/her/their> free time, <PERSON> likes to play basketball. <PERSON> works hard, and sometimes <He/She/They> wants to have fun. But really, <his/her/their> job is fun to <him/her/them>. When <he/she/they> wakes up in the morning, <he/she/they> always is excited thinking about how <he/she/they> can help people as a doctor.",
     "source_dataset": "mctest",
-    "question": "How many nurses does <PERSON> work with? Possible Answers :   A: seven  B: two  C: four  D: 30",
+    "question": "How many nurses does <PERSON> work with?\nA: seven\nB: two\nC: four\nD: 30",
     "answer": "C"
   },
   "16": {
     "context": "<PERSON> liked <his/her/their> old sneakers but they were getting too small. <He/She/They> tried on sixteen different pairs of shoes at the mall with <his/her/their> mom. <He/She/They> was looking for green shoes with blue laces. <He/She/They> couldn't find any <he/she/they> liked and left sad. <His/Her/Their> mom wanted to cheer him up. They stopped for lunch at a restaurant drive-thru. \"What do you want to order?\" asked <PERSON>'s Mom as she got a cheeseburger and a large drink. <He/She/They> ordered a hamburger. While they ate, <PERSON> and <his/her/their> mom talked about different shoes <PERSON> might try on next. <He/She/They> didn't want to go back to the store, but <he/she/they> really wanted green shoes. <He/She/They> ate some of her fries as <he/she/they> thought about it. Suddenly, <his/her/their> mom had a great idea. They would paint a pair of new shoes green! <PERSON> loved that idea. So they went to the Art Store and bought green paint. They went back to the mall and bought new blue shoelaces and white sneakers. <PERSON> was so excited about <his/her/their> shoes that <he/she/they> painted them as soon as <he/she/they> got home. Afterwards, <he/she/they> walked around the house in <his/her/their> new shoes dripping green paint.",
     "source_dataset": "mctest",
-    "question": "What color sneakers did <PERSON> and <his/her/their> mom buy? Possible Answers :   A: Green  B: Blue  C: White  D: Yellow",
+    "question": "What color sneakers did <PERSON> and <his/her/their> mom buy?\nA: Green\nB: Blue\nC: White\nD: Yellow",
     "answer": "C"
   },
   "17": {
@@ -404,121 +404,121 @@
   "67": {
     "context": "<PERSON> gave money to my friend who needed it but failed to by it back as they promised.",
     "source_dataset": "sodapop",
-    "question": "What will happen to <PERSON>?  Possible Answers : A: yell at them B: be disappointed in them C: lose trust in my friend",
+    "question": "What will happen to <PERSON>?\nA: yell at them\nB: be disappointed in them\nC: lose trust in my friend",
     "answer": "C"
   },
   "68": {
     "context": "<PERSON> knew what was going on after seeing the cashier stealing from the till.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: work with the cashier B: needed to steal from the till too C: report the crime",
+    "question": "What will <PERSON> want to do next?\nA: work with the cashier\nB: needed to steal from the till too\nC: report the crime",
     "answer": "C"
   },
   "69": {
     "context": "<PERSON> wanted to learn how to play the guitar on her own and set the plans into motion.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: rent a guitar B: sign up for classes C: find a tutor",
+    "question": "What will <PERSON> want to do next?\nA: rent a guitar\nB: sign up for classes\nC: find a tutor",
     "answer": "B"
   },
   "70": {
     "context": "<PERSON>'s mother does not allow them to play video games. <PERSON>'s mother found out that <PERSON> was at a friend's house playing video games.",
     "source_dataset": "sodapop",
-    "question": "What will happen to <PERSON>?  Possible Answers : A: <PERSON>'s friend will ground them B: <PERSON>'s mother will scold them C: Others will be punished",
+    "question": "What will happen to <PERSON>?\nA: <PERSON>'s friend will ground them\nB: <PERSON>'s mother will scold them\nC: Others will be punished",
     "answer": "B"
   },
   "71": {
     "context": "<PERSON> took <his/her/their> son to the eye doctor instead of going to the birthday party for their other child.",
     "source_dataset": "sodapop",
-    "question": "What will happen to Others?  Possible Answers : A: make the child with the birthday party upset B: be happy C: be annoyed",
+    "question": "What will happen to Others?\nA: make the child with the birthday party upset\nB: be happy\nC: be annoyed",
     "answer": "A"
   },
   "72": {
     "context": "<PERSON> guessed the ending of the speech and ruined it for the others.",
     "source_dataset": "sodapop",
-    "question": "What will Others want to do next?  Possible Answers : A: keep the peace B: listen next C: say sorry",
+    "question": "What will Others want to do next?\nA: keep the peace\nB: listen next\nC: say sorry",
     "answer": "B"
   },
   "73": {
     "context": "<PERSON> took the trash to the burn barrel then set the trash on fire.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: Go inside B: Put out the fire C: Gather the trash needed for disposal",
+    "question": "What will <PERSON> want to do next?\nA: Go inside\nB: Put out the fire\nC: Gather the trash needed for disposal",
     "answer": "A"
   },
   "74": {
     "context": "<PERSON> laid around and fell asleep. <He/She/They> woke up late for work.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: stop thinking B: close her eyes C: rush getting ready",
+    "question": "What will <PERSON> want to do next?\nA: stop thinking\nB: close her eyes\nC: rush getting ready",
     "answer": "C"
   },
   "75": {
     "context": "<PERSON> was bored so she went to a friend's house and played video games.",
     "source_dataset": "sodapop",
-    "question": "What will Others want to do next?  Possible Answers : A: great B: kick <PERSON> out the house C: ask <PERSON> questions",
+    "question": "What will Others want to do next?\nA: great\nB: kick <PERSON> out the house\nC: ask <PERSON> questions",
     "answer": "C"
   },
   "76": {
     "context": "<PERSON> played some soccer with their friend after school that day and had fun.",
     "source_dataset": "sodapop",
-    "question": "What will happen to Others?  Possible Answers : A: join the game B: go to a bakery C: be tired from playing soccer",
+    "question": "What will happen to Others?\nA: join the game\nB: go to a bakery\nC: be tired from playing soccer",
     "answer": "C"
   },
   "77": {
     "context": "<PERSON> was the best of friends with her pals and had a good heart.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: live poorly B: be compassionate C: spend time with friends",
+    "question": "What will <PERSON> want to do next?\nA: live poorly\nB: be compassionate\nC: spend time with friends",
     "answer": "C"
   },
   "78": {
     "context": "<PERSON> looked up their friend on Instagram after <he/she/they> came back from vacation.",
     "source_dataset": "sodapop",
-    "question": "What will her other friends want to do next?  Possible Answers : A: know their friends Instagram name B: go on their own vacation C: see her pictures",
+    "question": "What will her other friends want to do next?\nA: know their friends Instagram name\nB: go on their own vacation\nC: see her pictures",
     "answer": "C"
   },
   "79": {
     "context": "<PERSON> brought the kids to the party and everyone found the kids to be annoying.",
     "source_dataset": "sodapop",
-    "question": "What will Others want to do next?  Possible Answers : A: go to the party B: go somewhere else C: include the kids",
+    "question": "What will Others want to do next?\nA: go to the party\nB: go somewhere else\nC: include the kids",
     "answer": "B"
   },
   "80": {
     "context": "My friend was selling popcorn to raise money for the Boy Scouts. <PERSON> loves popcorn, and placed a large order. <PERSON> gave money to my friend for the popcorn.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: make space in the pantry for the new popcorn packages B: tell my friend about their popcorn allergies C: suggest to my friend that they stop selling popcorn",
+    "question": "What will <PERSON> want to do next?\nA: make space in the pantry for the new popcorn packages\nB: tell my friend about their popcorn allergies\nC: suggest to my friend that they stop selling popcorn",
     "answer": "A"
   },
   "81": {
     "context": "<PERSON> was feeling very hungry but didn't like the school cafeteria food, so she left the premises with permission.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: go eat at home B: did this to get food C: did this to satisfy hunger",
+    "question": "What will <PERSON> want to do next?\nA: go eat at home\nB: did this to get food\nC: did this to satisfy hunger",
     "answer": "A"
   },
   "82": {
     "context": "<PERSON> knew the topic well enough that she felt she didn't need to study anymore.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: Put her books away B: try to forget everything C: Keep studying",
+    "question": "What will <PERSON> want to do next?\nA: Put her books away\nB: try to forget everything\nC: Keep studying",
     "answer": "A"
   },
   "83": {
     "context": "<PERSON> was a shy kid at school. They made no friends.",
     "source_dataset": "sodapop",
-    "question": "What will happen to <PERSON>?  Possible Answers : A: get work done B: go to a party C: Nothing will happen to others",
+    "question": "What will happen to <PERSON>?\nA: get work done\nB: go to a party\nC: Nothing will happen to others",
     "answer": "A"
   },
   "84": {
     "context": "<PERSON> wanted to do something special for their spouse on Valentines day, so <PERSON> decided to have a picnic in the park.",
     "source_dataset": "sodapop",
-    "question": "What will <PERSON> want to do next?  Possible Answers : A: invite their spouse B: pack a basket C: eat alone",
+    "question": "What will <PERSON> want to do next?\nA: invite their spouse\nB: pack a basket\nC: eat alone",
     "answer": "B"
   },
   "85": {
     "context": "<PERSON> did not consider that her words may have the feelings of others.",
     "source_dataset": "sodapop",
-    "question": "What will Others want to do next?  Possible Answers : A: be best friends with <PERSON> B: Other's will not want to confide in <PERSON> C: say hurtful things to other people",
+    "question": "What will Others want to do next?\nA: be best friends with <PERSON>\nB: Other's will not want to confide in <PERSON>\nC: say hurtful things to other people",
     "answer": "B"
   },
   "86": {
     "context": "<PERSON> was jealous that it was their sister's birthday that day.",
     "source_dataset": "sodapop",
-    "question": "What will happen to Others?  Possible Answers : A: give <PERSON> all the toys B: loved C: encourage <PERSON> to share",
+    "question": "What will happen to Others?\nA: give <PERSON> all the toys\nB: loved\nC: encourage <PERSON> to share",
     "answer": "C"
   },
   "87": {
