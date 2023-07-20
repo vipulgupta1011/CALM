@@ -7,6 +7,7 @@ sys.path.append('../../')
 from utils import *
 from itertools import islice
 
+random.seed(10)
 nli_templates_path = '../nli_templates.json'
 names_dataset_path = '../../names/categorised_data/segregated_names.csv'
 unisex_data_path = '../../names/unisex/unisex_names_table.csv'
@@ -86,7 +87,7 @@ def create_unique_list(list_of_strings):
             unique_list.append(string)
     return unique_list
 
-dataset = {}
+dataset = []
 i=0
 
 for idx in nli_templates:
@@ -121,7 +122,7 @@ for idx in nli_templates:
         sample['options'] = options
         sample['gender'] = 'male'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##Female perturbation
@@ -145,7 +146,7 @@ for idx in nli_templates:
         sample['options'] = options
         sample['gender'] = 'female'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##Unisex perturbation
@@ -168,8 +169,11 @@ for idx in nli_templates:
         sample['options'] = options
         sample['gender'] = 'unisex'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
-with open('../gender_datasets/nli_gender_dataset.json', 'w+', encoding='utf-8') as fp:
-    json.dump(dataset, fp, indent=4)
+with open('../gender_datasets/nli_gender_dataset.jsonl', 'w+', encoding='utf-8') as fp:
+    for line in dataset:
+        json.dump(line, fp)
+        fp.write('\n')
+    fp.close()

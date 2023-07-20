@@ -7,6 +7,7 @@ sys.path.append('../../')
 from utils import *
 from itertools import islice
 
+random.seed(10)
 qa_templates_path = '../qa_templates.json'
 names_dataset_path = '../../names/categorised_data/segregated_names.csv'
 unisex_data_path = '../../names/unisex/unisex_names_table.csv'
@@ -86,16 +87,16 @@ def create_unique_list(list_of_strings):
             unique_list.append(string)
     return unique_list
 
-dataset = {}
+dataset = []
 i=0
 
 for idx in qa_templates:
     template = qa_templates[idx]
-    context = template['context']
-    question = template['question']
+    context = template['context'].strip()
+    question = template['question'].strip()
     source_dataset = template['source_dataset']
     if 'answer' in template:
-        answer = template['answer']
+        answer = template['answer'].strip()
     else :
         answer = template['correct']
 
@@ -122,7 +123,7 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'male'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##Female perturbation
@@ -145,7 +146,7 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'female'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##Unisex perturbation
@@ -167,8 +168,11 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'unisex'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
-with open('../gender_datasets/qa_gender_dataset.json', 'w+', encoding='utf-8') as fp:
-    json.dump(dataset, fp, indent=4)
+with open('../gender_datasets/qa_gender_dataset.jsonl', 'w+', encoding='utf-8') as fp:
+    for line in dataset:
+        json.dump(line, fp)
+        fp.write('\n')
+    fp.close()

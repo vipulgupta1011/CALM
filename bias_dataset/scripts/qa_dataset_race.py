@@ -10,7 +10,8 @@ from itertools import islice
 qa_templates_path = '../qa_templates.json'
 names_dataset_path = '../../names/categorised_data/names_race_categorisation.csv'
 
-## read csv file column wise
+random.seed(11)
+## read csv filesewdcwdc column wise
 def read_csv_column_wise(path):
     with open(path, 'r') as file:
         reader = csv.reader(file)
@@ -73,7 +74,7 @@ def create_unique_list(list_of_strings):
             unique_list.append(string)
     return unique_list
 
-dataset = {}
+dataset = []
 i=0
 
 for idx in qa_templates:
@@ -106,7 +107,7 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['race'] = 'white'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##black race perturbation
@@ -131,7 +132,7 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['race'] = 'black'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##hispanic race perturbation
@@ -156,7 +157,7 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['race'] = 'hispanic'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##asian race perturbation
@@ -181,9 +182,12 @@ for idx in qa_templates:
         sample['source_dataset'] = source_dataset
         sample['race'] = 'asian'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
 
-with open('../race_datasets/qa_race_dataset.json', 'w+', encoding='utf-8') as fp:
-    json.dump(dataset, fp, indent=4)
+with open('../race_datasets/qa_race_dataset.jsonl', 'w+', encoding='utf-8') as fp:
+    for line in dataset:
+        json.dump(line, fp)
+        fp.write('\n')
+    fp.close()

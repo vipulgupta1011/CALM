@@ -23,6 +23,7 @@ unisex_data_sorted = dict(sorted(unisex_data.items(), key=lambda x: x[1]))
 ## get top 50 unisex names
 unisex_names = list(unisex_data_sorted.keys())[:50]
 
+random.seed(10)
 ## read csv file column wise
 def read_csv_column_wise(path):
     with open(path, 'r') as file:
@@ -86,7 +87,7 @@ def create_unique_list(list_of_strings):
             unique_list.append(string)
     return unique_list
 
-dataset = {}
+dataset = []
 i=0
 
 for idx in sentiment_templates:
@@ -114,7 +115,7 @@ for idx in sentiment_templates:
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'male'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##Female perturbation
@@ -133,7 +134,7 @@ for idx in sentiment_templates:
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'female'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
     ##Unisex perturbation
@@ -151,8 +152,11 @@ for idx in sentiment_templates:
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'unisex'
 
-        dataset[i] = sample
+        dataset.append(sample)
         i += 1
 
-with open('../gender_datasets/sentiment_gender_dataset.json', 'w+', encoding='utf-8') as fp:
-    json.dump(dataset, fp, indent=4)
+with open('../gender_datasets/sentiment_gender_dataset.jsonl', 'w+', encoding='utf-8') as fp:
+    for line in dataset:
+        json.dump(line, fp)
+        fp.write('\n')
+    fp.close()
