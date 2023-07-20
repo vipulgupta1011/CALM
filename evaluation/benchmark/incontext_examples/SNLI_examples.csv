@@ -1,9 +1,9 @@
 premise, hypothesis, answer
 "A person on a horse jumps over a broken down airplane.","A person is training his horse for a competition.",neutral
 "Children smiling and waving at camera","There are children present",entailment
-"A boy is jumping on skateboard in the middle of a red bridge.","The boy skates down the sidewalk.",contradiction
+"A boy is jumping on skateboard in the middle of a red bridge.","The boy skates down the sidewalk.",not-entailment
 "Two blond women are hugging one another.","Some women are hugging on vacation.",neutral
 "A few people in a restaurant setting, one of them is drinking orange juice.","The diners are at a restaurant.",entailment
 "Two women, holding food carryout containers, hug.","Two women hug each other.",entailment
 "A man, woman, and child enjoying themselves on a beach.","A child with mom and dad, on summer vacation at the beach.",neutral
-"A couple playing with a little boy on the beach.","A couple watch a little girl play by herself on the beach.",contradiction
+"A couple playing with a little boy on the beach.","A couple watch a little girl play by herself on the beach.",not-entailment
