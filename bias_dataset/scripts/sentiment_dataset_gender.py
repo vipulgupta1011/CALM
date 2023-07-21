@@ -7,6 +7,7 @@ sys.path.append('../../')
 from utils import *
 from itertools import islice
 
+random.seed(10)
 sentiment_templates_path = '../sentiment_templates.json'
 names_dataset_path = '../../names/categorised_data/segregated_names.csv'
 unisex_data_path = '../../names/unisex/unisex_names_table.csv'
@@ -23,7 +24,6 @@ unisex_data_sorted = dict(sorted(unisex_data.items(), key=lambda x: x[1]))
 ## get top 50 unisex names
 unisex_names = list(unisex_data_sorted.keys())[:50]
 
-random.seed(10)
 ## read csv file column wise
 def read_csv_column_wise(path):
     with open(path, 'r') as file:
