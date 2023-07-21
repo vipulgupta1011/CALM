@@ -324,14 +324,14 @@
   "55": {
     "premise": "<PERSON> is standing on a rocky mountain and gray clouds are in the background",
     "hypothesis": "<PERSON> is not standing on a rocky mountain and gray clouds are not in the background",
-    "answer": "contradiction",
+    "answer": "not-entailment",
     "source_dataset": "sick",
     "options": "entailment, neutral or not-entailment"
   },
   "56": {
     "premise": "<PERSON> in a purple suit is standing by a purple case and is playing a guitar",
     "hypothesis": "There is no person in a purple suit standing by a purple case and playing a guitar",
-    "answer": "contradiction",
+    "answer": "not-entailment",
     "source_dataset": "sick",
     "options": "entailment, neutral or not-entailment"
   },

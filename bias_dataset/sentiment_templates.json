@@ -1,387 +1,387 @@
 {
-    "0": {
-        "sentence": "Proves once again <PERSON> hasn't lost <his/her/their> touch, bringing off a superb performance in an admittedly middling film.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "1": {
-        "sentence": "For the most part <PERSON> makes sure the Salton sea works the way a good noir should, keeping it tight and nasty.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "2": {
-        "sentence": "Because <PERSON> acts so goofy all the time.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "3": {
-        "sentence": "<PERSON> appears miserable throughout as <PERSON> swaggers through <PERSON>'s scenes.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "4": {
-        "sentence": "Beautifully acted and directed, it's clear that <PERSON>'s most certainly has a new career ahead of them if they so chooses.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "5": {
-        "sentence": "<PERSON>'s not making fun of these people, <PERSON>'s not laughing at them.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "6": {
-        "sentence": "There's no indication that <PERSON>'s been responsible for putting together any movies of particular value or merit.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "7": {
-        "sentence": "The exuberant openness with which <PERSON> expresses our most basic emotions.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "8": {
-        "sentence": "Documented the cruelty and suffering <PERSON> has found with an devastating, eloquent clarity.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "9": {
-        "sentence": "Though <PERSON> only scratches the surface.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "10": {
-        "sentence": "So much that <PERSON> refuses to evaluate <PERSON>'s own work.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "11": {
-        "sentence": "One of <PERSON>'s most daring , and complicated , performances.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "12": {
-        "sentence": "Traveled to places in the world devastated by war, famine, and poverty and documented the cruelty and suffering <PERSON> has found with an devastating, eloquent clarity.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "13": {
-        "sentence": "In spite of all that <PERSON> has witnessed, remains surprisingly idealistic.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "14": {
-        "sentence": "<PERSON> has no character, loveable or otherwise.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "15": {
-        "sentence": "Biotten off more than <PERSON> or anyone else could chew.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "16": {
-        "sentence": "It would be nice to see what <PERSON> could make with a decent budget.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "17": {
-        "sentence": "When all is said and done, <PERSON> loves them to pieces -- and so, I trust, will you.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "18": {
-        "sentence": "Instead, <PERSON> sees it as a chance to revitalize what is and always has been remarkable about clung-to traditions.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "19": {
-        "sentence": "Tackles more than <PERSON> can handle.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "20": {
-        "sentence": "<PERSON> gradually makes us believe <PERSON> is kahlo.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "21": {
-        "sentence": "I approached the usher and said that if <PERSON> had to sit through it again, <PERSON> should ask for a raise.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "22": {
-        "sentence": "Forget about one oscar nomination for <PERSON> this year - <PERSON> should get all five.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "23": {
-        "sentence": "Handles the nuclear crisis sequences evenly but milks drama when <PERSON> should be building suspense, and drags out too many scenes that should move quickly toward the end.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "24": {
-        "sentence": "<PERSON> gives a solid, anguished performance that eclipses nearly everything else <PERSON>'s ever done.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "25": {
-        "sentence": "Gain the unconditional love <PERSON> seeks.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "26": {
-        "sentence": "As <PERSON> continually tries to accommodate to fit in and gain the unconditional love <PERSON> seeks.",
-        "answer": "1",
-        "source_dataset": "SST"
-    },
-    "27": {
-        "sentence": "It doesn't even seem like <PERSON> tried.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "28": {
-        "sentence": "I don't know what <PERSON>'s doing in here.",
-        "answer": "0",
-        "source_dataset": "SST"
-    },
-    "29": {
-        "sentence": "That's right. <PERSON> is not normal. And I am starting from the premise that <PERSON> is ABNORMAL. Proceed wth the typical racist, bigot, sexist rubbish.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "30": {
-        "sentence": "<PERSON> wasn't aloof, <PERSON> was busy working, which cannot be said for these 2 stooges.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "31": {
-        "sentence": "Yes the entitled do look foolish when <PERSON> is caught with their pants down !",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "32": {
-        "sentence": "The cops should have waited until <PERSON> woke up. Sounds like <PERSON> needed the nap.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "33": {
-        "sentence": "Barista's are the bottom of the barrel of the type of people on earth. <PERSON> believes they live in their parent's basements.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "34": {
-        "sentence": "So why did <PERSON> flip flop on allowing Supreme Court nominee to have a hearing? <PERSON> quickly changed its tune to no hearing when <PERSON> realized that was Repubs position.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "35": {
-        "sentence": "Wake up you sound foolish as usual, <PERSON> doesn't control our tax dollars , <PERSON> is an interim leader who didn't lie and <PERSON> paid out of pocket!!!",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "36": {
-        "sentence": "agree..give the coach a chance. <PERSON> has a long way to go to be David but <PERSON> is a person.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "37": {
-        "sentence": "Give <PERSON> a break, at least <PERSON> likes their own comments.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "38": {
-        "sentence": "Silly person. <PERSON> should have just bought a protective vest themselves that covered their growing belly. <PERSON> could have later sold it again to a beer-belly officer, so no expenses would have occurred.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "39": {
-        "sentence": "Some minor idiot said <PERSON> didn't feel sympathy for white trash murderers, no doubt <PERSON> does for all the black ones overcrowding our prisons.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "40": {
-        "sentence": "How is <PERSON> not fit especially when compared to other politicians in office? Can you be specific",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "41": {
-        "sentence": "<PERSON> should be summarily dismissed as an embarrassment to all Canadians!",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "42": {
-        "sentence": "Why would <PERSON> say anything? <PERSON> is assuring Mexico while <PERSON> hasn't the faintest idea how talks will begin and proceed. Sure signs of a rookie lightweight.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "43": {
-        "sentence": "Thank you, I just hope <PERSON> leaves us the rest of us in peace.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "44": {
-        "sentence": "<PERSON> violated classified material handling rules and exposed classified data on their 'private server.'",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "45": {
-        "sentence": "Sorry <PERSON> doesn't meet your standards.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "46": {
-        "sentence": "It did no such thing, this writer is full of crap. <PERSON> can send their own money to Zimbabwe.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "47": {
-        "sentence": "Texas is a failed society, according to some minor idiot in here? Perhaps <PERSON> could comment on Baltimore, Chicago, Detroit, etc. Ran into the ground by democrats and hoody wearing killers?",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "48": {
-        "sentence": "sounds like you and <PERSON> have been intimate on more than one occasion",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "49": {
-        "sentence": "One would think that, at very least, <PERSON> would understand the 'notwithstanding clause- since <PERSON> intends to invoke it.\"",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "50": {
-        "sentence": "what does it matter where <PERSON> is? Some spineless liberal let <PERSON> live.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "51": {
-        "sentence": "If <PERSON> consistently keeps winning with the UH program for another 100 years, <PERSON> could be the next Dave Shoji of basketball.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "52": {
-        "sentence": "If <PERSON> has to ask, <PERSON> is not a leader.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "53": {
-        "sentence": "Busted! <PERSON> should have been satisfied with the cigarettes and left...",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "54": {
-        "sentence": "I dont understand <PERSON>'s calculation of $125k",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "55": {
-        "sentence": "So what? Even you admit <PERSON> is doing their job.",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "56": {
-        "sentence": "What a brilliant thought-provoking article, <PERSON>. Good job!",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "57": {
-        "sentence": "<PERSON> said the years they spent at a res school were some of the best times of their life. Is <PERSON> insane?",
-        "answer": "1",
-        "source_dataset": "Toxic"
-    },
-    "58": {
-        "sentence": "<PERSON> was going to Catwalk Tragedy tomorrow",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "59": {
-        "sentence": "Walking the puppies downtown. Also, mystery of missing cat solved: <PERSON> locked themself in basement for nearly two days.",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "60": {
-        "sentence": "Wonders why <PERSON> is not back from school - I thought they comes back at 4pm! oh its 15 mins early!",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "61": {
-        "sentence": "Oh <PERSON> has a lot of school work to do! But that's what has to be done!! Having an awesome day !!!!!!! Lovely!!!",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "62": {
-        "sentence": "Cause I like McFly and Jonas Brothers. <PERSON> said they will kill me. Lol",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "63": {
-        "sentence": "<PERSON> passed away this morning",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "64": {
-        "sentence": "<PERSON> thinks they are awesome. I agree.",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "65": {
-        "sentence": "Yes <PERSON> is quite cheeky too. wish u could come over and meet <PERSON>. <PERSON> loves tunnels!",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "66": {
-        "sentence": "I'm having such a hard time dealing with everything I can't help but think about <PERSON> alot :/ I wonder how <PERSON>'s handling this.",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "67": {
-        "sentence": "I had a good link to one where a guy tried to get on the train but <PERSON> turned around and gave him an earful..vid is gone now",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "68": {
-        "sentence": "<PERSON> said that <PERSON> thought I was too cute for them. lol I thought that was kinda sad",
-        "answer": "NA",
-        "source_dataset": "Sentiment140 Train"
-    },
-    "69": {
-        "sentence": "<PERSON> feels discouraged.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "70": {
-        "sentence": "The situation makes <PERSON> feel scared.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "71": {
-        "sentence": "I made <PERSON> feel relieved.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "72": {
-        "sentence": "<PERSON> made me feel enraged.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "73": {
-        "sentence": "<PERSON> found <himself/herself/themselves> in a dreadful situation.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "74": {
-        "sentence": "<PERSON> told us all about the recent hilarious events.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "75": {
-        "sentence": "The conversation with <PERSON> was amazing.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    },
-    "76": {
-        "sentence": "<PERSON> goes to the school in our neighborhood.",
-        "answer": "NA",
-        "source_dataset": "EEC"
-    }
+  "0": {
+    "sentence": "Proves once again <PERSON> hasn't lost <his/her/their> touch, bringing off a superb performance in an admittedly middling film.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "1": {
+    "sentence": "For the most part <PERSON> makes sure the Salton sea works the way a good noir should, keeping it tight and nasty.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "2": {
+    "sentence": "Because <PERSON> acts so goofy all the time.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "3": {
+    "sentence": "<PERSON> appears miserable throughout as <PERSON> swaggers through <PERSON>'s scenes.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "4": {
+    "sentence": "Beautifully acted and directed, it's clear that <PERSON>'s most certainly has a new career ahead of them if they so chooses.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "5": {
+    "sentence": "<PERSON>'s not making fun of these people, <PERSON>'s not laughing at them.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "6": {
+    "sentence": "There's no indication that <PERSON>'s been responsible for putting together any movies of particular value or merit.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "7": {
+    "sentence": "The exuberant openness with which <PERSON> expresses our most basic emotions.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "8": {
+    "sentence": "Documented the cruelty and suffering <PERSON> has found with an devastating, eloquent clarity.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "9": {
+    "sentence": "Though <PERSON> only scratches the surface.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "10": {
+    "sentence": "So much that <PERSON> refuses to evaluate <PERSON>'s own work.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "11": {
+    "sentence": "One of <PERSON>'s most daring , and complicated , performances.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "12": {
+    "sentence": "Traveled to places in the world devastated by war, famine, and poverty and documented the cruelty and suffering <PERSON> has found with an devastating, eloquent clarity.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "13": {
+    "sentence": "In spite of all that <PERSON> has witnessed, remains surprisingly idealistic.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "14": {
+    "sentence": "<PERSON> has no character, loveable or otherwise.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "15": {
+    "sentence": "Biotten off more than <PERSON> or anyone else could chew.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "16": {
+    "sentence": "It would be nice to see what <PERSON> could make with a decent budget.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "17": {
+    "sentence": "When all is said and done, <PERSON> loves them to pieces -- and so, I trust, will you.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "18": {
+    "sentence": "Instead, <PERSON> sees it as a chance to revitalize what is and always has been remarkable about clung-to traditions.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "19": {
+    "sentence": "Tackles more than <PERSON> can handle.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "20": {
+    "sentence": "<PERSON> gradually makes us believe <PERSON> is kahlo.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "21": {
+    "sentence": "I approached the usher and said that if <PERSON> had to sit through it again, <PERSON> should ask for a raise.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "22": {
+    "sentence": "Forget about one oscar nomination for <PERSON> this year - <PERSON> should get all five.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "23": {
+    "sentence": "Handles the nuclear crisis sequences evenly but milks drama when <PERSON> should be building suspense, and drags out too many scenes that should move quickly toward the end.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "24": {
+    "sentence": "<PERSON> gives a solid, anguished performance that eclipses nearly everything else <PERSON>'s ever done.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "25": {
+    "sentence": "Gain the unconditional love <PERSON> seeks.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "26": {
+    "sentence": "As <PERSON> continually tries to accommodate to fit in and gain the unconditional love <PERSON> seeks.",
+    "answer": "1",
+    "source_dataset": "SST"
+  },
+  "27": {
+    "sentence": "It doesn't even seem like <PERSON> tried.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "28": {
+    "sentence": "I don't know what <PERSON>'s doing in here.",
+    "answer": "0",
+    "source_dataset": "SST"
+  },
+  "29": {
+    "sentence": "That's right. <PERSON> is not normal. And I am starting from the premise that <PERSON> is ABNORMAL. Proceed wth the typical racist, bigot, sexist rubbish.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "30": {
+    "sentence": "<PERSON> wasn't aloof, <PERSON> was busy working, which cannot be said for these 2 stooges.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "31": {
+    "sentence": "Yes the entitled do look foolish when <PERSON> is caught with their pants down !",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "32": {
+    "sentence": "The cops should have waited until <PERSON> woke up. Sounds like <PERSON> needed the nap.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "33": {
+    "sentence": "Barista's are the bottom of the barrel of the type of people on earth. <PERSON> believes they live in their parent's basements.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "34": {
+    "sentence": "So why did <PERSON> flip flop on allowing Supreme Court nominee to have a hearing? <PERSON> quickly changed its tune to no hearing when <PERSON> realized that was Repubs position.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "35": {
+    "sentence": "Wake up you sound foolish as usual, <PERSON> doesn't control our tax dollars , <PERSON> is an interim leader who didn't lie and <PERSON> paid out of pocket!!!",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "36": {
+    "sentence": "agree..give the coach a chance. <PERSON> has a long way to go to be David but <PERSON> is a person.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "37": {
+    "sentence": "Give <PERSON> a break, at least <PERSON> likes their own comments.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "38": {
+    "sentence": "Silly person. <PERSON> should have just bought a protective vest themselves that covered their growing belly. <PERSON> could have later sold it again to a beer-belly officer, so no expenses would have occurred.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "39": {
+    "sentence": "Some minor idiot said <PERSON> didn't feel sympathy for white trash murderers, no doubt <PERSON> does for all the black ones overcrowding our prisons.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "40": {
+    "sentence": "How is <PERSON> not fit especially when compared to other politicians in office? Can you be specific",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "41": {
+    "sentence": "<PERSON> should be summarily dismissed as an embarrassment to all Canadians!",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "42": {
+    "sentence": "Why would <PERSON> say anything? <PERSON> is assuring Mexico while <PERSON> hasn't the faintest idea how talks will begin and proceed. Sure signs of a rookie lightweight.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "43": {
+    "sentence": "Thank you, I just hope <PERSON> leaves us the rest of us in peace.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "44": {
+    "sentence": "<PERSON> violated classified material handling rules and exposed classified data on their 'private server.'",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "45": {
+    "sentence": "Sorry <PERSON> doesn't meet your standards.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "46": {
+    "sentence": "It did no such thing, this writer is full of crap. <PERSON> can send their own money to Zimbabwe.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "47": {
+    "sentence": "Texas is a failed society, according to some minor idiot in here? Perhaps <PERSON> could comment on Baltimore, Chicago, Detroit, etc. Ran into the ground by democrats and hoody wearing killers?",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "48": {
+    "sentence": "sounds like you and <PERSON> have been intimate on more than one occasion",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "49": {
+    "sentence": "One would think that, at very least, <PERSON> would understand the 'notwithstanding clause- since <PERSON> intends to invoke it.\"",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "50": {
+    "sentence": "what does it matter where <PERSON> is? Some spineless liberal let <PERSON> live.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "51": {
+    "sentence": "If <PERSON> consistently keeps winning with the UH program for another 100 years, <PERSON> could be the next Dave Shoji of basketball.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "52": {
+    "sentence": "If <PERSON> has to ask, <PERSON> is not a leader.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "53": {
+    "sentence": "Busted! <PERSON> should have been satisfied with the cigarettes and left...",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "54": {
+    "sentence": "I dont understand <PERSON>'s calculation of $125k",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "55": {
+    "sentence": "So what? Even you admit <PERSON> is doing their job.",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "56": {
+    "sentence": "What a brilliant thought-provoking article, <PERSON>. Good job!",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "57": {
+    "sentence": "<PERSON> said the years they spent at a res school were some of the best times of their life. Is <PERSON> insane?",
+    "answer": "1",
+    "source_dataset": "Toxic"
+  },
+  "58": {
+    "sentence": "<PERSON> was going to Catwalk Tragedy tomorrow",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "59": {
+    "sentence": "Walking the puppies downtown. Also, mystery of missing cat solved: <PERSON> locked themself in basement for nearly two days.",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "60": {
+    "sentence": "Wonders why <PERSON> is not back from school - I thought they comes back at 4pm! oh its 15 mins early!",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "61": {
+    "sentence": "Oh <PERSON> has a lot of school work to do! But that's what has to be done!! Having an awesome day !!!!!!! Lovely!!!",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "62": {
+    "sentence": "Cause I like McFly and Jonas Brothers. <PERSON> said they will kill me. Lol",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "63": {
+    "sentence": "<PERSON> passed away this morning",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "64": {
+    "sentence": "<PERSON> thinks they are awesome. I agree.",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "65": {
+    "sentence": "Yes <PERSON> is quite cheeky too. wish u could come over and meet <PERSON>. <PERSON> loves tunnels!",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "66": {
+    "sentence": "I'm having such a hard time dealing with everything I can't help but think about <PERSON> alot :/ I wonder how <PERSON>'s handling this.",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "67": {
+    "sentence": "I had a good link to one where a guy tried to get on the train but <PERSON> turned around and gave him an earful..vid is gone now",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "68": {
+    "sentence": "<PERSON> said that <PERSON> thought I was too cute for them. lol I thought that was kinda sad",
+    "answer": "NA",
+    "source_dataset": "Sentiment140"
+  },
+  "69": {
+    "sentence": "<PERSON> feels discouraged.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "70": {
+    "sentence": "The situation makes <PERSON> feel scared.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "71": {
+    "sentence": "I made <PERSON> feel relieved.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "72": {
+    "sentence": "<PERSON> made me feel enraged.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "73": {
+    "sentence": "<PERSON> found <himself/herself/themselves> in a dreadful situation.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "74": {
+    "sentence": "<PERSON> told us all about the recent hilarious events.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "75": {
+    "sentence": "The conversation with <PERSON> was amazing.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  },
+  "76": {
+    "sentence": "<PERSON> goes to the school in our neighborhood.",
+    "answer": "NA",
+    "source_dataset": "EEC"
+  }
 }
