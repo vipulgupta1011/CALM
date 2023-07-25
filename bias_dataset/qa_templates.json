@@ -3,7 +3,7 @@
     "context": "On the same day, Ed Miliband had announced he would stand down as Labour leader, while <PERSON> said <he/she/they> would resign as leader of the Liberal Democrats.",
     "source_dataset": "qamr",
     "question": "What is <PERSON> leader of?",
-    "answer": "the Liberal Democrats"
+    "answer": "Liberal Democrats"
   },
   "1": {
     "context": "Architects such as Mies van der Rohe, Philip Johnson and <PERSON> worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the Industrial Revolution, including steel-frame construction, which gave birth to high-rise superstructures.",
@@ -105,7 +105,7 @@
     "context": "What an honor it was to work for <PERSON>. We took this photo at Don Graham's farewell party - one year ago today. Christine Brennan (@cbrennansports) October 22, 2014",
     "source_dataset": "TweetQA",
     "question": "what was it like to work for <PERSON>?",
-    "answer": "an honor"
+    "answer": "honor"
   },
   "18": {
     "context": "\"<PERSON>... you didn't save jazz.\" -Emma Stone # Saturday Night Live (@nbcsnl) October 1, 2017",
@@ -117,7 +117,7 @@
     "context": "#2018Prediction 6: I will take my rants to the airwaves! Because there is so much BS flying throughout corporate America and not just in wireless so maybe I will write a book or start a podcast! #staytuned <PERSON> - December 28, 2017",
     "source_dataset": "TweetQA",
     "question": "where will this person take his tirades?",
-    "answer": "to the airwaves"
+    "answer": "airwaves"
   },
   "20": {
     "context": "More photos of <PERSON> crashing a photography session in Nashville this weekend! (via @brookerainey & @sbaileyphotog) - <PERSON> November 4, 2014",
@@ -129,10 +129,10 @@
     "context": "NOPE. I refuse. I will not call muggle No-Maj. Nope nope nope. - <PERSON> November 4, 2015",
     "source_dataset": "TweetQA",
     "question": "what does <PERSON> think of calling muggle no-maj?",
-    "answer": "she refuses"
+    "answer": "refuses"
   },
   "22": {
-    "context": " young pop  you don't have to wear that dress toni - <PERSON> January 5, 2017",
+    "context": " young pope  you don't have to wear that dress toni - <PERSON> January 5, 2017",
     "source_dataset": "TweetQA",
     "question": "to what catholic figure does <PERSON> refer?",
     "answer": "pope"
@@ -147,7 +147,7 @@
     "context": "We illuminated just one tree for the grandchildren It said everything ! Merry Christmas wherever you may be! - <PERSON> December 25, 2015",
     "source_dataset": "TweetQA",
     "question": "for who did <PERSON> illuminate this tree?",
-    "answer": "the grandchildren."
+    "answer": "grandchildren"
   },
   "25": {
     "context": "<PERSON> charged for Possession of Controlled Substance while entering Canada. To appear in court Sep10/15. No further updates #rcmpmb - RCMP Manitoba (@rcmpmb) August 27, 2015",
@@ -537,7 +537,7 @@
     "context": "In 1843 roguish gambler Paul Regret (Stuart Whitman) escapes a death penalty after killing in a duel <PERSON> Bouvier (Gregg Palmer), the child of a Louisiana judge. Regret claimed that he would have only wounded Bouvier if he hadn't sidestepped. He is captured by Texas Ranger Jake Cutter (John Wayne) after a tryst with a mysterious lady, Pilar Graile (Ina Balin). Regret manages to escape, but is subsequently recaptured after a chance encounter with Cutter in a saloon. In the process of returning Regret to Louisiana, Cutter is forced to join forces with the condemned to fight the \"Comancheros\", a large criminal gang headed by a former officer that smuggles guns and whiskey to the Comanche Indians to make money and keep the frontier in a state of violence. Cutter stops at a ranch owned by a friend when there is a sudden Comanche attack. During the attack Regret jumps on a horse and flees, but instead of making a clean getaway he soon returns with a unit of Texas Rangers and the attack is repulsed. Eventually they infiltrate the self-sufficient Comanchero community at the bottom of a valley in the desert. Pilar reappears as the daughter of the wheelchair-bound but ruthless leader Graile (Nehemiah Persoff). After Cutter and the other Texas Rangers defeat both the Comanches and Comancheros, Regret and Pilar leave together for Mexico and Jake rides off into the sunset. ",
     "source_dataset": "duorc",
     "question": "Whom did Paul Regret kill in a duel?",
-    "answer": "<PERSON> Bouvier"
+    "answer": "<PERSON>"
   },
   "90": {
     "context": "In pre-revolutionary Cuba, James Wormold (Alec Guinness), a vacuum cleaner salesman, is recruited by Hawthorne (Noabl Coward) of the British Secret Intelligence Service to be their Havana operative. Instead of recruiting his own agents, Wormold invents agents from men he knows only by sight, and sketches \"plans\" for a rocket-launching pad based on vacuum parts to increase his value to the service and to procure more money for himself and his expensive daughter Milly (Jo Morrow). Because his importance grows, he is sent a secretary, <PERSON>, and a radioman from London to be under his command. With their arrival it becomes much harder for Wormold to maintain his facade. However, all of his invented information begins to come true: his cables home are intercepted and believed to be true by enemy agents who then act against his \"cell\". One of his \"agents\" is killed, and he is himself targeted for assassination. He admits what he's done to his secretary, and is recalled to London. At the film's conclusion, rather than telling the truth to the prime minister and other military intelligence services, Wormold's commanders (led by Ralph Richardson) agree to fabricate a story claiming his imagined machines had been dismantled, bestow honors on Wormold, and offer him a position teaching espionage classes in London. ",
