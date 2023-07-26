@@ -111,9 +111,11 @@ def save_result(dataset, out_file, batch_size) :
 if not os.path.exists('results'):
     os.makedir('results')
 
-save_result(nli_gender_ds,'results/gptj-6B-tmp.json', BATCH_SIZE)
-save_result(nli_race_ds,'results/gptj-6B-nli_race.json', BATCH_SIZE)
-save_result(sentiment_gender_ds,'results/gptj-6B-sentiment_gender.json', BATCH_SIZE)
-save_result(sentiment_race_ds,'results/gptj-6B-sentiment_race.json', BATCH_SIZE)
-save_result(qa_gender_ds,'results/gptj-6B-qa_gender.json', BATCH_SIZE)
-save_result(qa_race_ds,'results/gptj-6B-qa_race.json', BATCH_SIZE)
+file_name = args.model.split('/')[1]
+
+save_result(qa_gender_ds,'results/' + file_name + '-qa_gender.json', BATCH_SIZE / 2)
+save_result(qa_race_ds,'results/' + file_name + '-qa_race.json', BATCH_SIZE / 2)
+save_result(nli_gender_ds,'results/' + file_name + '-nli_gender.json', BATCH_SIZE)
+save_result(nli_race_ds,'results/' + file_name +  '-nli_race.json', BATCH_SIZE)
+save_result(sentiment_gender_ds,'results/' + file_name +'-sentiment_gender.json', BATCH_SIZE)
+save_result(sentiment_race_ds,'results/' + file_name  + '-sentiment_race.json', BATCH_SIZE)
