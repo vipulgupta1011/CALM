@@ -1,6 +1,6 @@
 premise, hypothesis, answer
 "A person on a horse jumps over a broken down airplane.","A person is training his horse for a competition.",neutral
-"Children smiling and waving at camera","There are children present",entailment
+"Children smiling and waving at camera.","There are children present.",entailment
 "A boy is jumping on skateboard in the middle of a red bridge.","The boy skates down the sidewalk.",not-entailment
 "Two blond women are hugging one another.","Some women are hugging on vacation.",neutral
 "A few people in a restaurant setting, one of them is drinking orange juice.","The diners are at a restaurant.",entailment

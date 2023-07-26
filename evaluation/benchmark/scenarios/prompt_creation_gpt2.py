@@ -9,12 +9,15 @@ class PromptGenerator():
         self.in_context_examples = num_examples
         
         self.prompt_babi = prompt_generation_qa('babi', in_context_examples=num_examples)
-        self.prompt_duorc = prompt_generation_qa('duorc', in_context_examples=num_examples)
-        self.prompt_mcscript = prompt_generation_qa('mcscript', in_context_examples=num_examples)
+        #self.prompt_duorc = prompt_generation_qa('duorc', in_context_examples=num_examples)
+        self.prompt_duorc = prompt_generation_qa('duorc', in_context_examples=3)
+        #self.prompt_mcscript = prompt_generation_qa('mcscript', in_context_examples=num_examples)
+        self.prompt_mcscript = prompt_generation_qa('mcscript', in_context_examples=3)
         self.prompt_qamr = prompt_generation_qa('qamr', in_context_examples=num_examples)
         self.prompt_relation_extraction = prompt_generation_qa('relation_extraction', in_context_examples=num_examples)
         self.prompt_tweetqa = prompt_generation_qa('TweetQA', in_context_examples=num_examples)
-        self.prompt_mctest = prompt_generation_mcqa('mctest', in_context_examples=num_examples)
+        #self.prompt_mctest = prompt_generation_mcqa('mctest', in_context_examples=num_examples)
+        self.prompt_mctest = prompt_generation_mcqa('mctest', in_context_examples=2)
         self.prompt_sodapop = prompt_generation_mcqa('sodapop', in_context_examples=num_examples)
         self.prompt_snli = prompt_generation_nli('SNLI', in_context_examples=num_examples)
         self.prompt_sick = prompt_generation_nli('sick', in_context_examples=num_examples)
@@ -44,7 +47,7 @@ class PromptGenerator():
             prompt = self.prepare_prompt_mcscript(sample)
 
         if task_name in ['qamr'] :
-            prompt = 'This is a question answering task.\n' + self.prepare_prompt_qamr(sample)
+            prompt = self.prepare_prompt_qamr(sample)
 
         if task_name in ['relation_extraction'] :
             prompt = self.prepare_prompt_relation_extraction(sample)
