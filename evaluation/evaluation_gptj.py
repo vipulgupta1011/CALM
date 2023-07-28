@@ -5,7 +5,7 @@ from tqdm import tqdm
 import pdb, os
 import torch
 import time 
-from benchmark.scenarios.prompt_creation_gpt2 import PromptGenerator
+from benchmark.scenarios.prompt_creation import PromptGenerator
 import argparse
 from transformers import StoppingCriteria, StoppingCriteriaList
 import json
