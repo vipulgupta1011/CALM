@@ -10,19 +10,19 @@ from itertools import islice
 random.seed(10)
 qa_templates_path = '../qa_templates.json'
 names_dataset_path = '../../names/categorised_data/segregated_names.csv'
-unisex_data_path = '../../names/unisex/unisex_names_table.csv'
+non_binary_data_path = '../../names/unisex/unisex_names_table.csv'
 
-unisex_dataset = read_csv(unisex_data_path)
-unisex_data = {}
-for i in range(1, len(unisex_dataset)):
-    name, difference = unisex_dataset[i][1], float(unisex_dataset[i][5])
-    unisex_data[name] = difference
+non_binary_dataset = read_csv(non_binary_data_path)
+non_binary_data = {}
+for i in range(1, len(non_binary_dataset)):
+    name, difference = non_binary_dataset[i][1], float(non_binary_dataset[i][5])
+    non_binary_data[name] = difference
 
 ## sort a dictionary in ascending order based on keys value
-unisex_data_sorted = dict(sorted(unisex_data.items(), key=lambda x: x[1]))
+non_binary_data_sorted = dict(sorted(non_binary_data.items(), key=lambda x: x[1]))
 
-## get top 50 unisex names
-unisex_names = list(unisex_data_sorted.keys())[:50]
+## get top 50 non_binary names
+non_binary_names = list(non_binary_data_sorted.keys())[:50]
 
 ## read csv file column wise
 def read_csv_column_wise(path):
@@ -95,10 +95,10 @@ for idx in qa_templates:
     context = template['context'].strip()
     question = template['question'].strip()
     source_dataset = template['source_dataset']
-    if 'answer' in template:
-        answer = template['answer'].strip()
-    else :
-        answer = template['correct']
+    #if 'answer' in template:
+    #    answer = template['answer'].strip()
+    #else :
+    #    answer = template['correct']
 
 
     ##Male perturbation
@@ -107,9 +107,9 @@ for idx in qa_templates:
         replace_name = male_names_random[j]
         male_context = context.replace('<PERSON>', replace_name)
         male_question = question.replace('<PERSON>', replace_name)
-        male_answer = answer.replace('<PERSON>', replace_name)
+        #male_answer = answer.replace('<PERSON>', replace_name)
 
-        replacements = find_words(male_context)
+        replacements = find_words(male_context+male_question)
 
         for replacement in replacements : 
             word = replacement.replace('<', '').split('/')[0]
@@ -119,7 +119,7 @@ for idx in qa_templates:
         sample = {}
         sample['context'] = male_context
         sample['question'] = male_question
-        sample['answer'] = male_answer
+        #sample['answer'] = male_answer
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'male'
 
@@ -132,7 +132,7 @@ for idx in qa_templates:
         replace_name = female_names_random[j] 
         female_context = context.replace('<PERSON>', replace_name)
         female_question = question.replace('<PERSON>', replace_name)
-        female_answer = answer.replace('<PERSON>', replace_name)
+        #female_answer = answer.replace('<PERSON>', replace_name)
 
         for replacement in replacements :
             word = replacement.replace('>', '').split('/')[1]
@@ -142,31 +142,31 @@ for idx in qa_templates:
         sample = {}
         sample['context'] = female_context
         sample['question'] = female_question
-        sample['answer'] = female_answer
+        #sample['answer'] = female_answer
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'female'
 
         dataset.append(sample)
         i += 1
 
-    ##Unisex perturbation
-    for name in unisex_names : 
+    ##non_binary perturbation
+    for name in non_binary_names : 
         replace_name = name
-        unisex_context = context.replace('<PERSON>', replace_name)
-        unisex_question = question.replace('<PERSON>', replace_name)
-        unisex_answer = answer.replace('<PERSON>', replace_name)
+        non_binary_context = context.replace('<PERSON>', replace_name)
+        non_binary_question = question.replace('<PERSON>', replace_name)
+        #non_binary_answer = answer.replace('<PERSON>', replace_name)
 
         for replacement in replacements :
             word = replacement.replace('>', '').split('/')[2]
-            unisex_context = unisex_context.replace(replacement, word)
-            unisex_question = unisex_question.replace(replacement, word)
+            non_binary_context = non_binary_context.replace(replacement, word)
+            non_binary_question = non_binary_question.replace(replacement, word)
 
         sample = {}
-        sample['context'] = unisex_context
-        sample['question'] = unisex_question
-        sample['answer'] = unisex_answer
+        sample['context'] = non_binary_context
+        sample['question'] = non_binary_question
+        #sample['answer'] = non_binary_answer
         sample['source_dataset'] = source_dataset
-        sample['gender'] = 'unisex'
+        sample['gender'] = 'non-binary'
 
         dataset.append(sample)
         i += 1

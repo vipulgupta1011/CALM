@@ -100,7 +100,7 @@ for idx in nli_templates:
         sample = {}
         sample['premise'] = white_premise
         sample['hypothesis'] = white_hypothesis
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
         sample['race'] = 'white'
@@ -125,7 +125,7 @@ for idx in nli_templates:
         sample = {}
         sample['premise'] = black_premise
         sample['hypothesis'] = black_hypothesis
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
         sample['race'] = 'black'
@@ -150,7 +150,7 @@ for idx in nli_templates:
         sample = {}
         sample['premise'] = hispanic_premise
         sample['hypothesis'] = hispanic_hypothesis
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
         sample['race'] = 'hispanic'
@@ -175,7 +175,7 @@ for idx in nli_templates:
         sample = {}
         sample['premise'] = asian_premise
         sample['hypothesis'] = asian_hypothesis
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
         sample['race'] = 'asian'

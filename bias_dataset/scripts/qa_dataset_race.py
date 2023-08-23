@@ -91,19 +91,28 @@ for idx in qa_templates:
         replace_name = white_names_random[j]
         white_context = context.replace('<PERSON>', replace_name)
         white_question = question.replace('<PERSON>', replace_name)
-        white_answer = answer.replace('<PERSON>', replace_name)
+        white_answer = answer
+        if isinstance(white_answer, str) : 
+            white_answer = white_answer.replace('<PERSON>', replace_name)
+        else : 
+            white_answer = [ans.replace('<PERSON>', replace_name) for ans in white_answer]
 
-        replacements = find_words(white_context)
+        replacements = find_words(white_context + white_question)
 
         for replacement in replacements : 
             word = replacement.replace('>', '').split('/')[2]
             white_context = white_context.replace(replacement, word)
             white_question = white_question.replace(replacement, word)
+            try : 
+                white_answer = white_answer.replace(replacement, word).strip()
+            except :
+                ##answer list for mcqa questions
+                white_answer = [ans.replace(replacement, word).strip() for ans in white_answer]
 
         sample = {}
         sample['context'] = white_context
         sample['question'] = white_question
-        sample['answer'] = white_answer
+        #sample['answer'] = white_answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'white'
 
@@ -116,19 +125,29 @@ for idx in qa_templates:
         replace_name = black_names_random[j]
         black_context = context.replace('<PERSON>', replace_name)
         black_question = question.replace('<PERSON>', replace_name)
-        black_answer = answer.replace('<PERSON>', replace_name)
+        black_answer = answer
+        ## check if black_answer is a string
+        if isinstance(black_answer, str) : 
+            black_answer = black_answer.replace('<PERSON>', replace_name)
+        else : 
+            black_answer = [ans.replace('<PERSON>', replace_name) for ans in black_answer]
 
-        replacements = find_words(black_context)
+        replacements = find_words(black_context + black_question)
 
         for replacement in replacements : 
             word = replacement.replace('>', '').split('/')[2]
             black_context = black_context.replace(replacement, word)
             black_question = black_question.replace(replacement, word)
+            try : 
+                black_answer = black_answer.replace(replacement, word).strip()
+            except :
+                ##answer list for mcqa questions
+                black_answer = [ans.replace(replacement, word).strip() for ans in black_answer]
 
         sample = {}
         sample['context'] = black_context
         sample['question'] = black_question
-        sample['answer'] = black_answer
+        #sample['answer'] = black_answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'black'
 
@@ -141,19 +160,29 @@ for idx in qa_templates:
         replace_name = hispanic_names_random[j]
         hispanic_context = context.replace('<PERSON>', replace_name)
         hispanic_question = question.replace('<PERSON>', replace_name)
-        hispanic_answer = answer.replace('<PERSON>', replace_name)
+        hispanic_answer = answer
+        ## check if hispanic_answer is a string
+        if isinstance(hispanic_answer, str) : 
+            hispanic_answer = hispanic_answer.replace('<PERSON>', replace_name)
+        else : 
+            hispanic_answer = [ans.replace('<PERSON>', replace_name) for ans in hispanic_answer]
 
-        replacements = find_words(hispanic_context)
+        replacements = find_words(hispanic_context+hispanic_question)
 
         for replacement in replacements : 
             word = replacement.replace('>', '').split('/')[2]
             hispanic_context = hispanic_context.replace(replacement, word)
             hispanic_question = hispanic_question.replace(replacement, word)
+            try : 
+                hispanic_answer = hispanic_answer.replace(replacement, word).strip()
+            except :
+                ##answer list for mcqa questions
+                hispanic_answer = [ans.replace(replacement, word).strip() for ans in hispanic_answer]
 
         sample = {}
         sample['context'] = hispanic_context
         sample['question'] = hispanic_question
-        sample['answer'] = hispanic_answer
+        #sample['answer'] = hispanic_answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'hispanic'
 
@@ -166,19 +195,29 @@ for idx in qa_templates:
         replace_name = asian_names_random[j]
         asian_context = context.replace('<PERSON>', replace_name)
         asian_question = question.replace('<PERSON>', replace_name)
-        asian_answer = answer.replace('<PERSON>', replace_name)
+        asian_answer = answer
+        ## check if asian_answer is a string
+        if isinstance(asian_answer, str) : 
+            asian_answer = asian_answer.replace('<PERSON>', replace_name)
+        else : 
+            asian_answer = [ans.replace('<PERSON>', replace_name) for ans in asian_answer]
 
-        replacements = find_words(asian_context)
+        replacements = find_words(asian_context + asian_question)
 
         for replacement in replacements : 
             word = replacement.replace('>', '').split('/')[2]
             asian_context = asian_context.replace(replacement, word)
             asian_question = asian_question.replace(replacement, word)
+            try : 
+                asian_answer = asian_answer.replace(replacement, word).strip()
+            except :
+                ##answer list for mcqa questions
+                asian_answer = [ans.replace(replacement, word).strip() for ans in asian_answer]
 
         sample = {}
         sample['context'] = asian_context
         sample['question'] = asian_question
-        sample['answer'] = asian_answer
+        #sample['answer'] = asian_answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'asian'
 

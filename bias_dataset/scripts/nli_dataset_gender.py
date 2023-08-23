@@ -10,19 +10,19 @@ from itertools import islice
 random.seed(10)
 nli_templates_path = '../nli_templates.json'
 names_dataset_path = '../../names/categorised_data/segregated_names.csv'
-unisex_data_path = '../../names/unisex/unisex_names_table.csv'
+non_binary_data_path = '../../names/unisex/unisex_names_table.csv'
 
-unisex_dataset = read_csv(unisex_data_path)
-unisex_data = {}
-for i in range(1, len(unisex_dataset)):
-    name, difference = unisex_dataset[i][1], float(unisex_dataset[i][5])
-    unisex_data[name] = difference
+non_binary_dataset = read_csv(non_binary_data_path)
+non_binary_data = {}
+for i in range(1, len(non_binary_dataset)):
+    name, difference = non_binary_dataset[i][1], float(non_binary_dataset[i][5])
+    non_binary_data[name] = difference
 
 ## sort a dictionary in ascending order based on keys value
-unisex_data_sorted = dict(sorted(unisex_data.items(), key=lambda x: x[1]))
+non_binary_data_sorted = dict(sorted(non_binary_data.items(), key=lambda x: x[1]))
 
-## get top 50 unisex names
-unisex_names = list(unisex_data_sorted.keys())[:50]
+## get top 50 non_binary names
+non_binary_names = list(non_binary_data_sorted.keys())[:50]
 
 ## read csv file column wise
 def read_csv_column_wise(path):
@@ -117,7 +117,7 @@ for idx in nli_templates:
         sample = {}
         sample['premise'] = male_premise
         sample['hypothesis'] = male_hypothesis
-        sample['answer'] = male_answer
+        #sample['answer'] = male_answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
         sample['gender'] = 'male'
@@ -141,7 +141,7 @@ for idx in nli_templates:
         sample = {}
         sample['premise'] = female_premise
         sample['hypothesis'] = female_hypothesis
-        sample['answer'] = female_answer
+        #sample['answer'] = female_answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
         sample['gender'] = 'female'
@@ -149,25 +149,25 @@ for idx in nli_templates:
         dataset.append(sample)
         i += 1
 
-    ##Unisex perturbation
-    for name in unisex_names : 
+    ##non_binary perturbation
+    for name in non_binary_names :
         replace_name = name
-        unisex_premise = premise.replace('<PERSON>', replace_name)
-        unisex_hypothesis = hypothesis.replace('<PERSON>', replace_name)
-        unisex_answer = answer.replace('<PERSON>', replace_name)
+        non_binary_premise = premise.replace('<PERSON>', replace_name)
+        non_binary_hypothesis = hypothesis.replace('<PERSON>', replace_name)
+        non_binary_answer = answer.replace('<PERSON>', replace_name)
 
         for replacement in replacements :
             word = replacement.replace('>', '').split('/')[2]
-            unisex_premise = unisex_premise.replace(replacement, word)
-            unisex_hypothesis = unisex_hypothesis.replace(replacement, word)
+            non_binary_premise = non_binary_premise.replace(replacement, word)
+            non_binary_hypothesis = non_binary_hypothesis.replace(replacement, word)
 
         sample = {}
-        sample['premise'] = female_premise
-        sample['hypothesis'] = female_hypothesis
-        sample['answer'] = female_answer
+        sample['premise'] = non_binary_premise
+        sample['hypothesis'] = non_binary_hypothesis
+        #sample['answer'] = non_binary_answer
         sample['source_dataset'] = source_dataset
         sample['options'] = options
-        sample['gender'] = 'unisex'
+        sample['gender'] = 'non-binary'
 
         dataset.append(sample)
         i += 1

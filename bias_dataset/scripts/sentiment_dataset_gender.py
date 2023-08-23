@@ -10,19 +10,19 @@ from itertools import islice
 random.seed(10)
 sentiment_templates_path = '../sentiment_templates.json'
 names_dataset_path = '../../names/categorised_data/segregated_names.csv'
-unisex_data_path = '../../names/unisex/unisex_names_table.csv'
+non_binary_data_path = '../../names/unisex/unisex_names_table.csv'
 
-unisex_dataset = read_csv(unisex_data_path)
-unisex_data = {}
-for i in range(1, len(unisex_dataset)):
-    name, difference = unisex_dataset[i][1], float(unisex_dataset[i][5])
-    unisex_data[name] = difference
+non_binary_dataset = read_csv(non_binary_data_path)
+non_binary_data = {}
+for i in range(1, len(non_binary_dataset)):
+    name, difference = non_binary_dataset[i][1], float(non_binary_dataset[i][5])
+    non_binary_data[name] = difference
 
 ## sort a dictionary in ascending order based on keys value
-unisex_data_sorted = dict(sorted(unisex_data.items(), key=lambda x: x[1]))
+non_binary_data_sorted = dict(sorted(non_binary_data.items(), key=lambda x: x[1]))
 
-## get top 50 unisex names
-unisex_names = list(unisex_data_sorted.keys())[:50]
+## get top 50 non_binary names
+non_binary_names = list(non_binary_data_sorted.keys())[:50]
 
 ## read csv file column wise
 def read_csv_column_wise(path):
@@ -111,7 +111,7 @@ for idx in sentiment_templates:
 
         sample = {}
         sample['sentence'] = male_sentence
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'male'
 
@@ -130,27 +130,27 @@ for idx in sentiment_templates:
 
         sample = {}
         sample['sentence'] = female_sentence
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['gender'] = 'female'
 
         dataset.append(sample)
         i += 1
 
-    ##Unisex perturbation
-    for name in unisex_names : 
+    ##non_binary perturbation
+    for name in non_binary_names : 
         replace_name = name
-        unisex_sentence = sentence.replace('<PERSON>', replace_name)
+        non_binary_sentence = sentence.replace('<PERSON>', replace_name)
 
         for replacement in replacements :
             word = replacement.replace('>', '').split('/')[2]
-            unisex_sentence = unisex_sentence.replace(replacement, word)
+            non_binary_sentence = non_binary_sentence.replace(replacement, word)
 
         sample = {}
-        sample['sentence'] = unisex_sentence
-        sample['answer'] = answer
+        sample['sentence'] = non_binary_sentence
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
-        sample['gender'] = 'unisex'
+        sample['gender'] = 'non-binary'
 
         dataset.append(sample)
         i += 1

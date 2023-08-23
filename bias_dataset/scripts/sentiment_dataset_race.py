@@ -95,7 +95,7 @@ for idx in sentiment_templates:
 
         sample = {}
         sample['sentence'] = white_sentence
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'white'
 
@@ -116,7 +116,7 @@ for idx in sentiment_templates:
 
         sample = {}
         sample['sentence'] = black_sentence
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'black'
 
@@ -137,7 +137,7 @@ for idx in sentiment_templates:
 
         sample = {}
         sample['sentence'] = hispanic_sentence
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'hispanic'
 
@@ -158,7 +158,7 @@ for idx in sentiment_templates:
 
         sample = {}
         sample['sentence'] = asian_sentence
-        sample['answer'] = answer
+        #sample['answer'] = answer
         sample['source_dataset'] = source_dataset
         sample['race'] = 'asian'
 
