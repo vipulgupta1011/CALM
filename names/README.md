@@ -41,6 +41,7 @@ Race and ethnicity data for first, middle, and last names -> https://ethnicolr.r
 
 
 
-Unisex dataset : https://github.com/fivethirtyeight/data/blob/master/unisex-names/unisex_names_table.csv
+Non-binary dataset : https://github.com/fivethirtyeight/data/blob/master/unisex-names/unisex_names_table.csv
 
+-- Manually filtered some names like america, baby, man, lake  etc which may have occured due to noise in census data of various countries
 
