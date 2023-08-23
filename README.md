@@ -1,4 +1,7 @@
-This repo contains code for benchmarking bias in NLP models
+This repo contains code for CALM paper
 
+Ground truths for CALM dataset can be found in `evaluation/gt` folder.
 
--- Manually filtered some names like america, baby, man, lake  etc which may have occured due to noise in census data of various countries
+Code along with detailed instructions to evaluate a LLM on CALM dataset can be found in `evaluation` folder.
+
+Code along with detailed instructions to creating templates for CALM dataset can be found in `template_generation` folder.
