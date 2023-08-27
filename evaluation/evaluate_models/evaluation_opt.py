@@ -33,12 +33,12 @@ device = "cuda:0" if torch.cuda.is_available() else "cpu"
 ##Initializing in_context examples
 prompt_generator = PromptGenerator(args.num_examples)
 
-qa_gender_ds = load_dataset("vipulgupta/CALMB", "qa_gender", split='test')
-qa_race_ds = load_dataset("vipulgupta/CALMB", "qa_race", split='test')
-nli_gender_ds = load_dataset("vipulgupta/CALMB", "nli_gender", split='test')
-nli_race_ds = load_dataset("vipulgupta/CALMB", "nli_race", split='test')
-sentiment_gender_ds = load_dataset("vipulgupta/CALMB", "sentiment_gender", split='test')
-sentiment_race_ds = load_dataset("vipulgupta/CALMB", "sentiment_race", split='test')
+qa_gender_ds = load_dataset("vipulgupta/CALM", "qa_gender", split='test')
+qa_race_ds = load_dataset("vipulgupta/CALM", "qa_race", split='test')
+nli_gender_ds = load_dataset("vipulgupta/CALM", "nli_gender", split='test')
+nli_race_ds = load_dataset("vipulgupta/CALM", "nli_race", split='test')
+sentiment_gender_ds = load_dataset("vipulgupta/CALM", "sentiment_gender", split='test')
+sentiment_race_ds = load_dataset("vipulgupta/CALM", "sentiment_race", split='test')
 
 tokenizer = AutoTokenizer.from_pretrained(NAME_MODEL, truncation_side="left", use_fast=True)
 tokenizer.padding_side = "left"
