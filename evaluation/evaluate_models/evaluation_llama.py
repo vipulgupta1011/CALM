@@ -52,7 +52,6 @@ def save_result(dataset, out_file, batch_size) :
     for idx_batch in tqdm(idx_batches):
         batch = dataset.select(idx_batch)
         texts = [prompt_generator.prepare_prompt(sample) for sample in batch]
-        pdb.set_trace()
         tokens = tokenizer(
             texts,
             return_tensors="pt",
@@ -61,6 +60,7 @@ def save_result(dataset, out_file, batch_size) :
             padding=True,
             add_special_tokens=False,
         ).to(device)
+        #pdb.set_trace()
         generated_tokens_org = model.generate(
             tokens.input_ids,
             num_beams=NUM_BEAMS,
@@ -68,6 +68,7 @@ def save_result(dataset, out_file, batch_size) :
         )
         generated_tokens = generated_tokens_org[:, tokens.input_ids.shape[1]:]  # We truncate the original prompts from the generated texts
         generated_texts = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
+        #pdb.set_trace()
         #print ('output : ', generated_texts)
         all_generated_answers.append(generated_texts)
 
@@ -79,7 +80,7 @@ def save_result(dataset, out_file, batch_size) :
 
 
 if not os.path.exists('../results'):
-    os.makedir('../results')
+    os.mkdir('../results')
 
 file_name = args.model.split('/')[1]
 

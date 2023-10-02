@@ -67,6 +67,7 @@ def save_result(dataset, out_file, batch_size) :
             max_new_tokens=MAX_NEW_TOKENS,
             eos_token_id=tokenizer.eos_token_id
         )
+        pdb.set_trace()
         generated_tokens = generated_tokens_org[:, tokens.input_ids.shape[1]:]  # We truncate the original prompts from the generated texts
         generated_texts = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
         #print ('output : ', generated_texts)
@@ -79,12 +80,12 @@ def save_result(dataset, out_file, batch_size) :
             json.dump(all_generated_answers,f,indent=4)
 
 if not os.path.exists('../results'):
-    os.makedir('../results')
+    os.mkdir('../results')
 
 file_name = args.model.split('/')[1]
 
-save_result(qa_gender_ds,'../results/' + file_name + '-qa_gender.json', int(BATCH_SIZE / 2))
-save_result(qa_race_ds,'../results/' + file_name + '-qa_race.json', int(BATCH_SIZE / 2))
+#save_result(qa_gender_ds,'../results/' + file_name + '-qa_gender.json', int(BATCH_SIZE / 2))
+#save_result(qa_race_ds,'../results/' + file_name + '-qa_race.json', int(BATCH_SIZE / 2))
 save_result(nli_gender_ds,'../results/' + file_name + '-nli_gender.json', BATCH_SIZE)
 save_result(nli_race_ds,'../results/' + file_name +  '-nli_race.json', BATCH_SIZE)
 save_result(sentiment_gender_ds,'../results/' + file_name +'-sentiment_gender.json', BATCH_SIZE)

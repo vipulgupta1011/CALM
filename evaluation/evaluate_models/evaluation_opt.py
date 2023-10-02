@@ -79,7 +79,7 @@ def save_result(dataset, out_file, batch_size) :
             json.dump(all_generated_answers,f,indent=4)
 
 if not os.path.exists('../results'):
-    os.makedir('../results')
+    os.mkdir('../results')
 
 file_name = args.model.split('/')[1]
 
